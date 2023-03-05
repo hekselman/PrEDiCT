@@ -1,0 +1,16 @@
+cd4-positive alpha-beta t cell
+cd8-positive alpha-beta t cell
+cd24 neutrophil
+erythrocyte
+erythroid progenitor
+granulocyte
+hematopoietic stem cell
+macrophage
+memory b cell
+monocyte
+myeloid progenitor
+naive b cell
+nampt neutrophil
+neutrophil
+nk cell
+plasma cell

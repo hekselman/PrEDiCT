@@ -1,0 +1,53 @@
+Disease accession (OMIM)	Disease name (OMIM)	Gene accession (OMIM)	Gene symbol (OMIM)	Mouse ortholog (MGI)	"Known molecular basis (1=Yes, 0=No)"	"Germline aberrations (1=Yes, 0=No)"	Phenotypic series accession (OMIM)	Phenotypic series name (OMIM)	"Expressed in human tissue (1=Yes, 0=No)"	"Expressed in mouse tissue (1=Yes, 0=No)"	Inflicted (ODiseA)	Human affected cell types	Mouse similar affected cell types
+101200	Apert Syndrome	176943	FGFR2	Fgfr2	1	1			1	1	Yes	['serous.cell.of.epithelium.of.trachea']	
+101600	Pfeiffer Syndrome	136350	FGFR1	Fgfr1	1	1			1	1	Yes		
+101600	Pfeiffer Syndrome	176943	FGFR2	Fgfr2	1	1			1	1	Yes		
+114290	Campomelic Dysplasia	608160	SOX9	Sox9	1	1			1	1	Yes	['serous.cell.of.epithelium.of.trachea']	
+117650	Cerebrocostomandibular Syndrome	182282	SNRPB	Snrpb	1	1			1	1	Yes	['double.positive..alpha.beta.thymocyte']	
+139210	Myhre Syndrome	600993	SMAD4	Smad4	1	1			1	1	Yes		
+145410	"Opitz Gbbb Syndrome, Autosomal Dominant"	614140	SPECC1L	Specc1l	1	1	PS300000	Opitz GBBB syndrome	1	1	Yes	['double.positive..alpha.beta.thymocyte']	
+150250	"Larsen Syndrome, Autosomal Dominant"	603381	FLNB	Flnb	1	1			1	1	Yes	['endothelial.cell']	['vein.endothelial.cell']
+156550	Kniest Dysplasia	120140	COL2A1	Col2a1	1	1	PS184255	Spondylometaphyseal dysplasia	0	1	Yes		
+164280	Feingold Syndrome	164840	MYCN	Mycn	1	1	PS164280	Feingold syndrome	0	0			
+202650	Agnathia-otocephaly Complex	167420	PRRX1	Prrx1	1	1			1	1	Yes	"['connective.tissue.cell', 'fibroblast']"	"['fibroblast.2', 'chondrocyte']"
+212720	Martsolf Syndrome	609275	RAB3GAP2	Rab3gap2	1	1			1	1	Yes	['ionocyte']	
+214800	Charge Syndrome	608166	SEMA3E	Sema3e	1	1			1	1	Yes		
+214800	Charge Syndrome	608892	CHD7	Chd7	1	1			1	1	Yes		
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	600024	LBR	Lbr	1	1			1	1	Yes	['neutrophil']	
+218040	Costello Syndrome	190020	HRAS	Hras	1	1			1	0			
+222600	Diastrophic Dysplasia	606718	SLC26A2	Slc26a2	1	1			1	1	Yes	"['goblet.cell', 'mast.cell']"	
+227646	"Fanconi Anemia, Complementation Group D2"	613984	FANCD2	Fancd2	1	1	PS227650	Fanconi anemia	1	0			
+231050	Geleophysic Dysplasia	612277	ADAMTSL2	Adamtsl2	1	1	PS231050	Geleophysic dysplasia	1	0		['connective.tissue.cell']	['fibroblast.2']
+236680	Hydrolethalus Syndrome 1	610693	HYLS1	Hyls1	1	1	PS236680	Hydrolethalus syndrome	0	0			
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	601089	FOXF1	Foxf1	1	1			1	0			
+271510	"Spondyloepimetaphyseal Dysplasia, Sponastrime Type"	604546	TONSL	Tonsl	1	1			0	0			
+271665	"Spondylometaepiphyseal Dysplasia, Short Limb-hand Type"	191311	DDR2	Ddr2	1	1			1	1	Yes	"['connective.tissue.cell', 'fibroblast']"	"['fibroblast.2', 'fibroblast.1']"
+300373	Osteopathia Striata With Cranial Sclerosis	300647	AMER1	Amer1	1	1			0	0			
+300514	"Fanconi Anemia, Complementation Group B"	300515	FANCB	Fancb	1	1	PS227650	Fanconi anemia	0	0			
+302960	"Chondrodysplasia Punctata 2, X-linked Dominant"	300205	EBP	Ebp	1	1			1	1	Yes	['ionocyte']	
+309900	Mucopolysaccharidosis Type Ii	300823	IDS	Ids	1	1	PS607014	Mucopolysaccharidoses	1	1	Yes	['double.positive..alpha.beta.thymocyte']	
+314390	"Vacterl Association With Hydrocephalus, X-linked"	300265	ZIC3	Zic3	1	1			0	0			
+601390	Van Maldergem Syndrome 1	603057	DCHS1	Dchs1	1	1	PS601390	Van Maldergem syndrome	1	1	Yes	"['connective.tissue.cell', 'endothelial.cell']"	['endothelial.cell.of.artery']
+607015	Hurler-scheie Syndrome	252800	IDUA	Idua	1	1	PS607014	Mucopolysaccharidoses	1	0		['double.positive..alpha.beta.thymocyte']	
+608022	Diaphanospondylodysostosis	608699	BMPER	Bmper	1	1			1	1	Yes	['fibroblast']	['chondrocyte']
+610253	Kleefstra Syndrome	607001	EHMT1	Ehmt1	1	1	PS156200	"Mental retardation, autosomal dominant"	1	1	NA		
+610253	Kleefstra Syndrome	607001	EHMT1	Ehmt1	1	1	PS610253	Kleefstra syndrome	1	1	NA		
+612561	Diamond-blackfan Anemia 6	603634	RPL5	Rpl5	1	1	PS105650	Diamond-Blackfan anemia	1	1	No		
+613177	"Cutis Laxa With Severe Pulmonary, Gastrointestinal, And Urinary Abnormalities"	604710	LTBP4	Ltbp4	1	1	PS123700	Cutis laxa	1	1	Yes	"['connective.tissue.cell', 'fibroblast']"	
+613800	Meier-gorlin Syndrome 2	603056	ORC4	Orc4	1	1	PS224690	Meier-Gorlin syndrome	1	1	Yes		
+613803	Meier-gorlin Syndrome 3	607213	ORC6	Orc6	1	1	PS224690	Meier-Gorlin syndrome	1	1	Yes		
+614083	"Fanconi Anemia, Complementation Group L"	608111	FANCL	Fancl	1	1	PS227650	Fanconi anemia	1	0			
+615490	"Charcot-marie-tooth Disease, Axonal, Type 2r"	614141	TRIM2	Trim2	1	1	PS118220	Charcot-Marie-Tooth disease	1	1	Yes		
+615546	Van Maldergem Syndrome 2	612411	FAT4	Fat4	1	1	PS601390	Van Maldergem syndrome	1	1	Yes	"['connective.tissue.cell', 'endothelial.cell']"	['endothelial.cell.of.artery']
+616368	Chops Syndrome	604417	AFF4	Aff4	1	1			1	1	Yes	['mucus.secreting.cell']	
+616835	Meier-gorlin Syndrome 6	602842	GMNN	Gmnn	1	1	PS224690	Meier-Gorlin syndrome	1	1	Yes		
+616875	"Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation"	616846	EMC1	Emc1	1	1			1	0			
+617137	Frontometaphyseal Dysplasia 2	602614	MAP3K7		1	1	PS305620	Frontometaphyseal dysplasia	1	0			
+617180	Chitayat Syndrome	611888	ERF	Erf	1	1			1	1	Yes	"['endothelial.cell', 'smooth.muscle.cell']"	
+617660	"Vertebral, Cardiac, Renal, And Limb Defects Syndrome 1"	604521	HAAO	Haao	1	1	PS617660	"Vertebral, cardiac, renal, and limb defects syndrome"	1	1	Yes	"['connective.tissue.cell', 'smooth.muscle.cell']"	
+617667	Fraser Syndrome 3	604597	GRIP1	Grip1	1	1	PS219000	Fraser syndrome	1	0			
+617809	Geleophysic Dysplasia 3	602090	LTBP3	Ltbp3	1	1	PS231050	Geleophysic dysplasia	1	1	Yes	['connective.tissue.cell']	['fibroblast.2']
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	603015	TRRAP	Trrap	1	1			1	1	Yes	['ionocyte']	
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	142600	HK1	Hk1	1	1			1	1	Yes	['double.positive..alpha.beta.thymocyte']	
+618797	"Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation"	608884	RALGAPA1	Ralgapa1	1	1			1	1	NA		
+619083	Delpire-mcneill Syndrome	600840	SLC12A2	Slc12a2	1	1			1	1	Yes	"['goblet.cell', 'ionocyte']"	['glandular.epithelial.cell']

@@ -1,0 +1,160 @@
+Disease accession (OMIM)	Disease name (OMIM)	Gene accession (OMIM)	Gene symbol (OMIM)	Mouse ortholog (MGI)	"Known molecular basis (1=Yes, 0=No)"	"Germline aberrations (1=Yes, 0=No)"	Phenotypic series accession (OMIM)	Phenotypic series name (OMIM)	"Expressed in human tissue (1=Yes, 0=No)"	"Expressed in mouse tissue (1=Yes, 0=No)"	Inflicted (ODiseA)	Human affected cell types	Mouse similar affected cell types
+105830	Angelman Syndrome	601623	UBE3A	Ube3a	1	1			1	1			
+117650	Cerebrocostomandibular Syndrome	182282	SNRPB	Snrpb	1	1			1	1		['epithelial.cell']	['mesenchymal.stem.cell']
+130650	Beckwith-wiedemann Syndrome	616186	ICR1		1	1			0	0			
+130650	Beckwith-wiedemann Syndrome	604115	KCNQ1OT1		1	1			1	0			
+130650	Beckwith-wiedemann Syndrome	600856	CDKN1C		1	1			1	0			
+146510	Pallister-hall Syndrome 1	165240	GLI3	Gli3	1	1			1	0			
+148210	"Keratitis-ichthyosis-deafness Syndrome, Autosomal Dominant"	121011	GJB2	Gjb2	1	1	PS148210	Keratitis-ichthyosis-deafness syndrome	1	1		['keratinocyte']	['keratinocyte.1']
+151050	Lenz-majewski Hyperostotic Dwarfism	612792	PTDSS1	Ptdss1	1	1			1	1		['schwann.cell']	
+158350	Cowden Disease	601728	PTEN	Pten	1	1	PS158350	Cowden disease	1	1			
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	613468	ASAH1	Asah1	1	1			1	1		['pericyte.cell']	
+174300	Orofaciodigital Syndrome V	615464	DDX59	Ddx59	1	1	PS311200	Orofaciodigital syndrome	1	0			
+180700	"Robinow Syndrome, Autosomal Dominant"	164975	WNT5A	Wnt5a	1	1	PS268310	Robinow syndrome	1	1		['fibroblast']	
+187300	"Telangiectasia, Hereditary Hemorrhagic, Type 1"	131195	ENG	Eng	1	1	PS187300	"Telangiectasia, hereditary hemorrhagic"	1	0			
+201100	"Acrodermatitis Enteropathica, Zinc-deficiency Type"	607059	SLC39A4	Slc39a4	1	1			1	0			
+201300	"Neuropathy, Hereditary Sensory And Autonomic, Type Ii"	605232	WNK1	Wnk1	1	1	PS162400	Hereditary sensory and autonomic neuropathy	1	1		['endothelial.cell.of.artery']	
+202650	Agnathia-otocephaly Complex	167420	PRRX1	Prrx1	1	1			1	0			
+205100	"Amyotrophic Lateral Sclerosis 2, Juvenile"	606352	ALS2	Als2	1	1	PS105400	Amyotrophic lateral sclerosis	1	0			
+208400	Aspartylglucosaminuria	613228	AGA	Aga	1	1			1	1			
+211530	"Bulbar Palsy, Progressive, With Sensorineural Deafness"	613350	SLC52A3	Slc52a3	1	1	PS211530	Brown-Vialetto-Van Laere syndrome	0	1			
+212066	"Congenital Disorder Of Glycosylation, Type Iia"	602616	MGAT2	Mgat2	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1			
+213300	Joubert Syndrome 1	613037	INPP5E	Inpp5e	1	1	PS213300	Joubert syndrome	0	0			
+214100	Zellweger Syndrome	602136	PEX1	Pex1	1	1	PS214100	Peroxisome biogenesis disorder	1	0		['endothelial.cell.of.lymphatic.vessel']	
+217085	"Congenital Heart Defects, Hamartomas Of Tongue, And Polysyndactyly"	613580	WDPCP	Wdpcp	1	1			0	0			
+218040	Costello Syndrome	190020	HRAS	Hras	1	1			1	0			
+218700	"Hypothyroidism, Congenital, Nongoitrous, 2"	167415	PAX8	Pax8	1	1	PS275200	"Hypothyroidism, congenital, nongoitrous"	0	0			
+219000	Fraser Syndrome	607830	FRAS1	Fras1	1	1	PS219000	Fraser syndrome	1	1		['basal.cell']	
+223900	"Neuropathy, Hereditary Sensory And Autonomic, Type Iii"	603722	ELP1	Elp1	1	1	PS162400	Hereditary sensory and autonomic neuropathy	1	0		['endothelial.cell.of.artery']	
+230000	Fucosidosis	612280	FUCA1	Fuca1	1	1			1	1			
+232300	Glycogen Storage Disease Ii	606800	GAA	Gaa	1	1			1	1		['schwann.cell']	
+234500	Hartnup Disorder	608893	SLC6A19	Slc6a19	1	1			0	0			
+241800	"Hypothalamic Hamartomascongenital Hypothalamic Hamartoma Syndrome, Included"	601500	SMO	Smo	1	1			0	1			
+242860	Immunodeficiency-centromeric Instability-facial Anomalies Syndrome1	602900	DNMT3B	Dnmt3b	1	1	PS242860	Immunodeficiency-centromeric instability-facial anomalies	0	0			
+248500	"Mannosidosis, Alpha B, Lysosomal"	609458	MAN2B1	Man2b1	1	1			0	1			
+249000	"Meckel Syndrome, Type 1"	609883	MKS1	Mks1	1	1	PS249000	Meckel syndrome	0	0			
+251900	"Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy"	614585	FDX2	Fdx2	1	1			1	0			
+252500	Mucolipidosis Ii Alpha/beta	607840	GNPTAB	Gnptab	1	1			1	0			
+253200	Mucopolysaccharidosis Type Vi	611542	ARSB	Arsb	1	1	PS607014	Mucopolysaccharidoses	1	1			
+253250	Mulibrey Nanism	605073	TRIM37	Trim37	1	1			1	1			
+253300	"Spinal Muscular Atrophy, Type I"	600354	SMN1	Smn1	1	1			0	1			
+253400	"Spinal Muscular Atrophy, Type Iii"	601627	SMN2	Smn1	1	1			0	1			
+253400	"Spinal Muscular Atrophy, Type Iii"	600354	SMN1	Smn1	1	1			0	1			
+253550	"Spinal Muscular Atrophy, Type Ii"	600354	SMN1	Smn1	1	1			0	1			
+254940	Carey-fineman-ziter Syndrome	615345	MYMK	Mymk	1	1			0	0			
+256040	Proteasome-associated Autoinflammatory Syndrome 1 And Digenic Forms	177046	PSMB8	Psmb8	1	1	PS256040	Proteosome-associated autoinflammatory syndrome	1	1			
+257980	Odontoonychodermal Dysplasia	606268	WNT10A	Wnt10a	1	1			1	1		['basal.cell']	
+258860	Orofaciodigital Syndrome Iv	613847	TCTN3	Tctn3	1	1	PS311200	Orofaciodigital syndrome	1	0			
+259775	Raine Syndrome	611061	FAM20C	Fam20c	1	1			1	1		['fibroblast']	
+260660	Pelviscapular Dysplasia	604127	TBX15	Tbx15	1	1			1	0			
+261740	"Glycogen Storage Disease Of Heart, Lethal Congenital"	602743	PRKAG2	Prkag2	1	1			1	1			
+263520	Short-rib Thoracic Dysplasia 6 With Or Without Polydactyly	604588	NEK1	Nek1	1	1	PS208500	Short-rib thoracic dysplasia	1	0			
+266920	Short-rib Thoracic Dysplasia 9 With Or Without Polydactyly	614620	IFT140	Ift140	1	1	PS208500	Short-rib thoracic dysplasia	0	0			
+268310	"Robinow Syndrome, Autosomal Recessive"	602337	ROR2	Ror2	1	1	PS268310	Robinow syndrome	1	0		['fibroblast']	
+268800	Sandhoff Disease	606873	HEXB	Hexb	1	1			1	1			
+269150	Schinzel-giedion Midface-retraction Syndrome	611060	SETBP1	Setbp1	1	1			1	1		['pericyte.cell']	
+270400	Smith-lemli-opitz Syndrome	602858	DHCR7	Dhcr7	1	1			1	1		['keratinocyte']	
+271150	"Spinal Muscular Atrophy, Type Iv"	600354	SMN1	Smn1	1	1			0	1			
+274400	"Thyroid Hormonogenesis, Genetic Defect In, 1"	601843	SLC5A5	Slc5a5	1	1			0	0			
+275100	"Hypothyroidism, Congenital, Nongoitrous, 4"	188540	TSHB	Tshb	1	1	PS275200	"Hypothyroidism, congenital, nongoitrous"	0	0			
+277170	Varadi-papp Syndrome	614571	CPLANE1	Cplane1	1	1	PS311200	Orofaciodigital syndrome	1	0			
+277380	"Methylmalonic Aciduria And Homocystinuria, Cblf Type"	612625	LMBRD1	Lmbrd1	1	1			1	1			
+300354	"Mental Retardation, X-linked, Syndromic, Cabezas Type"	300304	CUL4B	Cul4b	1	1	PS309510	"Mental retardation, X-linked syndromic"	1	0		['endothelial.cell.of.artery']	
+300534	"Mental Retardation, X-linked, Syndromic, Claes-jensen Type"	314690	KDM5C	Kdm5c	1	1	PS309510	"Mental retardation, X-linked syndromic"	1	1		['endothelial.cell.of.artery']	
+300963	Ritscher-schinzel Syndrome 2	300859	CCDC22	Ccdc22	1	1	PS220210	Ritscher-Schinzel syndrome	1	1		['tongue.muscle.cell']	
+301040	"Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked"	300032	ATRX	Atrx	1	1			1	1			
+301830	"Spinal Muscular Atrophy, X-linked 2"	314370	UBA1	Uba1	1	1			1	1		['schwann.cell']	
+303400	"Cleft Palate, X-linked"	300307	TBX22	Tbx22	1	1			0	0			
+309580	"Mental Retardation-hypotonic Facies Syndrome, X-linked, 1"	300032	ATRX	Atrx	1	1			1	1			
+309900	Mucopolysaccharidosis Type Ii	300823	IDS	Ids	1	1	PS607014	Mucopolysaccharidoses	1	1			
+311200	Orofaciodigital Syndrome I	300170	OFD1	Ofd1	1	1	PS311200	Orofaciodigital syndrome	1	0			
+311900	Tarp Syndrome	300080	RBM10	Rbm10	1	1			1	1		['vein.endothelial.cell']	
+312870	"Simpson-golabi-behmel Syndrome, Type 1"	300037	GPC3	Gpc3	1	1			1	1		['fibroblast']	
+600376	Osler-rendu-weber Syndrome 2	601284	ACVRL1	Acvrl1	1	1	PS187300	"Telangiectasia, hereditary hemorrhagic"	1	0			
+601559	Stuve-wiedemann Syndrome	151443	LIFR	Lifr	1	1			1	0			
+601596	"Charcot-marie-tooth Disease, Type 4c"	608206	SH3TC2	Sh3tc2	1	1	PS118220	Charcot-Marie-Tooth disease	0	0			
+602361	Gracile Bone Dysplasia	615292	FAM111A	Fam111a	1	1			1	1			
+602483	Auriculocondylar Syndrome 1	139370	GNAI3	Gnai3	1	1	PS602483	Auriculocondylar syndrome	1	1			
+602535	Marshall-smith Syndrome	164005	NFIX	Nfix	1	1			1	1		['fibroblast']	
+606353	"Primary Lateral Sclerosis, Juvenile"	606352	ALS2	Als2	1	1			1	0			
+606612	Muscular Dystrophy-dystroglycanopathy (congenital With Or Without	606596	FKRP	Fkrp	1	1	PS613155	"Muscular dystrophy-dystroglycanopathy, type B"	1	1			
+606744	Seckel Syndrome 2	604124	RBBP8	Rbbp8	1	1	PS210600	Seckel syndrome	1	1			
+607155	"Muscular Dystrophy-dystroglycanopathy (limb-girdle), Type C, 5"	606596	FKRP	Fkrp	1	1	PS253600	"Muscular dystrophy, limb-girdle, autosomal recessive"	1	1			
+607155	"Muscular Dystrophy-dystroglycanopathy (limb-girdle), Type C, 5"	606596	FKRP	Fkrp	1	1	PS609308	"Muscular dystrophy-dystroglycanopathy, type C"	1	1			
+607932	"Microphthalmia, Syndromic 6"	112262	BMP4	Bmp4	1	1	PS309800	"Microphthalmia, syndromic"	1	1		['vein.endothelial.cell']	
+608779	"Congenital Disorder Of Glycosylation, Type Iie"	606978	COG7	Cog7	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	0			
+608800	Sudden Infant Death With Dysgenesis Of The Testes Syndrome	604714	TSPYL1	Tspyl1	1	1			1	1			
+608840	"Muscular Dystrophy, Congenital, Type 1d"	603590	LARGE1	Large1	1	1	PS613155	"Muscular dystrophy-dystroglycanopathy, type B"	1	0			
+610253	Kleefstra Syndrome	607001	EHMT1	Ehmt1	1	1	PS156200	"Mental retardation, autosomal dominant"	1	1			
+610253	Kleefstra Syndrome	607001	EHMT1	Ehmt1	1	1	PS610253	Kleefstra syndrome	1	1			
+612289	Fontaine Progeroid Syndrome	608744	SLC25A24	Slc25a24	1	1			1	0			
+612938	"Growth Retardation, Developmental Delay, Coarse Facies, And Early"	610966	FTO	Fto	1	1			1	1			
+613038	"Pituitary Hormone Deficiency, Combined, 1"	173110	POU1F1	Pou1f1	1	1	PS613038	"Pituitary hormone deficiency, combined"	0	0			
+613091	Short-rib Thoracic Dysplasia 3 With Or Without Polydactyly	603297	DYNC2H1	Dync2h1	1	1	PS208500	Short-rib thoracic dysplasia	1	0			
+613150	"Muscular Dystrophy-dystroglycanopathy (congenital With Brain And Eyeanomalies), Type A, 2"	607439	POMT2	Pomt2	1	1	PS236670	"Muscular dystrophy-dystroglycanopathy, type A"	0	0			
+613155	"Muscular Dystrophy-dystroglycanopathy (congenital With Mental Retardation),type B, 1"	607423	POMT1	Pomt1	1	1	PS613155	"Muscular dystrophy-dystroglycanopathy, type B"	0	0			
+613156	"Muscular Dystrophy-dystroglycanopathy (congenital With Mental Retardation),type B, 2"	607439	POMT2	Pomt2	1	1	PS613155	"Muscular dystrophy-dystroglycanopathy, type B"	0	0			
+613435	Amyotrophic Lateral Sclerosis 12	602432	OPTN	Optn	1	1	PS105400	Amyotrophic lateral sclerosis	1	0			
+613630	Cocoon Syndrome	600664	CHUK	Chuk	1	1			0	1			
+614153	Spinocerebellar Ataxia 36	614154	NOP56	Nop56	1	1	PS164400	Spinocerebellar ataxia	1	1			
+614204	"Psoriasis 14, Pustular"	605507	IL36RN	Il36rn	1	1	PS177900	Psoriasis	0	0			
+614325	Pitt-hopkins-like Syndrome 2	600565	NRXN1	Nrxn1	1	1			1	1		['schwann.cell']	
+614450	"Hypothyroidism, Congenital, Nongoitrous, 6"	190120	THRA	Thra	1	1	PS275200	"Hypothyroidism, congenital, nongoitrous"	1	1			
+614501	"Psychomotor Retardation, Epilepsy, And Craniofacial Dysmorphism"	608241	SNIP1	Snip1	1	1			1	0			
+614607	Coffin-siris Syndrome 2	603024	ARID1A	Arid1a	1	1	PS135900	Coffin-Siris syndrome	1	1			
+614607	Coffin-siris Syndrome 2	603024	ARID1A	Arid1a	1	1	PS156200	"Mental retardation, autosomal dominant"	1	1			
+614608	Coffin-siris Syndrome 3	601607	SMARCB1	Smarcb1	1	1	PS135900	Coffin-Siris syndrome	1	1			
+614608	Coffin-siris Syndrome 3	601607	SMARCB1	Smarcb1	1	1	PS156200	"Mental retardation, autosomal dominant"	1	1			
+614609	Coffin-siris Syndrome 4	603254	SMARCA4	Smarca4	1	1	PS135900	Coffin-Siris syndrome	1	1			
+614609	Coffin-siris Syndrome 4	603254	SMARCA4	Smarca4	1	1	PS156200	"Mental retardation, autosomal dominant"	1	1			
+614669	Auriculocondylar Syndrome 2	600810	PLCB4	Plcb4	1	1	PS602483	Auriculocondylar syndrome	1	0			
+614678	"Pontocerebellar Hypoplasia, Type 1b"	606489	EXOSC3	Exosc3	1	1	PS607596	Pontocerebellar hypoplasia	1	1		['schwann.cell']	
+614707	Brown-vialetto-van Laere Syndrome 2	607882	SLC52A2	Slc52a2	1	1	PS211530	Brown-Vialetto-Van Laere syndrome	1	0			
+614876	Peroxisome Biogenesis Disorder 8a (zellweger)	603360	PEX16	Pex16	1	1	PS214100	Peroxisome biogenesis disorder	1	1		['endothelial.cell.of.lymphatic.vessel']	
+614922	Combined Oxidative Phosphorylation Deficiency 11	614917	RMND1	Rmnd1	1	1	PS609060	Combined oxidative phosphorylation deficiency	1	0			
+615065	"Arthrogryposis, Distal, Type 5d"	605896	ECEL1	Ecel1	1	1	PS108120	"Arthrogryposis, distal"	0	0			
+615108	Cowden Syndrome 5	171834	PIK3CA	Pik3ca	1	1	PS158350	Cowden disease	1	1			
+615109	Cowden Syndrome 6	164730	AKT1	Akt1	1	1	PS158350	Cowden disease	1	1			
+615527	"Candidiasis, Familial, 8"	607043	TRAF3IP2	Traf3ip2	1	1	PS114580	Familial candidiasis	1	1			
+615706	Auriculocondylar Syndrome 3	131240	EDN1	Edn1	1	1	PS602483	Auriculocondylar syndrome	1	1			
+615726	Pachyonychia Congenita 3	148041	KRT6A		1	1	PS167200	Pachyonychia congenita	1	0			
+615809	"Pontocerebellar Hypoplasia, Type 9"	102771	AMPD2	Ampd2	1	1	PS607596	Pontocerebellar hypoplasia	1	0		['schwann.cell']	
+615948	Orofaciodigital Syndrome Xiv	615944	C2CD3	C2cd3	1	1	PS311200	Orofaciodigital syndrome	1	0			
+616025	Hyperphosphatasia With Mental Retardation Syndrome 5	610275	PIGW	Pigw	1	1	PS239300	Hyperphosphatasia with mental retardation syndrome	1	0			
+616052	"Muscular Dystrophy-dystroglycanopathy (limb-girdle), Type C, 7"	614631	CRPPA	Crppa	1	1	PS253600	"Muscular dystrophy, limb-girdle, autosomal recessive"	0	0			
+616052	"Muscular Dystrophy-dystroglycanopathy (limb-girdle), Type C, 7"	614631	CRPPA	Crppa	1	1	PS609308	"Muscular dystrophy-dystroglycanopathy, type C"	0	0			
+616145	Catel-manzke Syndrome	616146	TGDS	Tgds	1	1			0	0			
+616260	Tenorio Syndrome	610432	RNF125		1	1			1	0			
+616300	Short-rib Thoracic Dysplasia 13 With Or Without Polydactyly	613446	CEP120	Cep120	1	1	PS208500	Short-rib thoracic dysplasia	1	0			
+616354	"Spinocerebellar Ataxia, Autosomal Recessive 20"	616105	SNX14	Snx14	1	1	PS213200	"Spinocerebellar ataxia, autosomal recessive"	1	1		['endothelial.cell.of.artery']	
+616367	Mandibulofacial Dysostosis With Alopecia	131243	EDNRA	Ednra	1	1			1	0			
+616455	Zimmermann-laband Syndrome 2	606939	ATP6V1B2	Atp6v1b2	1	1	PS135500	Zimmermann-Laband syndrome	1	1		['fibroblast']	
+616540	"Epilepsy, Progressive Myoclonic, 9"	150341	LMNB2	Lmnb2	1	1	PS254800	"Epilepsy, progressive myoclonic"	1	1		['schwann.cell']	
+616789	Mental Retardation And Distinctive Facial Features With Or Without Cardiac Defects	608771	MED13L	Med13l	1	1			1	1			
+616827	"Muscular Dystrophy, Limb-girdle, Type 2w"	607908	LIMS2	Lims2	1	1	PS253600	"Muscular dystrophy, limb-girdle, autosomal recessive"	1	0			
+616894	"Robinow Syndrome, Autosomal Dominant 3"	601368	DVL3	Dvl3	1	1	PS268310	Robinow syndrome	1	0		['fibroblast']	
+616900	"Hypotonia, Infantile, With Psychomotor Retardation And Characteristic Facies 3"	616899	TBCK	Tbck	1	1	PS615419	"Hypotonia, infantile, with psychomotor retardation and characteristic facies"	1	0			
+616975	"Neurodevelopmental Disorder With Or Without Anomalies Of The Brain, Eye, Or Heart"	605226	RERE	Rere	1	1			1	1			
+617107	Thauvin-robinet-faivre Syndrome	608296	FIBP	Fibp	1	1			1	1			
+617127	Orofaciodigital Syndrome Xv	617112	KIAA0753	4933427D14Rik	1	1	PS311200	Orofaciodigital syndrome	0	0			
+617193	"Encephalopathy, Progressive, Early-onset, With Brain Atrophy And Thin Corpus Callosum"	604649	TBCD	Tbcd	1	1			1	1		['capillary.endothelial.cell']	
+617303	Mucopolysaccharidosis-plus Syndrome	610034	VPS33A	Vps33a	1	1			1	1			
+617396	Anauxetic Dysplasia 2	602486	POP1	Pop1	1	1	PS607095	Anauxetic dysplasia	1	0			
+617563	Orofaciodigital Syndrome Xvi	616183	TMEM107	Tmem107	1	1	PS311200	Orofaciodigital syndrome	1	1			
+617925	Short-rib Throacic Dysplasia 20 With Polydactyly	610621	INTU	Intu	1	1	PS208500	Short-rib thoracic dysplasia	1	0			
+618021	Tetraamelia Syndrome 2	610575	RSPO2	Rspo2	1	1			0	0			
+618143	Glycosylphosphatidylinositol Biosynthesis Defect 18	610271	PIGS	Pigs	1	1			1	1		['endothelial.cell.of.artery']	
+618170	"Neurodegeneration, Childhood-onset, Stress-induced, With Variable Ataxia And Seizures"	610624	ADPRS	Adprs	1	1			0	0			
+618268	Trichohepatoneurodevelopmental Syndrome	618260	CCDC47	Ccdc47	1	1			1	1		['endothelial.cell.of.lymphatic.vessel']	
+618276	"Neurodegeneration, Childhood-onset, With Cerebellar Atrophy"	606830	AGTPBP1	Agtpbp1	1	1			1	0			
+618356	Neurodevelopmental Disorder With Central And Peripheral Motor Dysfunction	609145	NFASC	Nfasc	1	1			1	0			
+618440	Oculoskeletodental Syndrome	603601	PIK3C2A	Pik3c2a	1	1			1	1		['vein.endothelial.cell']	
+618523	"Hyper-ige Recurrent Infection Syndrome 4, Autosomal Recessive"	600694	IL6ST	Il6st	1	1	PS147060	Hyper-IgE recurrent infection syndrome	1	0			
+618580	"Epileptic Encephalopathy, Early Infantile, 80"	604122	PIGB	Pigb	1	1	PS308350	Developmental and epileptic encephalopathy	0	0			
+618729	Liang-wang Syndrome	600150	KCNMA1	Kcnma1	1	1			1	0			
+618732	Poirier-bienvenu Neurodevelopmental Syndrome	115441	CSNK2B	Csnk2b	1	1			1	1			
+618797	"Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation"	608884	RALGAPA1	Ralgapa1	1	1			1	1			
+618811	Mitochondrial Dna Depletion Syndrome 18	607571	SLC25A21	Slc25a21	1	1	PS603041	Mitochondrial DNA depletion syndrome	0	0			
+618822	"Myopathy, Congenital, With Respiratory Insufficiency And Bone Fractures"	600819	FXR1	Fxr1	1	1			1	1			
+618823	"Myopathy, Congenital Proximal, With Minicore Lesions"	600819	FXR1	Fxr1	1	1			1	1			
+618849	Bone Marrow Failure Syndrome 6	602704	MDM4	Mdm4	1	1	PS614675	Bone marrow failure syndrome	1	0			

@@ -1,0 +1,24 @@
+cd1c-positive myeloid dendritic cell
+cd4-positive alpha-beta memory t cell
+cd8-positive alpha-beta memory t cell
+cd8-positive alpha-beta t cell
+cd141-positive myeloid dendritic cell
+classical monocyte
+endothelial cell
+erythrocyte
+hematopoietic stem cell
+innate lymphoid cell
+intermediate monocyte
+macrophage
+mature nk t cell
+memory b cell
+naive b cell
+naive thymus-derived cd4-positive alpha-beta t cell
+naive thymus-derived cd8-positive alpha-beta t cell
+neutrophil
+nk cell
+plasma cell
+plasmacytoid dendritic cell
+platelet
+regulatory t cell
+type i nk t cell

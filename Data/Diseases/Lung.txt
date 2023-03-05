@@ -1,0 +1,563 @@
+Disease accession (OMIM)	Disease name (OMIM)	Gene accession (OMIM)	Gene symbol (OMIM)	Mouse ortholog (MGI)	"Known molecular basis (1=Yes, 0=No)"	"Germline aberrations (1=Yes, 0=No)"	Phenotypic series accession (OMIM)	Phenotypic series name (OMIM)	"Expressed in human tissue (1=Yes, 0=No)"	"Expressed in mouse tissue (1=Yes, 0=No)"	Inflicted (ODiseA)	Human affected cell types	Mouse similar affected cell types
+100300	Adams-oliver Syndrome	610911	ARHGAP31	Arhgap31	1	1	PS100300	Adams-Oliver syndrome	1	1	No		
+102700	"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-negative,b Cell-negative, Nk Cell-negative, Due To Adenosine Deaminase Deficiency"	608958	ADA	Ada	1	1			1	1	Yes	['plasmacytoid.dendritic.cell']	
+108900	Atrial Septal Defect With Atrioventricular Conduction Defects	600584	NKX2-5	Nkx2-5	1	1	PS108800	Atrial septal defect	0	0			
+115197	"Cardiomyopathy, Familial Hypertrophic, 4"	600958	MYBPC3	Mybpc3	1	1	PS192600	"Cardiomyopathy, familial hypertrophic"	0	0			
+118450	Alagille Syndrome 1	601920	JAG1	Jag1	1	1	PS118450	Alagille syndrome	1	1	No		
+122470	Cornelia De Lange Syndrome 1	608667	NIPBL	Nipbl	1	1	PS122470	Cornelia de Lange syndrome	1	1	Yes	['neutrophil']	
+123700	"Cutis Laxa, Autosomal Dominant 1"	130160	ELN		1	1	PS123700	Cutis laxa	1	0		"['adventitial.cell', 'alveolar.fibroblast']"	
+127550	"Dyskeratosis Congenita, Autosomal Dominant"	602322	TERC		1	1	PS127550	Dyskeratosis congenita	0	0		['bronchial.vessel.endothelial.cell']	
+130000	"Ehlers-danlos Syndrome, Type I"	120215	COL5A1	Col5a1	1	1	PS130000	Ehlers-Danlos syndrome	1	1	No		
+130010	"Ehlers-danlos Syndrome, Classic Type, 2"	120190	COL5A2	Col5a2	1	1	PS130000	Ehlers-Danlos syndrome	1	1	No		
+130050	"Ehlers-danlos Syndrome, Vascular Type"	120180	COL3A1	Col3a1	1	1	PS130000	Ehlers-Danlos syndrome	1	1	Yes		
+134610	"Familial Mediterranean Fever, Ad"	608107	MEFV	Mefv	1	1			1	1	No		
+135150	Birt-hogg-dube Syndrome	607273	FLCN	Flcn	1	1			1	1	Yes	"['endothelial.cell.of.lymphatic.vessel', 'type.i.pneumocyte']"	
+135900	Coffin-siris Syndrome 1	614556	ARID1B	Arid1b	1	1	PS135900	Coffin-Siris syndrome	1	1	Yes	"['pericyte.cell', 'plasmacytoid.dendritic.cell']"	
+135900	Coffin-siris Syndrome 1	614556	ARID1B	Arid1b	1	1	PS156200	"Mental retardation, autosomal dominant"	1	1	Yes	"['pericyte.cell', 'plasmacytoid.dendritic.cell']"	
+137940	Hypotrichosis-lymphedema-telangiectasia-renal Defect Syndrome	601618	SOX18	Sox18	1	1			1	1	Yes	"['capillary.aerocyte', 'endothelial.cell.of.artery', 'lung.microvascular.endothelial.cell']"	['capillary.endothelial.cell']
+142680	"Periodic Fever, Familial, Autosomal Dominant"	191190	TNFRSF1A	Tnfrsf1a	1	1			1	1	No		
+145410	"Opitz Gbbb Syndrome, Autosomal Dominant"	614140	SPECC1L	Specc1l	1	1	PS300000	Opitz GBBB syndrome	1	1	Yes	"['myofibroblast.cell', 'plasmacytoid.dendritic.cell']"	
+146510	Pallister-hall Syndrome 1	165240	GLI3	Gli3	1	1			1	1	Yes	"['alveolar.fibroblast', 'fibroblast']"	['fibroblast.1']
+147060	Hyper-ige Recurrent Infection Syndrome	102582	STAT3	Stat3	1	1	PS147060	Hyper-IgE recurrent infection syndrome	1	1	Yes	['neutrophil']	
+147920	Kabuki Syndrome	602113	KMT2D	Kmt2d	1	1	PS147920	Kabuki syndrome	1	0			
+150550	"Periodic Fever, Immunodeficiency, And Thrombocytopenia Syndrome"	604734	WDR1	Wdr1	1	1			1	1	Yes	['bronchial.smooth.muscle.cell']	
+151623	Li-fraumeni Syndrome 1	191170	TP53	Trp53	1	1	PS151623	Li-Fraumeni syndrome	1	1	Yes		
+152700	Systemic Lupus Erythematosus	600716	PTPN22	Ptpn22	1	1			1	1	Yes		
+152700	Systemic Lupus Erythematosus	146790	FCGR2A	Fcgr3	1	1			1	1	Yes		
+152700	Systemic Lupus Erythematosus	604590	FCGR2B	Fcgr2b	1	1			1	1	Yes		
+152700	Systemic Lupus Erythematosus	123890	CTLA4	Ctla4	1	1			1	0	Yes		
+152700	Systemic Lupus Erythematosus	606609	TREX1	Trex1	1	1			0	1	Yes		
+152700	Systemic Lupus Erythematosus	125505	DNASE1	Dnase1	1	1			1	0	Yes		
+154700	Marfan Syndrome	134797	FBN1	Fbn1	1	1			1	1	Yes	"['adventitial.cell', 'fibroblast']"	['fibroblast.1']
+158310	"Mucoepithelial Dysplasia, Hereditary"	184756	SREBF1	Srebf1	1	1			1	1	Yes	"['myofibroblast.cell', 'pulmonary.ionocyte']"	
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	613468	ASAH1	Asah1	1	1			1	1	Yes	"['macrophage', 'neutrophil', 'non.classical.monocyte']"	
+167800	"Pancreatitis, Hereditary"	601405	CTRC	Ctrc	1	1			0	0	No		
+167800	"Pancreatitis, Hereditary"	167790	SPINK1	Spink1	1	1			0	0	No		
+167800	"Pancreatitis, Hereditary"	602421	CFTR	Cftr	1	1			1	1	No		
+167800	"Pancreatitis, Hereditary"	276000	PRSS1	Try10	1	1			0	0	No		
+167800	"Pancreatitis, Hereditary"	601564	PRSS2	Prss2	1	1			0	0	No		
+170100	Prolidase Deficiency	613230	PEPD	Pepd	1	1			1	1	Yes	['endothelial.cell.of.lymphatic.vessel']	
+173600	"Pneumothorax, Primary Spontaneous"	607273	FLCN	Flcn	1	1			1	1	Yes	"['endothelial.cell.of.lymphatic.vessel', 'type.i.pneumocyte']"	
+175050	Juvenile Polyposis/hereditary Hemorrhagic Telangiectasia Syndrome	600993	SMAD4	Smad4	1	1			1	1	Yes		
+176270	Prader-willi Syndrome	602117	NDN	Ndn	1	1			1	1	Yes	"['adventitial.cell', 'pericyte.cell', 'vascular.associated.smooth.muscle.cell']"	['pericyte.cell']
+176270	Prader-willi Syndrome	182279	SNRPN	Snrpn	1	1			1	0	Yes	"['adventitial.cell', 'pericyte.cell', 'vascular.associated.smooth.muscle.cell']"	['pericyte.cell']
+178500	"Pulmonary Fibrosis, Idiopathic"	178642	SFTPA2		1	1			1	0			
+178500	"Pulmonary Fibrosis, Idiopathic"	600770	MUC5B	Muc5b	1	1			1	0			
+178600	"Pulmonary Hypertension, Primary, 1"	600799	BMPR2	Bmpr2	1	1	PS178600	"Pulmonary hypertension, primary"	1	1	Yes	"['capillary.aerocyte', 'capillary.endothelial.cell', 'endothelial.cell.of.artery', 'vein.endothelial.cell']"	"['pulmonary.artery.endothelial.cell', 'capillary.endothelial.cell']"
+180295	"Rhabdomyosarcoma, Embryonal, 2"	606241	DICER1	Dicer1	1	1			1	1	No		
+180849	Rubinstein-taybi Syndrome 1	600140	CREBBP	Crebbp	1	1	PS180849	Rubinstein-Taybi syndrome	1	1	Yes	"['myofibroblast.cell', 'neutrophil', 'nk.cell']"	
+181000	"Sarcoidosis, Susceptibility To, 1"	142857	HLA-DRB1		1	1			1	0			
+182250	Singleton-merten Syndrome	606951	IFIH1	Ifih1	1	1	PS182250	Singleton-Merten syndrome	1	1	NA		
+184260	Osteochondrodysplasia	604505	TRIP11	Trip11	1	1			1	1	Yes	['myofibroblast.cell']	
+185500	Supravalvular Aortic Stenosis	130160	ELN		1	1			1	0			
+187300	"Telangiectasia, Hereditary Hemorrhagic, Type 1"	131195	ENG	Eng	1	1	PS187300	"Telangiectasia, hereditary hemorrhagic"	1	1	Yes	"['capillary.aerocyte', 'capillary.endothelial.cell', 'endothelial.cell.of.artery']"	['capillary.endothelial.cell']
+190350	"Trichorhinophalangeal Syndrome, Type I"	604386	TRPS1	Trps1	1	1	PS190350	Trichorhinophalangeal syndrome	1	1	NA		
+191100	Tuberous Sclerosis-1	605284	TSC1	Tsc1	1	1	PS191100	Tuberous sclerosis	1	1	Yes		
+191830	Renal Hypodysplasia/aplasia 1	604063	ITGA8	Itga8	1	1	PS191830	Renal hypodysplasia/aplasia	1	1	Yes	"['alveolar.fibroblast', 'bronchial.smooth.muscle.cell', 'fibroblast']"	['fibroblast']
+192430	Velocardiofacial Syndrome	602054	TBX1	Tbx1	1	1			1	1	Yes	['endothelial.cell.of.lymphatic.vessel']	
+193300	Von Hippel-lindau Syndrome	608537	VHL	Vhl	1	1			1	0	Yes	"['basal.cell', 'endothelial.cell.of.lymphatic.vessel']"	
+193300	Von Hippel-lindau Syndrome	168461	CCND1	Ccnd1	1	1			1	1	Yes	"['basal.cell', 'endothelial.cell.of.lymphatic.vessel']"	
+193670	Whim Syndrome	162643	CXCR4	Cxcr4	1	1			1	1	Yes	"['cd8.positive..alpha.beta.t.cell', 'cd4.positive..alpha.beta.t.cell', 'b.cell']"	
+193700	"Arthrogryposis, Distal, Type 2a"	160720	MYH3	Myh3	1	1	PS108120	"Arthrogryposis, distal"	0	0			
+203300	Hermansky-pudlak Syndrome	604982	HPS1	Hps1	1	1	PS203300	Hermansky-Pudlak syndrome	1	0	Yes		
+203800	Alstrom Syndrome	606844	ALMS1	Alms1	1	1			1	1	NA		
+208050	Arterial Tortuosity Syndrome	606145	SLC2A10	Slc2a10	1	1			1	1	No		
+208150	Fetal Akinesia Deformation Sequence	601296	MUSK	Musk	1	1	PS208150	Fetal akinesia deformation sequence	1	0			
+208400	Aspartylglucosaminuria	613228	AGA	Aga	1	1			1	1	NA		
+208530	Asplenia With Cardiovascular Anomalies	602880	GDF1	Gdf1	1	1			0	0			
+208540	Renal-hepatic-pancreatic Dysplasia	608002	NPHP3	Nphp3	1	1	PS208540	Renal-hepatic-pancreatic dysplasia	1	1	Yes	['fibroblast']	
+208900	Ataxia-telangiectasia	607585	ATM	Atm	1	1			1	1	Yes	['nk.cell']	
+209920	"Bare Lymphocyte Syndrome, Type Ii"	601863	RFX5		1	1			1	0	NA		
+209920	"Bare Lymphocyte Syndrome, Type Ii"	601861	RFXAP	Rfxap	1	1			1	1	NA		
+209920	"Bare Lymphocyte Syndrome, Type Ii"	600005	CIITA	Ciita	1	1			1	1	NA		
+209920	"Bare Lymphocyte Syndrome, Type Ii"	603200	RFXANK	Rfxank	1	1			1	1	NA		
+209950	"Immunodeficiency 27a, Mycobacteriosis, Ar"	107470	IFNGR1	Ifngr1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+210900	Bloom Syndrome	604610	BLM	Blm	1	1	PS210900	"Microcephaly, growth restriction and increased sister chromatid exchange"	1	0			
+211400	Bronchiectasis	602421	CFTR	Cftr	1	1	PS211400	Bronchiectasis	1	1	Yes	['pulmonary.ionocyte']	
+211400	Bronchiectasis	600760	SCNN1B	Scnn1b	1	1	PS211400	Bronchiectasis	1	1	Yes	['pulmonary.ionocyte']	
+211530	"Bulbar Palsy, Progressive, With Sensorineural Deafness"	613350	SLC52A3	Slc52a3	1	1	PS211530	Brown-Vialetto-Van Laere syndrome	1	1	Yes	"['endothelial.cell.of.artery', 'serous.cell.of.epithelium.of.bronchus', 'vein.endothelial.cell']"	
+211980	"Lung Cancer, Susceptibility To"	134638	FASLG	Fasl	1	1			0	1	Yes		
+211980	"Lung Cancer, Susceptibility To"	601763	CASP8	Casp8	1	1			1	1	Yes		
+211980	"Lung Cancer, Susceptibility To"	131550	EGFR	Egfr	1	1			1	1	Yes		
+211980	"Lung Cancer, Susceptibility To"	609413	ERCC6	Ercc6	1	1			1	0	Yes		
+211980	"Lung Cancer, Susceptibility To"	122720	CYP2A6	Cyp2a4	1	1			0	0	Yes		
+211980	"Lung Cancer, Susceptibility To"	122720	CYP2A6	Cyp2a5	1	1			0	1	Yes		
+212720	Martsolf Syndrome	609275	RAB3GAP2	Rab3gap2	1	1			1	1	NA		
+214100	Zellweger Syndrome	602136	PEX1	Pex1	1	1	PS214100	Peroxisome biogenesis disorder	1	0			
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	600024	LBR	Lbr	1	1			1	1	NA		
+215150	Otospondylomegaepiphyseal Dysplasia	120290	COL11A2	Col11a2	1	1	PS184840	Otospondylomegaepiphyseal dysplasia	0	0			
+217090	"Plasminogen Deficiency, Type Iligneous Conjunctivitis, Included"	173350	PLG	Plg	1	1			0	0			
+218000	Agenesis Of The Corpus Callosum With Peripheral Neuropathy	604878	SLC12A6	Slc12a6	1	1			1	1	No		
+218040	Costello Syndrome	190020	HRAS	Hras	1	1			1	0			
+219000	Fraser Syndrome	607830	FRAS1	Fras1	1	1	PS219000	Fraser syndrome	1	0	Yes		
+219100	"Cutis Laxa, Autosomal Recessive, Type I"	604580	FBLN5	Fbln5	1	1	PS123700	Cutis laxa	1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast']"	
+219700	Cystic Fibrosis	146790	FCGR2A	Fcgr3	1	1			1	1	Yes	"['neutrophil', 'pulmonary.ionocyte']"	
+219700	Cystic Fibrosis	602421	CFTR	Cftr	1	1			1	1	Yes	"['neutrophil', 'pulmonary.ionocyte']"	
+219700	Cystic Fibrosis	190180	TGFB1	Tgfb1	1	1			0	1	Yes	"['neutrophil', 'pulmonary.ionocyte']"	
+222700	Lysinuric Protein Intolerance	603593	SLC7A7	Slc7a7	1	1			1	1	Yes	"['classical.monocyte', 'intermediate.monocyte', 'macrophage', 'non.classical.monocyte']"	
+223900	"Neuropathy, Hereditary Sensory And Autonomic, Type Iii"	603722	ELP1	Elp1	1	1	PS162400	Hereditary sensory and autonomic neuropathy	1	0			
+224230	"Dyskeratosis Congenita, Autosomal Recessive, 1"	606471	NOP10	Nop10	1	1	PS127550	Dyskeratosis congenita	1	1	Yes	['bronchial.vessel.endothelial.cell']	
+224410	"Dyssegmental Dysplasia, Silverman-handmaker Type"	142461	HSPG2	Hspg2	1	1			1	1	Yes	"['bronchial.vessel.endothelial.cell', 'lung.microvascular.endothelial.cell', 'vein.endothelial.cell']"	
+225400	"Ehlers-danlos Syndrome, Type Vi"	153454	PLOD1	Plod1	1	1	PS130000	Ehlers-Danlos syndrome	1	1	Yes		
+225410	"Ehlers-danlos Syndrome, Type Vii, Autosomal Recessive"	604539	ADAMTS2	Adamts2	1	1	PS130000	Ehlers-Danlos syndrome	1	1	Yes		
+226300	"Complement Hyperactivation, Angiopathic Thrombosis, And Protein-losing Enteropathy"	125240	CD55	Cd55	1	1			1	1	Yes	"['neutrophil', 'type.i.pneumocyte']"	['ciliated.epithelial.cell']
+226300	"Complement Hyperactivation, Angiopathic Thrombosis, And Protein-losing Enteropathy"	125240	CD55	Cd55b	1	1			1	0	Yes	"['neutrophil', 'type.i.pneumocyte']"	['ciliated.epithelial.cell']
+226990	Immunodeficiency 32b	601565	IRF8	Irf8	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+230000	Fucosidosis	612280	FUCA1	Fuca1	1	1			1	1	NA		
+230800	"Gaucher Disease, Type I"	606463	GBA	Gba	1	1			1	1	Yes	"['endothelial.cell.of.lymphatic.vessel', 'fibroblast', 'myofibroblast.cell']"	
+230900	"Gaucher Disease, Type Ii"	606463	GBA	Gba	1	1			1	1	Yes	"['endothelial.cell.of.lymphatic.vessel', 'fibroblast', 'myofibroblast.cell']"	
+231680	Multiple Acyl-coa Dehydrogenase Deficiency	231675	ETFDH	Etfdh	1	1			1	1	Yes	['plasmacytoid.dendritic.cell']	
+231680	Multiple Acyl-coa Dehydrogenase Deficiency	608053	ETFA	Etfa	1	1			1	1	Yes	['plasmacytoid.dendritic.cell']	
+231680	Multiple Acyl-coa Dehydrogenase Deficiency	130410	ETFB	Etfb	1	1			1	1	Yes	['plasmacytoid.dendritic.cell']	
+232300	Glycogen Storage Disease Ii	606800	GAA	Gaa	1	1			1	1	Yes	"['macrophage', 'non.classical.monocyte']"	
+233650	Combined Cellular And Humoral Immune Defects With Granulomas	179615	RAG1	Rag1	1	1			0	0			
+233650	Combined Cellular And Humoral Immune Defects With Granulomas	179616	RAG2	Rag2	1	1			0	0			
+233690	"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-negative"	608508	CYBA	Cyba	1	1	PS306400	"Granulomatous disease, chronic"	1	1	Yes	['neutrophil']	
+233700	"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-positive, Type I"	608512	NCF1	Ncf1	1	1	PS306400	"Granulomatous disease, chronic"	1	1	Yes	['neutrophil']	
+233710	"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-positive, Type Ii"	608515	NCF2	Ncf2	1	1	PS306400	"Granulomatous disease, chronic"	1	1	Yes	['neutrophil']	
+234810	Pulmonary Venoocclusive Disease 2	609280	EIF2AK4	Eif2ak4	1	1	PS265450	Pulmonary venoocclusive disease	1	1	Yes	['endothelial.cell.of.artery']	
+235200	Hemochromatosis	613609	HFE	Hfe	1	1	PS235200	Hemochromatosis	1	1	Yes	"['endothelial.cell.of.lymphatic.vessel', 'myofibroblast.cell']"	
+235200	Hemochromatosis	112261	BMP2	Bmp2	1	1	PS235200	Hemochromatosis	1	0	Yes	"['endothelial.cell.of.lymphatic.vessel', 'myofibroblast.cell']"	
+235510	Hennekam Lymphangiectasia-lymphedema Syndrome	612753	CCBE1	Ccbe1	1	1	PS235510	Hennekam lymphangiectasia-lymphedema syndrome	1	0			
+235730	Mowat-wilson Syndrome	605802	ZEB2	Zeb2	1	1			1	1	No		
+236500	"Multinucleated Neurons, Anhydramnios, Renal Dysplasia, Cerebellar Hypoplasia, And Hydranencephaly"	610000	CEP55	Cep55	1	1			0	0			
+236680	Hydrolethalus Syndrome 1	610693	HYLS1	Hyls1	1	1	PS236680	Hydrolethalus syndrome	1	0			
+236700	Mckusick-kaufman Syndrome	604896	MKKS	Mkks	1	1			1	1	NA		
+240500	"Immunodeficiency, Common Variable, 2"	604907	TNFRSF13B	Tnfrsf13b	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes	['b.cell']	['B.cell']
+241500	"Hypophosphatasia, Infantile"	171760	ALPL	Alpl	1	1			1	0			
+241600	"Hypoproteinemia, Hypercatabolic"	109700	B2M	B2m	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+241800	"Hypothalamic Hamartomascongenital Hypothalamic Hamartoma Syndrome, Included"	601500	SMO	Smo	1	1			1	1	No		
+242840	"Immunodeficiency With Cleft Lip/palate, Cataract, Hypopigmentation,and Absent Corpus Callosum"	615068	EPG5	Epg5	1	1			1	0			
+242860	Immunodeficiency-centromeric Instability-facial Anomalies Syndrome1	602900	DNMT3B	Dnmt3b	1	1	PS242860	Immunodeficiency-centromeric instability-facial anomalies	0	0		"['cd8.positive..alpha.beta.t.cell', 'cd4.positive..alpha.beta.t.cell', 'b.cell']"	
+243700	"Hyperimmunoglobulin E-recurrent Infection Syndrome, Autosomal Recessive"	611432	DOCK8	Dock8	1	1	PS147060	Hyper-IgE recurrent infection syndrome	1	1	Yes	['neutrophil']	
+244400	Kartagener Syndrome	604366	DNAI1	Dnai1	1	1	PS244400	Primary ciliary dyskinesia	1	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+245150	Keutel Syndrome	154870	MGP	Mgp	1	1			1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast', 'bronchial.smooth.muscle.cell']"	['fibroblast']
+248700	Marden-walker Syndrome	613629	PIEZO2	Piezo2	1	1			1	0			
+249000	"Meckel Syndrome, Type 1"	609883	MKS1	Mks1	1	1	PS249000	Meckel syndrome	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+249100	"Familial Mediterranean Fever, Ar"	608107	MEFV	Mefv	1	1			1	1	No		
+251230	Microcephaly-micromelia Syndrome	611428	DONSON	Donson	1	1			1	1	Yes	"['fibroblast', 'myofibroblast.cell']"	
+251260	Nijmegen Breakage Syndrome	602667	NBN	Nbn	1	1			1	1	Yes	"['fibroblast', 'pericyte.cell']"	
+252500	Mucolipidosis Ii Alpha/beta	607840	GNPTAB	Gnptab	1	1			1	1	Yes	"['basophil', 'nk.cell']"	
+252900	Mucopolysaccharidosis Type Iiia	605270	SGSH	Sgsh	1	1	PS607014	Mucopolysaccharidoses	1	1	Yes		
+252920	Mucopolysaccharidosis Type Iiib	609701	NAGLU	Naglu	1	1	PS607014	Mucopolysaccharidoses	1	1	Yes		
+252930	Mucopolysaccharidosis Type Iiic	610453	HGSNAT	Hgsnat	1	1	PS607014	Mucopolysaccharidoses	1	1	NA		
+252940	Mucopolysaccharidosis Type Iiid	607664	GNS	Gns	1	1			1	1	NA		
+253000	Morquio Syndrome A	612222	GALNS	Galns	1	1	PS607014	Mucopolysaccharidoses	1	1	Yes		
+253010	Morquio Syndrome B	611458	GLB1	Glb1	1	1	PS607014	Mucopolysaccharidoses	1	1	Yes		
+253200	Mucopolysaccharidosis Type Vi	611542	ARSB	Arsb	1	1	PS607014	Mucopolysaccharidoses	1	1	Yes		
+253220	"Mucopolysaccharidosis, Type Vii"	611499	GUSB	Gusb	1	1	PS607014	Mucopolysaccharidoses	1	1	Yes		
+253290	"Multiple Pterygium Syndrome, Lethal Type"	100690	CHRNA1	Chrna1	1	1			0	0			
+253290	"Multiple Pterygium Syndrome, Lethal Type"	100720	CHRND	Chrnd	1	1			0	0			
+253290	"Multiple Pterygium Syndrome, Lethal Type"	100730	CHRNG	Chrng	1	1			0	0			
+253300	"Spinal Muscular Atrophy, Type I"	600354	SMN1	Smn1	1	1			1	1	Yes	['endothelial.cell.of.lymphatic.vessel']	
+253310	Lethal Congenital Contracture Syndrome 1	603371	GLE1	Gle1	1	1	PS253310	Lethal congenital contracture syndrome	1	1	Yes		
+253550	"Spinal Muscular Atrophy, Type Ii"	600354	SMN1	Smn1	1	1			1	1	Yes	['endothelial.cell.of.lymphatic.vessel']	
+253700	"Muscular Dystrophy, Limb-girdle, Type 2c"	608896	SGCG	Sgcg	1	1	PS253600	"Muscular dystrophy, limb-girdle, autosomal recessive"	1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast', 'fibroblast']"	
+254090	Ullrich Congenital Muscular Dystrophy 1	120250	COL6A3	Col6a3	1	1	PS253600	"Muscular dystrophy, limb-girdle, autosomal recessive"	1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast', 'fibroblast']"	
+254090	Ullrich Congenital Muscular Dystrophy 1	120250	COL6A3	Col6a3	1	1	PS254090	Ullrich congenital muscular dystrophy	1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast']"	"['fibroblast', 'fibroblast.1']"
+254090	Ullrich Congenital Muscular Dystrophy 1	120220	COL6A1	Col6a1	1	1	PS253600	"Muscular dystrophy, limb-girdle, autosomal recessive"	1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast', 'fibroblast']"	
+254090	Ullrich Congenital Muscular Dystrophy 1	120220	COL6A1	Col6a1	1	1	PS254090	Ullrich congenital muscular dystrophy	1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast']"	"['fibroblast', 'fibroblast.1']"
+254090	Ullrich Congenital Muscular Dystrophy 1	120240	COL6A2	Col6a2	1	1	PS253600	"Muscular dystrophy, limb-girdle, autosomal recessive"	1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast', 'fibroblast']"	
+254090	Ullrich Congenital Muscular Dystrophy 1	120240	COL6A2	Col6a2	1	1	PS254090	Ullrich congenital muscular dystrophy	1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast']"	"['fibroblast', 'fibroblast.1']"
+255320	Minicore Myopathy With External Ophthalmoplegia	180901	RYR1	Ryr1	1	1			1	1	Yes	"['basal.cell', 'basophil', 'macrophage']"	
+256040	Proteasome-associated Autoinflammatory Syndrome 1 And Digenic Forms	177046	PSMB8	Psmb8	1	1	PS256040	Proteosome-associated autoinflammatory syndrome	1	1	No		
+256050	"Atelosteogenesis, Type Ii"	606718	SLC26A2	Slc26a2	1	1	PS108720	Atelosteogenesis	1	1	Yes	"['basophil', 'capillary.endothelial.cell']"	
+256520	Neu-laxova Syndrome	606879	PHGDH	Phgdh	1	1	PS256520	Neu-Laxova syndrome	1	1	Yes	"['adventitial.cell', 'mesothelial.cell']"	
+257200	"Niemann-pick Disease, Type A"	607608	SMPD1	Smpd1	1	1			1	1	Yes	['type.i.pneumocyte']	
+258315	"Omodysplasia, Generalized Form"	604404	GPC6	Gpc6	1	1	PS258315	Omodysplasia	1	1	No		
+258480	Opsismodysplasia	600829	INPPL1	Inppl1	1	1			1	1	NA		
+259775	Raine Syndrome	611061	FAM20C	Fam20c	1	1			1	1	Yes	['adventitial.cell']	['fibroblast.1']
+261740	"Glycogen Storage Disease Of Heart, Lethal Congenital"	602743	PRKAG2	Prkag2	1	1			1	1	Yes	"['endothelial.cell.of.lymphatic.vessel', 'pulmonary.ionocyte']"	['ciliated.epithelial.cell']
+262850	Plasmin Inhibitor Deficiency	613168	SERPINF2	Serpinf2	1	1			1	0			
+263200	"Polycystic Kidney Disease, Autosomal Recessive"	606702	PKHD1	Pkhd1	1	1	PS173900	Polycystic kidney disease	0	0			
+263210	Gillessen-kaesbach-nishimura Syndrome	606941	ALG9	Alg9	1	1			1	1	Yes	"['bronchial.smooth.muscle.cell', 'fibroblast']"	
+263520	Short-rib Thoracic Dysplasia 6 With Or Without Polydactyly	604588	NEK1	Nek1	1	1	PS208500	Short-rib thoracic dysplasia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+264090	"Progeroid Syndrome, Neonatal"	614258	POLR3A	Polr3a	1	1	PS176670	Progeria	1	0			
+264350	"Pseudohypoaldosteronism, Type I, Autosomal Recessive"	600228	SCNN1A	Scnn1a	1	1			1	1	Yes	['pulmonary.ionocyte']	
+264350	"Pseudohypoaldosteronism, Type I, Autosomal Recessive"	600761	SCNN1G	Scnn1g	1	1			1	0	Yes	['pulmonary.ionocyte']	
+264350	"Pseudohypoaldosteronism, Type I, Autosomal Recessive"	600760	SCNN1B	Scnn1b	1	1			1	1	Yes	['pulmonary.ionocyte']	
+265000	"Multiple Pterygium Syndrome, Escobar Variant"	100730	CHRNG	Chrng	1	1			0	0			
+265100	Pulmonary Alveolar Microlithiasis	604217	SLC34A2	Slc34a2	1	1			1	1	Yes	"['type.i.pneumocyte', 'type.ii.pneumocyte']"	['pulmonary.ionocyte..type.II.pneumocyte']
+265120	"Surfactant Metabolism Dysfunction, Pulmonary, 1"	178640	SFTPB	Sftpb	1	1	PS265120	"Surfactant metabolism dysfunction, pulmonary"	1	1	Yes	['type.ii.pneumocyte']	['pulmonary.ionocyte..type.II.pneumocyte']
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	601089	FOXF1	Foxf1	1	1			1	0			
+265450	Pulmonary Venoocclusive Disease 1	600799	BMPR2	Bmpr2	1	1	PS265450	Pulmonary venoocclusive disease	1	1	Yes	['endothelial.cell.of.artery']	
+266265	"Congenital Disorder Of Glycosylation, Type Iic"	605881	SLC35C1	Slc35c1	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1	Yes	['respiratory.mucous.cell']	
+267430	Renal Tubular Dysgenesis	179820	REN	Ren1	1	1			0	0	Yes		
+267430	Renal Tubular Dysgenesis	106150	AGT	Agt	1	1			1	1	Yes		
+267430	Renal Tubular Dysgenesis	106165	AGTR1	Agtr1a	1	1			1	1	Yes		
+267430	Renal Tubular Dysgenesis	106180	ACE	Ace	1	1			1	1	Yes		
+269840	"Severe Combined Immunodeficiency, Atypical"	176947	ZAP70	Zap70	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+270400	Smith-lemli-opitz Syndrome	602858	DHCR7	Dhcr7	1	1			1	1	Yes	['pulmonary.ionocyte']	
+271665	"Spondylometaepiphyseal Dysplasia, Short Limb-hand Type"	191311	DDR2	Ddr2	1	1			1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast', 'fibroblast']"	['fibroblast.1']
+273395	"Tetra-amelia, Autosomal Recessive"	165330	WNT3	Wnt3	1	1			0	0			
+275210	"Tight Skin Contracture Syndrome, Lethal"	606480	ZMPSTE24	Zmpste24	1	1			1	1	Yes	['bronchial.vessel.endothelial.cell']	
+275210	"Tight Skin Contracture Syndrome, Lethal"	150330	LMNA	Lmna	1	1			1	1	Yes	['bronchial.vessel.endothelial.cell']	
+277300	"Spondylocostal Dysostosis, Autosomal Recessive 1"	602768	DLL3	Dll3	1	1	PS277300	Spondylocostal dysostosis	0	0			
+280000	Zunich Neuroectodermal Syndrome	605947	PIGL	Pigl	1	1			1	1	No		
+300209	"Simpson-golabi-behmel Syndrome, Type 2"	300170	OFD1	Ofd1	1	1			1	0			
+300260	Lubs X-linked Mental Retardation Syndrome	300005	MECP2	Mecp2	1	1	PS309510	"Mental retardation, X-linked syndromic"	1	1	No	"['endothelial.cell.of.lymphatic.vessel', 'lung.ciliated.cell']"	
+300310	"Agammaglobulinemia, X-linked, Type 2"	300374	SH3KBP1	Sh3kbp1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+300310	"Agammaglobulinemia, X-linked, Type 2"	300374	SH3KBP1	Sh3kbp1	1	1	PS601495	Agammaglobulinemia	1	1	Yes		
+300400	"Severe Combined Immunodeficiency, X-linked"	308380	IL2RG	Il2rg	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+300455	"Retinitis Pigmentosa, X-linked, And Sinorespiratory Infections, Withor Without Deafness"	312610	RPGR	Rpgr	1	1			1	1	NA		
+300514	"Fanconi Anemia, Complementation Group B"	300515	FANCB	Fancb	1	1	PS227650	Fanconi anemia	0	0			
+300635	"Lymphoproliferative Syndrome, X-linked, 2"	300079	XIAP	Xiap	1	1	PS308240	Lymphoproliferative syndrome	1	1	NA	"['cd8.positive..alpha.beta.t.cell', 'cd4.positive..alpha.beta.t.cell', 'nk.cell']"	['lymphocyte']
+300707	"Toe Syndactyly, Telecanthus, And Anogenital And Renal Malformations"	300708	CCNQ	Ccnq	1	1			1	0			
+300755	"Agammaglobulinemia, X-linked"	300300	BTK	Btk	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+300755	"Agammaglobulinemia, X-linked"	300300	BTK	Btk	1	1	PS601495	Agammaglobulinemia	1	1	Yes		
+300770	"Surfactant Metabolism Dysfunction, Pulmonary, 4"	306250	CSF2RA	Csf2ra	1	1	PS265120	"Surfactant metabolism dysfunction, pulmonary"	0	1	Yes	['type.ii.pneumocyte']	['pulmonary.ionocyte..type.II.pneumocyte']
+300853	"Immunodeficiency, X-linked, With Magnesium Defect, Epstein-barr Virus Infection And Neoplasia"	300715	MAGT1	Magt1	1	1			1	1	Yes	"['capillary.aerocyte', 'endothelial.cell.of.artery']"	
+300855	Ogden Syndrome	300013	NAA10	Naa10	1	1			1	1	No		
+300968	"Mental Retardation, X-linked 99, Syndromic, Female-restricted"	300072	USP9X	Usp9x	1	1	PS309530	"Mental retardation, nonsyndromic, X-linked"	1	1	No		
+300978	Tonne-kalscheuer Syndrome	300379	RLIM	Rlim	1	1	PS309510	"Mental retardation, X-linked syndromic"	1	1	NA	"['endothelial.cell.of.lymphatic.vessel', 'lung.ciliated.cell']"	
+300978	Tonne-kalscheuer Syndrome	300379	RLIM	Rlim	1	1	PS309530	"Mental retardation, nonsyndromic, X-linked"	1	1	NA		
+300988	Immunodeficiency 50	309845	MSN	Msn	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+300989	Meester-loeys Syndrome	301870	BGN	Bgn	1	1			1	1	No		
+300991	"Ciliary Dyskinesia, Primary, 36, X-linked"	300933	DNAAF6	Dnaaf6b	1	1	PS244400	Primary ciliary dyskinesia	0	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+300991	"Ciliary Dyskinesia, Primary, 36, X-linked"	300933	DNAAF6	Dnaaf6	1	1	PS244400	Primary ciliary dyskinesia	0	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+301000	Wiskott-aldrich Syndrome	300392	WAS	Was	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+301030	Van Esch-o'driscoll Syndrome	312040	POLA1	Pola1	1	1	PS309510	"Mental retardation, X-linked syndromic"	1	0		"['endothelial.cell.of.lymphatic.vessel', 'lung.ciliated.cell']"	
+301044	"Developmental And Epileptic Encephalopathy 85, With Or Without Midline Brain Defects"	300040	SMC1A	Smc1a	1	1	PS308350	Developmental and epileptic encephalopathy	1	1	No		
+301220	"Pigmentary Disorder, Reticulate, With Systemic Manifestations, X-linked"	312040	POLA1	Pola1	1	1			1	0			
+301835	Arts Syndrome	311850	PRPS1	Prps1	1	1	PS309510	"Mental retardation, X-linked syndromic"	1	1	Yes	"['endothelial.cell.of.lymphatic.vessel', 'lung.ciliated.cell']"	
+305000	"Dyskeratosis Congenita, X-linked"	300126	DKC1	Dkc1	1	1	PS127550	Dyskeratosis congenita	1	1	Yes	['bronchial.vessel.endothelial.cell']	
+306400	"Chronic Granulomatous Disease, X-linked"	300481	CYBB	Cybb	1	1	PS306400	"Granulomatous disease, chronic"	1	1	Yes	['neutrophil']	
+307200	"Hypogammaglobulinemia And Isolated Growth Hormone Deficiency, X-linked"	300300	BTK	Btk	1	1	PS262400	Isolated growth hormone deficiency	1	1	Yes	"['basophil', 'plasmacytoid.dendritic.cell']"	
+308050	Congenital Hemidysplasia With Ichthyosiform Erythroderma And Limb Defects	300275	NSDHL	Nsdhl	1	1			1	1	Yes	"['plasmacytoid.dendritic.cell', 'pulmonary.ionocyte', 'type.ii.pneumocyte']"	
+308230	"Immunodeficiency, X-linked, With Hyper-igm"	300386	CD40LG	Cd40lg	1	1	PS300755	Immunodeficiency (Select Examples)	1	0			
+308230	"Immunodeficiency, X-linked, With Hyper-igm"	300386	CD40LG	Cd40lg	1	1	PS308230	Immunodeficiency with hyper-IgM	1	0			
+308240	"Lymphoproliferative Syndrome, X-linked, 1"	300490	SH2D1A	Sh2d1a	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+308240	"Lymphoproliferative Syndrome, X-linked, 1"	300490	SH2D1A	Sh2d1a	1	1	PS308240	Lymphoproliferative syndrome	1	1	Yes	"['cd8.positive..alpha.beta.t.cell', 'cd4.positive..alpha.beta.t.cell', 'nk.cell']"	['lymphocyte']
+309350	Melnick-needles Syndrome	300017	FLNA	Flna	1	1			1	1	NA		
+309800	"Microphthalmia, Syndromic 1"	300013	NAA10	Naa10	1	1	PS309800	"Microphthalmia, syndromic"	1	1	Yes	"['bronchial.vessel.endothelial.cell', 'endothelial.cell.of.artery']"	
+312863	"Combined Immunodeficiency, X-linked"	308380	IL2RG	Il2rg	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+312870	"Simpson-golabi-behmel Syndrome, Type 1"	300037	GPC3	Gpc3	1	1			1	1	Yes	"['alveolar.fibroblast', 'fibroblast']"	['fibroblast.1']
+600001	Pancreatic Agenesis And Congenital Heart Defects	601656	GATA6	Gata6	1	1			1	1	No		
+600376	Osler-rendu-weber Syndrome 2	601284	ACVRL1	Acvrl1	1	1	PS187300	"Telangiectasia, hereditary hemorrhagic"	1	1	Yes	"['capillary.aerocyte', 'capillary.endothelial.cell', 'endothelial.cell.of.artery']"	['capillary.endothelial.cell']
+600802	"Scid, Autosomal Recessive, T-negative/b-positive Type"	600173	JAK3	Jak3	1	1			1	1	Yes	"['cd4.positive..alpha.beta.t.cell', 'neutrophil']"	
+601005	Timothy Syndrome	114205	CACNA1C	Cacna1c	1	1			1	0			
+601186	"Microphthalmia, Syndromic 9"	610745	STRA6	Stra6	1	1	PS300345	"Microphthalmia, isolated, with coloboma"	1	0	Yes		
+601186	"Microphthalmia, Syndromic 9"	610745	STRA6	Stra6	1	1	PS309800	"Microphthalmia, syndromic"	1	0	Yes	"['bronchial.vessel.endothelial.cell', 'endothelial.cell.of.artery']"	
+601200	Pleuropulmonary Blastoma	606241	DICER1	Dicer1	1	1			1	1	Yes	"['classical.monocyte', 'intermediate.monocyte']"	
+601457	"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-negative,b Cell-negative, Nk Cell-positive"	179615	RAG1	Rag1	1	1			0	0			
+601457	"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-negative,b Cell-negative, Nk Cell-positive"	179616	RAG2	Rag2	1	1			0	0			
+601495	"Agammaglobulinemia 1, Autosomal Recessive"	147020	IGHM		1	1	PS601495	Agammaglobulinemia	1	0			
+601559	Stuve-wiedemann Syndrome	151443	LIFR	Lifr	1	1			1	1	NA		
+601776	"Ehlers-danlos Syndrome, Musculocontractural Type"	608429	CHST14	Chst14	1	1	PS130000	Ehlers-Danlos syndrome	1	1	Yes		
+602079	Trimethylaminuria	136132	FMO3	Fmo3	1	1			1	0			
+602088	Nephronophthisis 2	243305	INVS	Invs	1	1	PS256100	Nephronophthisis	1	0			
+602271	"Spondylometaphyseal Dysplasia, Axial"	603191	CFAP410	Cfap410	1	1	PS184255	Spondylometaphyseal dysplasia	1	0			
+602398	Desmosterolosis	606418	DHCR24	Dhcr24	1	1			1	1	No		
+602450	Severe Combined Immunodeficiency With Sensitivity To Ionizing Radiation	605988	DCLRE1C	Dclre1c	1	1			1	1	Yes	"['nk.cell', 'plasmacytoid.dendritic.cell', 'pulmonary.ionocyte']"	
+602535	Marshall-smith Syndrome	164005	NFIX	Nfix	1	1			1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast']"	
+603467	"Fanconi Anemia, Complementation Group F"	613897	FANCF	Fancf	1	1	PS227650	Fanconi anemia	1	0			
+603554	Omenn Syndrome	605988	DCLRE1C	Dclre1c	1	1			1	1	Yes	"['nk.cell', 'plasmacytoid.dendritic.cell', 'pulmonary.ionocyte']"	
+603554	Omenn Syndrome	179615	RAG1	Rag1	1	1			0	0	Yes	"['nk.cell', 'plasmacytoid.dendritic.cell', 'pulmonary.ionocyte']"	
+603554	Omenn Syndrome	179616	RAG2	Rag2	1	1			0	0	Yes	"['nk.cell', 'plasmacytoid.dendritic.cell', 'pulmonary.ionocyte']"	
+603585	"Congenital Disorder Of Glycosylation, Type Iif"	605634	SLC35A1	Slc35a1	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1	No	['respiratory.mucous.cell']	
+604173	Poikiloderma With Neutropenia	613276	USB1	Usb1	1	1			1	0			
+604571	"Bare Lymphocyte Syndrome, Type I"	170261	TAP2	Tap2	1	1			1	1	Yes	['capillary.endothelial.cell']	
+604571	"Bare Lymphocyte Syndrome, Type I"	170260	TAP1	Tap1	1	1			1	1	Yes	['capillary.endothelial.cell']	
+604571	"Bare Lymphocyte Syndrome, Type I"	601962	TAPBP	Tapbp	1	1			1	1	Yes	['capillary.endothelial.cell']	
+605258	"Immunodeficiency With Hyper-igm, Type 2"	605257	AICDA	Aicda	1	1	PS308230	Immunodeficiency with hyper-IgM	0	0			
+606170	Genitopatellar Syndrome	605880	KAT6B		1	1			1	0			
+606217	"Atrioventricular Septal Defect, Susceptibility To, 2"	607170	CRELD1	Creld1	1	1	PS606215	Atrioventricular septal defect	1	1	No		
+606367	Immunodeficiency 41 With Lymphoproliferation And Autoimmunity	147730	IL2RA	Il2ra	1	1	PS300755	Immunodeficiency (Select Examples)	0	0	Yes		
+606690	Lymphangioleiomyomatosis	605284	TSC1	Tsc1	1	1			1	1	Yes	['fibroblast']	
+606763	"Ciliary Dyskinesia, Primary, 2"	614566	DNAAF3	Dnaaf3	1	1	PS244400	Primary ciliary dyskinesia	1	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+607014	Hurler Syndrome	252800	IDUA	Idua	1	1	PS607014	Mucopolysaccharidoses	1	0	Yes		
+607015	Hurler-scheie Syndrome	252800	IDUA	Idua	1	1	PS607014	Mucopolysaccharidoses	1	0	Yes		
+607143	"Congenital Disorder Of Glycosylation, Type Ig"	607144	ALG12	Alg12	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	1	NA		
+607271	"Autoimmune Lymphoproliferative Syndrome, Type Iib"	601763	CASP8	Casp8	1	1			1	1	Yes	"['cd8.positive..alpha.beta.t.cell', 'cd4.positive..alpha.beta.t.cell', 'nk.cell']"	
+607594	"Immunodeficiency, Common Variable, 1"	604558	ICOS	Icos	1	1	PS607594	"Immunodeficiency, common variable"	1	0	Yes	['b.cell']	['B.cell']
+607616	"Niemann-pick Disease, Type B"	607608	SMPD1	Smpd1	1	1			1	1	Yes	['type.i.pneumocyte']	
+607944	Spondyloenchondrodysplasia With Immune Dysregulation	171640	ACP5		1	1	PS184255	Spondylometaphyseal dysplasia	1	0			
+608022	Diaphanospondylodysostosis	608699	BMPER	Bmper	1	1			1	1	Yes	['pericyte.cell']	
+608033	"Necrotizing Encephalopathy, Acute, Autosomal Dominant"	601181	RANBP2		1	1	PS610551	"Encephalopathy, acute, infection-induced"	1	0			
+608106	"Immunodeficiency With Hyper-igm, Type 5"	191525	UNG	Ung	1	1	PS308230	Immunodeficiency with hyper-IgM	1	0	Yes		
+608233	Hermansky-pudlak Syndrome 2	603401	AP3B1	Ap3b1	1	1	PS203300	Hermansky-Pudlak syndrome	1	1	Yes		
+608644	"Ciliary Dyskinesia, Primary, 3, With Or Without Situs Inversus"	603335	DNAH5	Dnah5	1	1	PS244400	Primary ciliary dyskinesia	1	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+608647	"Ciliary Dyskinesia, Primary, 5"	610812	HYDIN	Hydin	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+608681	"Spondylocostal Dysostosis 2, Autosomal Recessive"	605195	MESP2	Mesp2	1	1	PS277300	Spondylocostal dysostosis	0	0			
+608957	"Cd8 Deficiency, Familial"	186910	CD8A	Cd8a	1	1			1	0			
+608971	"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-negative,b Cell-positive, Nk Cell-positive"	151460	PTPRC	Ptprc	1	1			1	1	Yes	['cd4.positive..alpha.beta.t.cell']	['lymphocyte']
+608971	"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-negative,b Cell-positive, Nk Cell-positive"	146661	IL7R	Il7r	1	1			1	1	Yes	['cd4.positive..alpha.beta.t.cell']	['lymphocyte']
+609192	"Loeys-dietz Syndrome, Type 1a Loeys-dietz Aortic Aneurysm Syndrome"	190181	TGFBR1	Tgfbr1	1	1	PS607086	"Aortic aneurysm, familial thoracic"	1	1	No		
+609192	"Loeys-dietz Syndrome, Type 1a Loeys-dietz Aortic Aneurysm Syndrome"	190181	TGFBR1	Tgfbr1	1	1	PS609192	Loeys-Dietz syndrome	1	1	No		
+609529	Immunoglobulin A Deficiency 2	604907	TNFRSF13B	Tnfrsf13b	1	1			1	1	NA		
+609981	Natural Killer Cell And Glucocorticoid Deficiency With Dna Repairdefect	602638	MCM4	Mcm4	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+610015	"Glutamine Deficiency, Congenital"	138290	GLUL	Glul	1	1			1	1	NA		
+610163	Immunodeficiency 25	186780	CD247	Cd247	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+610168	"Loeys-dietz Syndrome, Type 1b"	190182	TGFBR2	Tgfbr2	1	1	PS607086	"Aortic aneurysm, familial thoracic"	1	1	No		
+610168	"Loeys-dietz Syndrome, Type 1b"	190182	TGFBR2	Tgfbr2	1	1	PS609192	Loeys-Dietz syndrome	1	1	No		
+610205	Alagille Syndrome 2	600275	NOTCH2	Notch2	1	1	PS118450	Alagille syndrome	1	1	No		
+610253	Kleefstra Syndrome	607001	EHMT1	Ehmt1	1	1	PS156200	"Mental retardation, autosomal dominant"	1	1	No	"['pericyte.cell', 'plasmacytoid.dendritic.cell']"	
+610253	Kleefstra Syndrome	607001	EHMT1	Ehmt1	1	1	PS610253	Kleefstra syndrome	1	1	No		
+610682	"Osteogenesis Imperfecta, Type Vii"	605497	CRTAP	Crtap	1	1	PS166200	Osteogenesis imperfecta	1	1	Yes	['adventitial.cell']	['fibroblast.1']
+610798	Immunodeficiency Due To Defect In Mapbp-interacting Protein	610389	LAMTOR2	Lamtor2	1	1			1	1	Yes	"['classical.monocyte', 'intermediate.monocyte', 'macrophage']"	['alveolar.macrophage']
+610852	"Ciliary Dyskinesia, Primary, 6"	607421	NME8	Nme8	1	1	PS244400	Primary ciliary dyskinesia	1	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+610913	"Surfactant Metabolism Dysfunction, Pulmonary, 2"	178620	SFTPC	Sftpc	1	1	PS265120	"Surfactant metabolism dysfunction, pulmonary"	1	1	Yes	['type.ii.pneumocyte']	['pulmonary.ionocyte..type.II.pneumocyte']
+610921	"Surfactant Metabolism Dysfunction, Pulmonary, 3"	601615	ABCA3	Abca3	1	1	PS265120	"Surfactant metabolism dysfunction, pulmonary"	1	1	Yes	['type.ii.pneumocyte']	['pulmonary.ionocyte..type.II.pneumocyte']
+610978	"Choreoathetosis, Hypothyroidism, And Neonatal Respiratory Distresschoreoathetosis And Congenital Hypothyroidism, Included"	600635	NKX2-1	Nkx2-1	1	1			1	1	Yes	"['club.cell', 'type.i.pneumocyte']"	['pulmonary.ionocyte..type.II.pneumocyte']
+610984	Complement Factor I Deficiency	217030	CFI	Cfi	1	1			1	0			
+611521	Immunodeficiency 35	176941	TYK2	Tyk2	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+611812	"46,xx Sex Reversal With Dysgenesis Of Kidneys, Adrenals, And Lungs"	603490	WNT4	Wnt4	1	1			1	1	Yes	"['basal.cell', 'pulmonary.ionocyte', 'respiratory.mucous.cell']"	
+611884	"Ciliary Dyskinesia, Primary, 7"	603339	DNAH11	Dnah11	1	1	PS244400	Primary ciliary dyskinesia	1	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+611943	Riddle Syndrome	612688	RNF168	Rnf168	1	1			1	1	Yes	['nk.cell']	
+612132	"Ectodermal Dysplasia, Anhidrotic, With T-cell Immunodeficiency, Autosomal"	164008	NFKBIA	Nfkbia	1	1	PS300291	Ectodermal dysplasia and immune deficiency	1	1	Yes	['neutrophil']	
+612284	"Meckel Syndrome, Type 6"	612013	CC2D2A	Cc2d2a	1	1	PS249000	Meckel syndrome	1	1	NA	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+612289	Fontaine Progeroid Syndrome	608744	SLC25A24	Slc25a24	1	1			1	1	Yes	['intermediate.monocyte']	
+612301	"Osteopetrosis, Autosomal Recessive 7"	603499	TNFRSF11A	Tnfrsf11a	1	1	PS259700	"Osteopetrosis, autosomal recessive"	1	0			
+612387	"Sarcoidosis, Susceptibility To, 2"	606000	BTNL2	Btnl2	1	1			0	0			
+612444	"Ciliary Dyskinesia, Primary, 9, With Or Without Situs Inversus"	605483	DNAI2	Dnai2	1	1	PS244400	Primary ciliary dyskinesia	1	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+612518	"Ciliary Dyskinesia, Primary, 10"	612517	DNAAF2	Dnaaf2	1	1	PS244400	Primary ciliary dyskinesia	1	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+612541	"Neutropenia, Severe Congenital, 4, Autosomal Recessive"	611045	G6PC3	G6pc3	1	1	PS202700	"Neutropenia, severe congenital"	1	1	Yes	"['plasmacytoid.dendritic.cell', 'pulmonary.ionocyte']"	['ciliated.epithelial.cell']
+612649	"Ciliary Dyskinesia, Primary, 11"	612647	RSPH4A	Rsph4a	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+612650	"Ciliary Dyskinesia, Primary, 12"	612648	RSPH9	Rsph9	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+612692	"Agammaglobulinemia 6, Autosomal Recessive"	147245	CD79B	Cd79b	1	1	PS601495	Agammaglobulinemia	1	1	Yes		
+612852	Interleukin 1 Receptor Antagonist Deficiency	147679	IL1RN	Il1rn	1	1			1	1	Yes	['neutrophil']	['alveolar.macrophage']
+613011	Lymphoproliferative Syndrome 1	186973	ITK	Itk	1	1	PS308240	Lymphoproliferative syndrome	1	1	NA	"['cd8.positive..alpha.beta.t.cell', 'cd4.positive..alpha.beta.t.cell', 'nk.cell']"	['lymphocyte']
+613021	Bronchiectasis With Or Without Elevated Sweat Chloride 2	600228	SCNN1A	Scnn1a	1	1	PS211400	Bronchiectasis	1	1	Yes	['pulmonary.ionocyte']	
+613071	Bronchiectasis With Or Without Elevated Sweat Chloride 3	600761	SCNN1G	Scnn1g	1	1	PS211400	Bronchiectasis	1	0	Yes	['pulmonary.ionocyte']	
+613101	"Hemophagocytic Lymphohistiocytosis, Familial, 5"	601717	STXBP2	Stxbp2	1	1	PS267700	"Hemophagocytic lymphohistiocytosis, familial"	1	1	No		
+613177	"Cutis Laxa With Severe Pulmonary, Gastrointestinal, And Urinary Abnormalities"	604710	LTBP4	Ltbp4	1	1	PS123700	Cutis laxa	1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast']"	
+613179	Immunodeficiency Due To Purine Nucleoside Phosphorylase Deficiency	164050	PNP	Pnp	1	1			1	1	Yes	['bronchial.vessel.endothelial.cell']	
+613179	Immunodeficiency Due To Purine Nucleoside Phosphorylase Deficiency	164050	PNP	Pnp2	1	1			1	0	Yes	['bronchial.vessel.endothelial.cell']	
+613193	"Ciliary Dyskinesia, Primary, 13"	613190	DNAAF1	Dnaaf1	1	1	PS244400	Primary ciliary dyskinesia	1	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+613254	Tuberous Sclerosis-2	147570	IFNG	Ifng	1	1	PS191100	Tuberous sclerosis	1	1	Yes		
+613254	Tuberous Sclerosis-2	191092	TSC2	Tsc2	1	1	PS191100	Tuberous sclerosis	1	1	Yes		
+613385	"Autoimmune Disease, Multisystem, With Facial Dysmorphism"	606409	ITCH	Itch	1	1			1	1	Yes	['nk.cell']	
+613426	"Cardiomyopathy, Dilated, 1s"	160760	MYH7	Myh7	1	1	PS115200	Dilated cardiomyopathy	0	1	No		
+613426	"Cardiomyopathy, Dilated, 1s"	160760	MYH7	Myh7	1	1	PS604169	Left ventricular noncompaction	0	1	No		
+613489	"Congenital Disorder Of Glycosylation, Type Iij"	606976	COG4	Cog4	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1	NA	['respiratory.mucous.cell']	
+613490	Alpha-1-antitrypsin Deficiency	107400	SERPINA1	Serpina1e	1	1			1	0		"['macrophage', 'neutrophil', 'type.ii.pneumocyte']"	
+613490	Alpha-1-antitrypsin Deficiency	107400	SERPINA1	Serpina1c	1	1			1	0		"['macrophage', 'neutrophil', 'type.ii.pneumocyte']"	
+613490	Alpha-1-antitrypsin Deficiency	107400	SERPINA1	Serpina1d	1	1			1	0		"['macrophage', 'neutrophil', 'type.ii.pneumocyte']"	
+613490	Alpha-1-antitrypsin Deficiency	107400	SERPINA1	Serpina1b	1	1			1	0		"['macrophage', 'neutrophil', 'type.ii.pneumocyte']"	
+613490	Alpha-1-antitrypsin Deficiency	107400	SERPINA1	Serpina1a	1	1			1	1	Yes	"['macrophage', 'neutrophil', 'type.ii.pneumocyte']"	
+613493	"Immunodeficiency, Common Variable, 3"	107265	CD19	Cd19	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes	['b.cell']	['B.cell']
+613494	"Immunodeficiency, Common Variable, 4"	606269	TNFRSF13C	Tnfrsf13c	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes	['b.cell']	['B.cell']
+613495	"Immunodeficiency, Common Variable, 5"	112210	MS4A1	Ms4a1	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes	['b.cell']	['B.cell']
+613496	"Immunodeficiency, Common Variable, 6"	186845	CD81	Cd81	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes	['b.cell']	['B.cell']
+613500	"Agammaglobulinemia 2, Autosomal Recessive"	146770	IGLL1	Igll1	1	1	PS601495	Agammaglobulinemia	0	0	Yes		
+613501	"Agammaglobulinemia 3, Autosomal Recessive"	112205	CD79A	Cd79a	1	1	PS601495	Agammaglobulinemia	1	1	Yes		
+613502	"Agammaglobulinemia 4, Autosomal Recessive"	604515	BLNK	Blnk	1	1	PS601495	Agammaglobulinemia	1	1	Yes		
+613563	Noonan Syndrome-like Disorder With Or Without Juvenile Myelomonocyticleukemia	165360	CBL	Cbl	1	1			1	1	NA		
+613658	Rajab Interstitial Lung Disease With Brain Calcifications	609690	FARSB	Farsb	1	1	PS613658	Rajab interstitial lung disease with brain calcifications	1	1	Yes	['smooth.muscle.cell']	
+613759	"Infections, Recurrent, With Encephalopathy, Hepatic Dysfunction, And Cardiovascular Malformations"	602457	FADD	Fadd	1	1			1	1	NA		
+613791	Masp2 Deficiency	605102	MASP2	Masp2	1	1	PS614372	Lectin complement activation pathway defects	0	0			
+613795	"Loeys-dietz Syndrome, Type 3"	603109	SMAD3	Smad3	1	1	PS609192	Loeys-Dietz syndrome	1	1	No		
+613803	Meier-gorlin Syndrome 3	607213	ORC6	Orc6	1	1	PS224690	Meier-Gorlin syndrome	0	1	Yes		
+613804	Meier-gorlin Syndrome 4	605525	CDT1	Cdt1	1	1	PS224690	Meier-Gorlin syndrome	1	1	Yes		
+613807	"Ciliary Dyskinesia, Primary, 14"	613798	CCDC39	Ccdc39	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+613808	"Ciliary Dyskinesia, Primary, 15"	613799	CCDC40	Ccdc40	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+613848	"Osteogenesis Imperfecta, Type X"	600943	SERPINH1	Serpinh1	1	1	PS166200	Osteogenesis imperfecta	1	1	Yes	['adventitial.cell']	['fibroblast.1']
+613854	"Congenital Heart Defects, Multiple Types, 6"	602880	GDF1	Gdf1	1	1			0	0			
+613860	Immunodeficiency Due To Ficolin 3 Deficiency	604973	FCN3		1	1	PS614372	Lectin complement activation pathway defects	1	0			
+613953	Immunodeficiency 51	605461	IL17RA	Il17ra	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+613960	"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-positive,type Iii"	601488	NCF4	Ncf4	1	1	PS306400	"Granulomatous disease, chronic"	1	1	Yes	['neutrophil']	
+613989	"Dyskeratosis Congenita, Autosomal Dominant, 2"	187270	TERT	Tert	1	1	PS127550	Dyskeratosis congenita	0	0	Yes	['bronchial.vessel.endothelial.cell']	
+613990	"Dyskeratosis Congenita, Autosomal Dominant, 3"	604319	TINF2	Tinf2	1	1	PS127550	Dyskeratosis congenita	1	0	Yes	['bronchial.vessel.endothelial.cell']	
+614069	Immunodeficiency-centromeric Instability-facial Anomalies Syndrome2	614064	ZBTB24	Zbtb24	1	1	PS242860	Immunodeficiency-centromeric instability-facial anomalies	1	1	Yes	"['cd8.positive..alpha.beta.t.cell', 'cd4.positive..alpha.beta.t.cell', 'b.cell']"	
+614073	Hermansky-pudlak Syndrome 4	606682	HPS4	Hps4	1	1	PS203300	Hermansky-Pudlak syndrome	1	1	Yes		
+614075	Hermansky-pudlak Syndrome 6	607522	HPS6	Hps6	1	1	PS203300	Hermansky-Pudlak syndrome	1	0			
+614080	Multiple Congenital Anomalies-hypotonia-seizures Syndrome 1	606097	PIGN	Pign	1	1	PS614080	Multiple congenital anomalies-hypotonia-seizures syndrome	1	1	Yes	"['pulmonary.ionocyte', 'serous.cell.of.epithelium.of.bronchus']"	
+614091	Short-rib Thoracic Dysplasia 7 With Or Without Polydactyly	613602	WDR35	Wdr35	1	1	PS208500	Short-rib thoracic dysplasia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+614096	Combined Oxidative Phosphorylation Deficiency 8	612035	AARS2	Aars2	1	1	PS609060	Combined oxidative phosphorylation deficiency	1	1	NA	"['fibroblast', 'nk.cell']"	
+614099	Cranioectodermal Dysplasia 3	614068	IFT43	Ift43	1	1	PS218330	Cranioectodermal dysplasia	1	0		['lung.ciliated.cell']	['ciliated.epithelial.cell']
+614114	Mosaic Variegated Aneuploidy Syndrome 2	607951	CEP57	Cep57	1	1	PS257300	Mosaic variegated aneuploidy syndrome	1	1	Yes	['nk.cell']	
+614162	Immunodeficiency 31c	600555	STAT1	Stat1	1	1	PS114580	Familial candidiasis	1	1	Yes		
+614162	Immunodeficiency 31c	600555	STAT1	Stat1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+614231	"Microcephaly, Epilepsy, And Diabetes Syndrome"	609382	IER3IP1	Ier3ip1	1	1			1	1	NA		
+614327	Tumor Predisposition Syndrome	603089	BAP1	Bap1	1	1			1	1	Yes	"['fibroblast', 'pulmonary.ionocyte']"	
+614370	"Surfactant Metabolism Dysfunction, Pulmonary, 5"	138981	CSF2RB	Csf2rb2	1	1	PS265120	"Surfactant metabolism dysfunction, pulmonary"	1	1	Yes	['type.ii.pneumocyte']	['pulmonary.ionocyte..type.II.pneumocyte']
+614370	"Surfactant Metabolism Dysfunction, Pulmonary, 5"	138981	CSF2RB	Csf2rb	1	1	PS265120	"Surfactant metabolism dysfunction, pulmonary"	1	1	Yes	['type.ii.pneumocyte']	['pulmonary.ionocyte..type.II.pneumocyte']
+614378	Cranioectodermal Dysplasia 4	608151	WDR19	Wdr19	1	1	PS218330	Cranioectodermal dysplasia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+614432	Ventricular Septal Defect 3	600584	NKX2-5	Nkx2-5	1	1	PS614429	Ventricular septal defect	0	0			
+614433	Atrial Septal Defect 8	602937	CITED2	Cited2	1	1	PS108800	Atrial septal defect	1	1	No		
+614437	"Cutis Laxa, Autosomal Recessive, Type Ib"	604633	EFEMP2	Efemp2	1	1	PS123700	Cutis laxa	1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast']"	
+614468	Familial Cold Autoinflammatory Syndrome 3	600220	PLCG2	Plcg2	1	1	PS120100	Familial cold autoinflammatory syndrome	1	1	No		
+614470	"Ras-associated Autoimmune Lymphoproliferative Syndrome Type Iv, Somatic"	190070	KRAS	Kras	1	1			1	1	NA		
+614679	"Ciliary Dyskinesia, Primary, 17"	614677	CCDC103	Ccdc103	1	1	PS244400	Primary ciliary dyskinesia	0	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+614699	"Immunodeficiency, Common Variable, 7"	120650	CR2	Cr2	1	1	PS607594	"Immunodeficiency, common variable"	0	1	Yes	['b.cell']	['B.cell']
+614700	"Immunodeficiency, Common Variable, 8, With Autoimmunity"	606453	LRBA	Lrba	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes	['b.cell']	['B.cell']
+614742	"Pulmonary Fibrosis And/or Bone Marrow Failure, Telomere-related, 1"	187270	TERT	Tert	1	1	PS614742	"Pulmonary fibrosis and/or bone marrow failure, telomere-related"	0	0		['nk.cell']	
+614743	"Pulmonary Fibrosis And/or Bone Marrow Failure, Telomere-related, 2"	602322	TERC		1	1	PS614742	"Pulmonary fibrosis and/or bone marrow failure, telomere-related"	0	0		['nk.cell']	
+614748	"Interstitial Lung Disease, Nephrotic Syndrome, And Epidermolysis Bullosa, Congenital"	605025	ITGA3	Itga3	1	1			1	1	Yes	"['capillary.aerocyte', 'type.i.pneumocyte']"	['capillary.endothelial.cell']
+614816	"Loeys-dietz Syndrome, Type 4"	190220	TGFB2	Tgfb2	1	1	PS609192	Loeys-Dietz syndrome	1	1	No		
+614874	"Ciliary Dyskinesia, Primary, 18"	614864	DNAAF5	Dnaaf5	1	1	PS244400	Primary ciliary dyskinesia	1	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+614878	"Autoinflammation, Antibody Deficiency, And Immune Dysregulation, Plcg2-associated"	600220	PLCG2	Plcg2	1	1			1	1	Yes	"['b.cell', 'pulmonary.ionocyte']"	
+614885	Peroxisome Biogenesis Disorder 11b	601789	PEX13	Pex13	1	1	PS214100	Peroxisome biogenesis disorder	1	1	No		
+614935	"Ciliary Dyskinesia, Primary, 19"	614930	DNAAF11	Lrrc6	1	1	PS244400	Primary ciliary dyskinesia	0	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+614941	"Ectodermal Dysplasia 11b, Hypohidrotic/hair/tooth Type, Autosomal Recessive"	606603	EDARADD	Edaradd	1	1	PS305100	Ectodermal dysplasia (select examples)	1	1	NA		
+614962	Leptin Deficiency Or Dysfunction	164160	LEP	Lep	1	1			0	0			
+614963	Leptin Receptor Deficiency	601007	LEPR	Lepr	1	1			1	1	No		
+615067	"Ciliary Dyskinesia, Primary, 20"	615038	ODAD1	Odad1	1	1	PS244400	Primary ciliary dyskinesia	0	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+615122	Lymphoproliferative Syndrome 2	186711	CD27	Cd27	1	1	PS308240	Lymphoproliferative syndrome	1	1	No	"['cd8.positive..alpha.beta.t.cell', 'cd4.positive..alpha.beta.t.cell', 'nk.cell']"	['lymphocyte']
+615139	"Facial Dysmorphism, Immunodeficiency, Livedo, And Short Stature"	174762	POLE	Pole	1	1			1	0			
+615206	Card11 Immunodeficiency	607210	CARD11	Card11	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615207	Il21r Immunodeficiency	605383	IL21R	Il21r	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615214	"Agammaglobulinemia 7, Autosomal Recessive"	171833	PIK3R1	Pik3r1	1	1	PS601495	Agammaglobulinemia	1	1	Yes		
+615228	"Mitochondrial Complex V (atp Synthase) Deficiency, Nuclear Type 4"	164360	ATP5F1A	Atp5a1	1	1	PS604273	"Mitochondrial complex V (ATP synthase) deficiency, nuclear type"	1	1	Yes	['pulmonary.ionocyte']	
+615273	Congenital Disorder Of Deglycosylation	610661	NGLY1	Ngly1	1	1			1	1	No		
+615294	"Ciliary Dyskinesia, Primary, 21"	615288	DRC1	Drc1	1	1	PS244400	Primary ciliary dyskinesia	1	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+615355	Noonan Syndrome 8	609591	RIT1	Rit1	1	1	PS163950	Noonan syndrome	1	1	No		
+615401	Immunodeficiency 8	605000	CORO1A	Coro1a	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615415	Renal-hepatic-pancreatic Dysplasia 2	609799	NEK8	Nek8	1	1	PS208540	Renal-hepatic-pancreatic dysplasia	0	0		['fibroblast']	
+615444	"Ciliary Dyskinesia, Primary, 22"	607070	ZMYND10	Zmynd10	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+615451	"Ciliary Dyskinesia, Primary, 23"	615408	ODAD2	Odad2	1	1	PS244400	Primary ciliary dyskinesia	0	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+615481	"Ciliary Dyskinesia, Primary, 24"	609314	RSPH1	Rsph1	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+615482	"Ciliary Dyskinesia, Primary, 25"	608706	DNAAF4	Dnaaf4	1	1	PS244400	Primary ciliary dyskinesia	1	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+615486	Interstitial Lung And Liver Disease	156560	MARS1	Mars1	1	1			0	0			
+615500	"Ciliary Dyskinesia, Primary, 26"	615494	CFAP298	Cfap298	1	1	PS244400	Primary ciliary dyskinesia	1	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+615503	Short-rib Thoracic Dysplasia 8 With Or Without Polydactyly	615462	DYNC2I1	Dync2i1	1	1	PS208500	Short-rib thoracic dysplasia	0	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+615504	"Ciliary Dyskinesia, Primary, 27"	611088	CCDC65	Ccdc65	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+615505	"Ciliary Dyskinesia, Primary, 28"	603395	SPAG1	Spag1	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+615508	"Erythroderma, Congenital, With Palmoplantar Keratoderma, Hypotrichosis, And Hyper-ige"	125670	DSG1	Dsg1a	1	1			0	0			
+615508	"Erythroderma, Congenital, With Palmoplantar Keratoderma, Hypotrichosis, And Hyper-ige"	125670	DSG1	Dsg1b	1	1			0	0			
+615513	Immunodeficiency 14	602839	PIK3CD	Pik3cd	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615518	Immunodeficiency 13	604011	UNC119	Unc119	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615524	"Microphthalmia, Syndromic 12"	180220	RARB	Rarb	1	1	PS309800	"Microphthalmia, syndromic"	1	0	Yes	"['bronchial.vessel.endothelial.cell', 'endothelial.cell.of.artery']"	
+615559	"Autoimmune Lymphoproliferative Syndrome, Type Iii"	176977	PRKCD	Prkcd	1	1			1	1	NA		
+615561	Complement Factor B Deficiency	138470	CFB	Cfb	1	1			1	1	NA		
+615577	"Immunodeficiency, Common Variable, 10"	164012	NFKB2	Nfkb2	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes	['b.cell']	['B.cell']
+615592	Immunodeficiency 15	603258	IKBKB	Ikbkb	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615607	Immunodeficiency 17	186740	CD3G	Cd3g	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615615	Immunodeficiency 18	186830	CD3E	Cd3e	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615617	Immunodeficiency 19	186790	CD3D	Cd3d	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615633	Short-rib Thoracic Dysplasia 11 With Or Without Polydactyly	613363	DYNC2I2	Dync2i2	1	1	PS208500	Short-rib thoracic dysplasia	0	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+615636	Joubert Syndrome 21	611654	CSPP1	Cspp1	1	1	PS213300	Joubert syndrome	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+615688	"Vasculitis, Autoinflammation, Immunodeficiency, And Hematologic Defects Syndrome"	607575	ADA2		1	1			1	0			
+615704	"Poikiloderma, Hereditary Fibrosing, With Tendon Contractures, Myopathy,and Pulmonary Fibrosis"	615584	FAM111B		1	1			0	0			
+615707	Immunodeficiency 20	146740	FCGR3A	Fcgr4	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615721	Renal Hypodysplasia/aplasia 2	605558	FGF20	Fgf20	1	1	PS191830	Renal hypodysplasia/aplasia	0	0		"['alveolar.fibroblast', 'bronchial.smooth.muscle.cell', 'fibroblast']"	['fibroblast']
+615758	Immunodeficiency 22	153390	LCK	Lck	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615767	"Immunodeficiency, Common Variable, 11"	605384	IL21	Il21	1	1	PS607594	"Immunodeficiency, common variable"	0	0	Yes	['b.cell']	['B.cell']
+615816	Immunodeficiency 23	172100	PGM3	Pgm3	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615872	"Ciliary Dyskinesia, Primary, 29"	607752	CCNO	Ccno	1	1	PS244400	Primary ciliary dyskinesia	1	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+615897	Immunodeficiency 24	123860	CTPS1	Ctps	1	1	PS300755	Immunodeficiency (Select Examples)	1	0	Yes		
+615934	"Sting-associated Vasculopathy, Infantile-onset"	612374	STING1	Sting1	1	1			0	0			
+615952	"Autoimmune Disease, Multisystem, Infantile-onset, 1"	102582	STAT3	Stat3	1	1	PS615952	"Autoimmune disease, multisystem, infantile-onset"	1	1	Yes	['neutrophil']	
+615966	Immunodeficiency 26 With Or Without Neurologic Abnormalities	600899	PRKDC	Prkdc	1	1	PS300755	Immunodeficiency (Select Examples)	1	0	Yes		
+615993	Bardet-biedl Syndrome 16	613524	SDCCAG8	Sdccag8	1	1	PS209900	Bardet-Biedl syndrome	1	1	Yes	['fibroblast']	
+616005	Immunodeficiency 36	171833	PIK3R1	Pik3r1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+616006	Hennekam Lymphangiectasia-lymphedema Syndrome 2	612411	FAT4	Fat4	1	1	PS235510	Hennekam lymphangiectasia-lymphedema syndrome	1	0			
+616022	"Neutropenia, Severe Congenital, 6, Autosomal Recessive"	616012	JAGN1	Jagn1	1	1	PS202700	"Neutropenia, severe congenital"	1	1	Yes	"['plasmacytoid.dendritic.cell', 'pulmonary.ionocyte']"	['ciliated.epithelial.cell']
+616037	"Ciliary Dyskinesia, Primary, 30"	615956	ODAD3	Odad3	1	1	PS244400	Primary ciliary dyskinesia	0	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+616050	Autoinflammation With Infantile Enterocolitis	606831	NLRC4	Nlrc4	1	1			1	0			
+616069	"Inflammatory Skin And Bowel Disease, Neonatal, 2"	131550	EGFR	Egfr	1	1	PS614328	Neonatal inflammatory skin and bowel disease	1	1	Yes	"['basal.cell', 'pulmonary.ionocyte']"	
+616100	"Autoimmune Lymphoproliferative Syndrome, Type V"	123890	CTLA4	Ctla4	1	1			1	0			
+616260	Tenorio Syndrome	610432	RNF125		1	1			1	0			
+616300	Short-rib Thoracic Dysplasia 13 With Or Without Polydactyly	613446	CEP120	Cep120	1	1	PS208500	Short-rib thoracic dysplasia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+616368	Chops Syndrome	604417	AFF4	Aff4	1	1			1	1	Yes	"['endothelial.cell.of.artery', 'pericyte.cell']"	['pericyte.cell']
+616371	"Pulmonary Fibrosis And/or Bone Marrow Failure, Telomere-related, 4"	604212	PARN	Parn	1	1	PS614742	"Pulmonary fibrosis and/or bone marrow failure, telomere-related"	1	1	Yes	['nk.cell']	
+616373	"Pulmonary Fibrosis And/or Bone Marrow Failure, Telomere-related, 3"	608833	RTEL1	Rtel1	1	1	PS614742	"Pulmonary fibrosis and/or bone marrow failure, telomere-related"	0	0	Yes	['nk.cell']	
+616414	"Autoimmune Interstitial Lung, Joint, And Kidney Disease"	601924	COPA	Copa	1	1			1	1	Yes	"['fibroblast', 'plasmacytoid.dendritic.cell']"	
+616481	"Ciliary Dyskinesia, Primary, 32"	615876	RSPH3	Rsph3a	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+616481	"Ciliary Dyskinesia, Primary, 32"	615876	RSPH3	Rsph3b	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+616503	*616503 Lethal Congenital Contracture Syndrome 9	612243	ADGRG6	Adgrg6	1	1	PS253310	Lethal congenital contracture syndrome	1	0	Yes		
+616546	Short-rib Thoracic Dysplasia 14 With Polydactyly	610178	KIAA0586	2700049A03Rik	1	1	PS208500	Short-rib thoracic dysplasia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+616576	"Immunodeficiency, Common Variable, 12"	164011	NFKB1	Nfkb1	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes	['b.cell']	['B.cell']
+616579	"Mental Retardation, Autosomal Dominant 40"	616327	CHAMP1	Champ1	1	1	PS156200	"Mental retardation, autosomal dominant"	1	0	Yes	"['pericyte.cell', 'plasmacytoid.dendritic.cell']"	
+616651	Roifman Syndrome	601428	RNU4ATAC		1	1			0	0			
+616720	"Myasthenic Syndrome, Congenital, 19"	120350	COL13A1	Col13a1	1	1	PS601462	"Myasthenic syndrome, congenital"	1	1	Yes	"['alveolar.fibroblast', 'basophil']"	['fibroblast']
+616726	"Ciliary Dyskinesia, Primary, 33"	605178	GAS8	Gas8	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+616733	"Coenzyme Q10 Deficiency, Primary, 8"	601683	COQ7	Coq7	1	1	PS607426	"Coenzyme Q10 deficiency, primary"	1	1	Yes	"['neutrophil', 'pulmonary.ionocyte']"	
+616740	Immunodeficiency 46	190010	TFRC	Tfrc	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+616749	"Heterotaxy, Visceral, 7, Autosomal"	608416	MMP21	Mmp21	1	1	PS306955	"Heterotaxy, visceral"	0	0			
+616777	Seckel Syndrome 9	605958	TRAIP	Traip	1	1	PS210600	Seckel syndrome	1	1	NA		
+616784	Joubert Syndrome 26	616650	KATNIP	Katnip	1	1	PS213300	Joubert syndrome	0	0		['lung.ciliated.cell']	['ciliated.epithelial.cell']
+616835	Meier-gorlin Syndrome 6	602842	GMNN	Gmnn	1	1	PS224690	Meier-Gorlin syndrome	1	1	Yes		
+616843	"Lymphedema, Hereditary, Iii"	611184	PIEZO1	Piezo1	1	1	PS153100	Lymphatic malformation	1	0		"['capillary.endothelial.cell', 'endothelial.cell.of.artery', 'endothelial.cell.of.lymphatic.vessel', 'vein.endothelial.cell']"	['pulmonary.artery.endothelial.cell']
+616866	Spinal Muscular Atrophy With Congenital Bone Fractures 1	604501	TRIP4	Trip4	1	1	PS616866	Spinal muscular atrophy with congenital bone fractures	1	1	Yes	"['plasmacytoid.dendritic.cell', 'pulmonary.ionocyte']"	['ciliated.epithelial.cell']
+616867	Spinal Muscular Atrophy With Congenital Bone Fractures 2	614215	ASCC1	Ascc1	1	1	PS616866	Spinal muscular atrophy with congenital bone fractures	1	1	Yes	"['plasmacytoid.dendritic.cell', 'pulmonary.ionocyte']"	['ciliated.epithelial.cell']
+616894	"Robinow Syndrome, Autosomal Dominant 3"	601368	DVL3	Dvl3	1	1	PS268310	Robinow syndrome	1	0			
+616897	"Osteochondrodysplasia, Complex Lethal, Symoens-barnes-gistelinck Type"	612758	TAPT1	Tapt1	1	1			1	1	Yes	"['club.cell', 'endothelial.cell.of.lymphatic.vessel', 'myofibroblast.cell']"	
+617022	Lethal Congenital Contracture Syndrome 10	609798	NEK9	Nek9	1	1	PS253310	Lethal congenital contracture syndrome	1	1	Yes		
+617050	Hermansky-pudlak Syndrome 10	607246	AP3D1	Ap3d1	1	1	PS203300	Hermansky-Pudlak syndrome	1	1	Yes		
+617053	Mirage Syndrome	610456	SAMD9		1	1			1	0			
+617063	Meier-gorlin Syndrome 7	603465	CDC45	Cdc45	1	1	PS224690	Meier-Gorlin syndrome	0	0			
+617091	"Ciliary Dyskinesia, Primary, 34"	610263	DNAJB13	Dnajb13	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+617092	"Ciliary Dyskinesia, Primary, 35"	617095	ODAD4	Odad4	1	1	PS244400	Primary ciliary dyskinesia	0	0	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+617175	Retinal Dystrophy With Or Without Extraocular Anomalies	607867	RCBTB1	Rcbtb1	1	1			1	1	Yes	"['endothelial.cell.of.lymphatic.vessel', 'type.i.pneumocyte']"	
+617180	Chitayat Syndrome	611888	ERF	Erf	1	1			1	1	Yes		
+617194	Lethal Congenital Contracture Syndrome 11	608603	GLDN	Gldn	1	1	PS253310	Lethal congenital contracture syndrome	1	0			
+617205	"Heterotaxy, Visceral, 8, Autosomal"	609721	PKD1L1	Pkd1l1	1	1	PS306955	"Heterotaxy, visceral"	0	0			
+617237	Immunodeficiency 49	606558	BCL11B	Bcl11b	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+617241	"Lung Disease, Immunodeficiency, And Chromosome Breakage Syndrome"	608243	NSMCE3	Nsmce3	1	1			1	0			
+617258	"Myopathy, Myofibrillar, 8"	617220	PYROXD1	Pyroxd1	1	1	PS601419	"Myopathy, myofibrillar"	1	1	Yes	"['nk.cell', 'pulmonary.ionocyte']"	
+617300	"Hydrops Fetalis, Nonimmune, And/or Atrial Septal Defect, Susceptibility To"	600011	EPHB4	Ephb4	1	1	PS153100	Lymphatic malformation	1	1	Yes	"['capillary.endothelial.cell', 'endothelial.cell.of.artery', 'endothelial.cell.of.lymphatic.vessel', 'vein.endothelial.cell']"	['pulmonary.artery.endothelial.cell']
+617303	Mucopolysaccharidosis-plus Syndrome	610034	VPS33A	Vps33a	1	1			1	1	NA		
+617321	Yao Syndrome	605956	NOD2	Nod2	1	1			1	0			
+617402	"Cutis Laxa, Autosomal Recessive, Type Iic"	108746	ATP6V1E1	Atp6v1e1	1	1	PS123700	Cutis laxa	1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast']"	
+617468	"Arthrogryposis Multiplex Congenita, Neurogenic, With Myelin Defect"	608303	LGI4	Lgi4	1	1	PS617468	Arthrogryposis multiplex congenita	1	1	Yes	"['pericyte.cell', 'vascular.associated.smooth.muscle.cell']"	
+617475	Specific Granule Deficiency 2	601736	SMARCD2	Smarcd2	1	1	PS245480	Specific granule deficiency	1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast', 'fibroblast', 'serous.cell.of.epithelium.of.bronchus']"	
+617478	Structural Heart Defects And Renal Anomalies Syndrome	617449	TMEM260	Tmem260	1	1			1	0			
+617506	Noonan Syndrome-like Disorder With Loose Anagen Hair 2	600590	PPP1CB	Ppp1cb	1	1	PS163950	Noonan syndrome	1	1	No		
+617506	Noonan Syndrome-like Disorder With Loose Anagen Hair 2	600590	PPP1CB	Ppp1cb	1	1	PS607721	Noonan syndrome-like disorder with loose anagen hair	1	1	No		
+617514	Immunodeficiency 52	602354	LAT	Lat	1	1	PS300755	Immunodeficiency (Select Examples)	0	1	Yes		
+617585	Immunodeficiency 53	604758	RELB	Relb	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+617602	Congenital Heart Defects And Skeletal Malformations Syndrome	189980	ABL1	Abl1	1	1			1	1	Yes	"['adventitial.cell', 'myofibroblast.cell']"	
+617638	Immunodeficiency 11b With Atopic Dermatitis	607210	CARD11	Card11	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+617667	Fraser Syndrome 3	604597	GRIP1	Grip1	1	1	PS219000	Fraser syndrome	1	0	Yes		
+617695	"Pontocerebellar Hypoplasia, Type 11"	617687	TBC1D23	Tbc1d23	1	1	PS607596	Pontocerebellar hypoplasia	1	1	No	"['b.cell', 'plasmacytoid.dendritic.cell']"	
+617744	"Immunodeficiency, Developmental Delay, And Hypohomocysteinemia"	600492	NFE2L2	Nfe2l2	1	1			1	1	NA		
+617780	Combined Immunodeficiency And Megaloblastic Anemia With Or Without Hyperhomocysteinemia	172460	MTHFD1	Mthfd1	1	1			1	1	Yes	"['basophil', 'fibroblast', 'myofibroblast.cell']"	
+617809	Geleophysic Dysplasia 3	602090	LTBP3	Ltbp3	1	1	PS231050	Geleophysic dysplasia	1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast']"	
+617895	Short-rib Thoracic Dysplasia-19 With Or Without Polydactyly (srtd19)	605489	IFT81	Ift81	1	1	PS208500	Short-rib thoracic dysplasia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+617925	Short-rib Throacic Dysplasia 20 With Polydactyly	610621	INTU	Intu	1	1	PS208500	Short-rib thoracic dysplasia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+618021	Tetraamelia Syndrome 2	610575	RSPO2	Rspo2	1	1			0	0			
+618065	"Pontocerebellar Hypoplasia, Type 1d"	606180	EXOSC9	Exosc9	1	1	PS607596	Pontocerebellar hypoplasia	1	1	Yes	"['b.cell', 'plasmacytoid.dendritic.cell']"	
+618108	Immunodeficiency 57	603453	RIPK1	Ripk1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618116	Bone Marrow Failure Syndrome 4	612176	MYSM1	Mysm1	1	1	PS614675	Bone marrow failure syndrome	1	1	NA		
+618131	Immunodeficiency 58	610859	CARMIL2	Carmil2	1	1	PS300755	Immunodeficiency (Select Examples)	0	0			
+618175	Warburg-cinotti Syndrome	191311	DDR2	Ddr2	1	1			1	1	Yes	"['adventitial.cell', 'alveolar.fibroblast', 'fibroblast']"	['fibroblast.1']
+618183	"Diarrhea 10, Protein-losing Enteropathy Type"	607647	PLVAP	Plvap	1	1	PS214700	"Diarrhea, congenital"	1	1	NA		
+618204	Immunodeficiency 15a	603258	IKBKB	Ikbkb	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618213	"Inflammatory Bowel Disease, Immunodeficiency, And Encephalopathy"	190180	TGFB1	Tgfb1	1	1			0	1			
+618254	"Ciliary Dyskinesia, Primary, 39"	618227	LRRC56	Lrrc56	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+618278	"Fibrosis, Neurodegeneration, And Cerebral Angiomatosis"	618277	NHLRC2	Nhlrc2	1	1			1	1	Yes	"['capillary.aerocyte', 'capillary.endothelial.cell', 'pulmonary.ionocyte']"	['capillary.endothelial.cell']
+618280	Cardiac-urogenital Syndrome	608329	MYRF	Myrf	1	1			1	0			
+618282	"Hyper-ige Recurrent Infection Syndrome 3, Autosomal Recessive"	618269	ZNF341	Zfp341	1	1	PS147060	Hyper-IgE recurrent infection syndrome	0	0		['neutrophil']	
+618307	"Epidermodysplasia Verruciformis, Susceptibility To, 4"	602037	RHOH	Rhoh	1	1	PS226400	"Epidermodysplasia verruciformis, susceptibility to"	1	1	Yes	"['cd4.positive..alpha.beta.t.cell', 'basophil', 'neutrophil']"	['B.cell']
+618313	Diamond-blackfan Anemia 20	603674	RPS15A	Rps15a	1	1	PS105650	Diamond-Blackfan anemia	1	1	No		
+618316	Intellectual Developmental Disorder With Cardiac Defects And Dysmorphic Facies	618163	TMEM94	Tmem94	1	1			1	0			
+618332	Menke-hennekam Syndrome 1	600140	CREBBP	Crebbp	1	1	PS618332	Menke-Hennekam syndrome	1	1	No		
+618333	Menke-hennekam Syndrome 2	602700	EP300	Ep300	1	1	PS618332	Menke-Hennekam syndrome	1	1	No		
+618371	Turnpenny-fry Syndrome	600346	PCGF2	Pcgf2	1	1			1	1	No		
+618394	Immunodeficiency 60	605394	BACH2	Bach2	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618449	"Ciliary Dyskinesia, Primary, 41"	611398	GAS2L2	Gas2l2	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+618493	"Hypotonia, Hyperventilation, Impaired Intellectual Development, Dysautonomia, Epilepsy, And Eye Abnormalities"	614584	P4HTM	P4htm	1	1			1	1	Yes	['lung.ciliated.cell']	
+618495	Immunodeficiency 63 With Lymphoproliferation And Autoimmunity	146710	IL2RB	Il2rb	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618497	Neurodevelopmental Disorder With Seizures And Nonepileptic Hyperkinetic Movements	601012	CACNA1B	Cacna1b	1	1			0	0			
+618523	"Hyper-ige Recurrent Infection Syndrome 4, Autosomal Recessive"	600694	IL6ST	Il6st	1	1	PS147060	Hyper-IgE recurrent infection syndrome	1	1	Yes	['neutrophil']	
+618534	Immunodeficiency 64	603962	RASGRP1	Rasgrp1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	142600	HK1	Hk1	1	1			1	1	No		
+618603	Neurodevelopmental Disorder With Hypotonia And Variable Intellectual And Behavioral Abnormalities	180660	POLR2A	Polr2a	1	1			1	1	No		
+618606	"Pontocerebellar Hypoplasia, Type 13"	615738	VPS51	Vps51	1	1	PS607596	Pontocerebellar hypoplasia	1	0		"['b.cell', 'plasmacytoid.dendritic.cell']"	
+618618	"Spondyloepiphyseal Dysplasia, Nishimura Type"	611894	MIR140		1	1			0	0			
+618674	"Pulmonary Fibrosis And/or Bone Marrow Failure, Telomere-related, 5"	616381	ZCCHC8	Zcchc8	1	1	PS614742	"Pulmonary fibrosis and/or bone marrow failure, telomere-related"	1	1	Yes	['nk.cell']	
+618695	"Ciliary Dyskinesia, Primary, 42"	614086	MCIDAS	Mcidas	1	1	PS244400	Primary ciliary dyskinesia	1	0		['lung.ciliated.cell']	['ciliated.epithelial.cell']
+618699	"Ciliary Dyskinesia, Primary, 43"	602291	FOXJ1	Foxj1	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+618744	"Epileptic Encephalopathy, Early Infantile, 83"	191760	UGP2	Ugp2	1	1	PS308350	Developmental and epileptic encephalopathy	1	1	NA		
+618773	Lymphatic Malformation 8	114190	CALCRL	Calcrl	1	1	PS153100	Lymphatic malformation	1	1	Yes	"['capillary.endothelial.cell', 'endothelial.cell.of.artery', 'endothelial.cell.of.lymphatic.vessel', 'vein.endothelial.cell']"	['pulmonary.artery.endothelial.cell']
+618780	"Congenital Heart Defects, Multiple Types, 7"	136352	FLT4	Flt4	1	1			1	1	No		
+618781	"Ciliary Dyskinesia, Primary, 44"	618726	NEK10		1	1	PS244400	Primary ciliary dyskinesia	1	0		['lung.ciliated.cell']	['ciliated.epithelial.cell']
+618801	"Ciliary Dyskinesia, Primary, 45"	610732	TTC12	Ttc12	1	1	PS244400	Primary ciliary dyskinesia	1	1	Yes	['lung.ciliated.cell']	['ciliated.epithelial.cell']
+618806	"T-cell Lymphopenia, Infantile, With Or Without Nail Dystrophy, Autosomal Dominant"	600838	FOXN1	Foxn1	1	1			0	0			
+618849	Bone Marrow Failure Syndrome 6	602704	MDM4	Mdm4	1	1	PS614675	Bone marrow failure syndrome	1	1	NA		
+618853	Anauxetic Dysplasia 3	617089	NEPRO	Nepro	1	1	PS607095	Anauxetic dysplasia	1	0			
+618913	Fanconi Renotubular Syndrome 5	612392	NDUFAF6	Ndufaf6	1	1	PS134600	Fanconi renotubular syndrome	1	0			
+618935	"Chronic Granulomatous Disease 5, Autosomal Recessive"	618334	CYBC1	Cybc1	1	1	PS306400	"Granulomatous disease, chronic"	1	0		['neutrophil']	
+618944	"Hyper-ige Recurrent Infection Syndrome 5, Autosomal Recessive"	147880	IL6R	Il6ra	1	1	PS147060	Hyper-IgE recurrent infection syndrome	1	1	Yes	['neutrophil']	
+618950	Suleiman-el-hattab Syndrome	608270	TASP1	Tasp1	1	1			1	0			
+618969	Immunodeficiency 70	609209	IVNS1ABP	Ivns1abp	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618975	"Myopathy, Congenital, With Diaphragmatic Defects, Respiratory Insufficiency, And Dysmorphic Facies"	159970	MYOD1	Myod1	1	1			0	0			
+618986	Immunodeficiency 73b With Defective Neutrophil Chemotaxis And Lymphopenia	602049	RAC2	Rac2	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618987	Immunodeficiency 73c With Defective Neutrophil Chemotaxis And Hypogammaglobulinemia	602049	RAC2	Rac2	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+619003	"Mitochondrial Complex I Deficiency, Nuclear Type 35"	603843	NDUFB10	Ndufb10	1	1	PS252010	"Mitochondrial complex I deficiency, nuclear type"	1	1	Yes	"['pulmonary.ionocyte', 'smooth.muscle.cell']"	
+619013	Rajab Interstitial Lung Disease With Brain Calcifications 2	602918	FARSA	Farsa	1	1	PS613658	Rajab interstitial lung disease with brain calcifications	1	1	Yes	['smooth.muscle.cell']	
+619036	"Myopathy, Epilepsy, And Progressive Cerebral Atrophy"	612866	ALG14	Alg14	1	1			1	1	Yes	"['pulmonary.ionocyte', 'respiratory.mucous.cell']"	
+619057	Combined Oxidative Phosphorylation Deficiency 51	614918	PTCD3	Ptcd3	1	1	PS609060	Combined oxidative phosphorylation deficiency	1	1	Yes	"['fibroblast', 'nk.cell']"	
+619063	"Mitochondrial Complex Iv Deficiency, Nuclear Type 19"	614771	PET117	Pet117	1	1	PS220110	"Mitochondrial complex IV deficiency, nuclear-type"	1	0			
+619126	Immunodeficiency 75	612839	TET2	Tet2	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		

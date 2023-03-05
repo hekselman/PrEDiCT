@@ -1,0 +1,20 @@
+goblet cell
+b cell
+basal cell
+cd4-positive alpha-beta t cell
+cd8-positive alpha-beta t cell
+ciliated cell
+connective tissue cell
+double-positive alpha-beta thymocyte
+endothelial cell
+fibroblast
+ionocyte
+macrophage
+mast cell
+mucus secreting cell
+neutrophil
+plasma cell
+secretory cell
+serous cell of epithelium of trachea
+smooth muscle cell
+t cell

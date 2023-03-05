@@ -1,0 +1,14 @@
+ciliated epithelial cell
+pulmonary ionocyte; type II pneumocyte
+pulmonary artery endothelial cell
+capillary endothelial cell
+pericyte cell
+B cell
+neutrophil
+alveolar macrophage
+classical monocyte
+non-classical monocyte
+lymphocyte
+myofibroblast cell
+fibroblast
+fibroblast

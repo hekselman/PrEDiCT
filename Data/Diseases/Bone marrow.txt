@@ -1,0 +1,874 @@
+Disease accession (OMIM)	Disease name (OMIM)	Gene accession (OMIM)	Gene symbol (OMIM)	Mouse ortholog (MGI)	"Known molecular basis (1=Yes, 0=No)"	"Germline aberrations (1=Yes, 0=No)"	Phenotypic series accession (OMIM)	Phenotypic series name (OMIM)	"Expressed in human tissue (1=Yes, 0=No)"	"Expressed in mouse tissue (1=Yes, 0=No)"	Inflicted tissue (ODiseA)	Human affected cell types	Mouse similar affected cell types
+102700	"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-negative,b Cell-negative, Nk Cell-negative, Due To Adenosine Deaminase Deficiency"	608958	ADA	Ada	1	1			1	1	Yes	['hematopoietic.stem.cell']	
+102900	"Adenosine Triphosphate, Elevated, Of Erythrocytes"	609712	PKLR	Pklr	1	1			1	1	Yes	['erythroid.progenitor']	['proerythroblast']
+105150	Amyloidosis Vi	604312	CST3	Cst3	1	1			1	1	No		
+105650	Diamond-blackfan Anemia 1	603474	RPS19	Rps19	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+112250	Diaphyseal Medullary Stenosis With Malignant Fibrous Histiocytoma	156540	MTAP	Mtap	1	1			1	1	Yes	['myeloid.progenitor']	
+116860	Cerebral Cavernous Malformations	604214	KRIT1	Krit1	1	1	PS116860	Cerebral cavernous malformations	1	1	No		
+116920	"Leukocyte Adhesion Deficiency, Type I"	600065	ITGB2	Itgb2	1	1			1	1	Yes		
+120100	Familial Cold Inflammatory Syndrome 1	606416	NLRP3	Nlrp3	1	1	PS120100	Familial cold autoinflammatory syndrome	1	1	Yes		
+122470	Cornelia De Lange Syndrome 1	608667	NIPBL	Nipbl	1	1	PS122470	Cornelia de Lange syndrome	1	1	No		
+122700	Coumarin Resistance	601130	CYP2C9	Cyp2c65	1	1			0	0	No		
+122700	Coumarin Resistance	601130	CYP2C9	Cyp2c66	1	1			0	0	No		
+122700	Coumarin Resistance	608547	VKORC1	Vkorc1	1	1			1	1	No		
+122700	Coumarin Resistance	122720	CYP2A6	Cyp2a4	1	1			0	0	No		
+122700	Coumarin Resistance	122720	CYP2A6	Cyp2a5	1	1			0	0	No		
+124000	Mitochondrial Complex Iii Deficiency	603647	BCS1L	Bcs1l	1	1	PS124000	"Mitochondrial complex III deficiency, nuclear type"	1	1	No		
+124900	"Deafness, Autosomal Dominant Nonsyndromic Sensorineural 1"	602121	DIAPH1	Diaph1	1	1	PS124900	"Deafness, autosomal dominant"	1	0			
+127000	"Kenny-caffey Syndrome, Type 2"	615292	FAM111A	Fam111a	1	1	PS127000	Kenny-Caffey syndrome	1	1	Yes		
+127550	"Dyskeratosis Congenita, Autosomal Dominant"	602322	TERC		1	1	PS127550	Dyskeratosis congenita	0	0	Yes		
+130000	"Ehlers-danlos Syndrome, Type I"	120215	COL5A1	Col5a1	1	1	PS130000	Ehlers-Danlos syndrome	1	1	No		
+130010	"Ehlers-danlos Syndrome, Classic Type, 2"	120190	COL5A2	Col5a2	1	1	PS130000	Ehlers-Danlos syndrome	0	0			
+130050	"Ehlers-danlos Syndrome, Vascular Type"	120180	COL3A1	Col3a1	1	1	PS130000	Ehlers-Danlos syndrome	0	0			
+130060	"Ehlers-danlos Syndrome, Type Vii, Autosomal Dominant"	120150	COL1A1	Col1a1	1	1	PS130000	Ehlers-Danlos syndrome	0	0			
+130080	"Ehlers-danlos Syndrome, Periodontal Type, 1"	613785	C1R	C1rb	1	1	PS130000	Ehlers-Danlos syndrome	0	0			
+130080	"Ehlers-danlos Syndrome, Periodontal Type, 1"	613785	C1R	C1ra	1	1	PS130000	Ehlers-Danlos syndrome	0	0			
+130600	Elliptocytosis 2	182860	SPTA1	Spta1	1	1			1	0			
+131300	Camurati-engelmann Disease	190180	TGFB1	Tgfb1	1	1			0	1	Yes		
+131950	"Epidermolysis Bullosa Simplex, Ogna Type"	601282	PLEC	Plec	1	1			1	1	No		
+133100	"Erythrocytosis, Familial, 1"	133171	EPOR	Epor	1	1	PS133100	"Erythrocytosis, familial"	1	1	Yes		
+133180	"Erythroleukemia, Familial, Susceptibility To"	190151	ERBB3	Erbb3	1	1			0	0			
+133780	Exudative Vitreoretinopathy 1	604579	FZD4	Fzd4	1	1	PS133780	Exudative vitreoretinopathy	0	0			
+139090	Gray Platelet Syndrome	614169	NBEAL2	Nbeal2	1	1	PS231200	"Bleeding disorder, platelet-type"	1	1	Yes		
+140700	Heinz Body Anemias	141900	HBB	Hbb-bt	1	1			1	0	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+140700	Heinz Body Anemias	141900	HBB	Hbb-bs	1	1			1	0	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+140700	Heinz Body Anemias	141850	HBA2	Hba-a1	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+140700	Heinz Body Anemias	141850	HBA2	Hba-a2	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+140700	Heinz Body Anemias	141800	HBA1	Hba-a1	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+140700	Heinz Body Anemias	141800	HBA1	Hba-a2	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+141749	Fetal Hemoglobin Quantitative Trait Locus 1	141900	HBB	Hbb-bt	1	1			1	0			
+141749	Fetal Hemoglobin Quantitative Trait Locus 1	141900	HBB	Hbb-bs	1	1			1	0			
+141749	Fetal Hemoglobin Quantitative Trait Locus 1	142200	HBG1		1	1			0	0			
+141749	Fetal Hemoglobin Quantitative Trait Locus 1	142250	HBG2	Hbb-y	1	1			0	0			
+142680	"Periodic Fever, Familial, Autosomal Dominant"	191190	TNFRSF1A	Tnfrsf1a	1	1			1	1	Yes		
+145600	"Malignant Hyperthermia, Susceptibility To, 1"	180901	RYR1	Ryr1	1	1	PS145600	Malignant hyperthermia	0	1	No		
+147060	Hyper-ige Recurrent Infection Syndrome	102582	STAT3	Stat3	1	1	PS147060	Hyper-IgE recurrent infection syndrome	1	1	Yes		
+147750	Ivic Syndrome	607343	SALL4	Sall4	1	1			0	0			
+147920	Kabuki Syndrome	602113	KMT2D	Kmt2d	1	1	PS147920	Kabuki syndrome	1	0			
+150550	"Periodic Fever, Immunodeficiency, And Thrombocytopenia Syndrome"	604734	WDR1	Wdr1	1	1			1	1	Yes	['cd24.neutrophil']	
+151623	Li-fraumeni Syndrome 1	191170	TP53	Trp53	1	1	PS151623	Li-Fraumeni syndrome	1	1	Yes	['myeloid.progenitor']	
+152700	Systemic Lupus Erythematosus	600716	PTPN22	Ptpn22	1	1			1	1	Yes		
+152700	Systemic Lupus Erythematosus	146790	FCGR2A	Fcgr3	1	1			1	1	Yes		
+152700	Systemic Lupus Erythematosus	604590	FCGR2B	Fcgr2b	1	1			1	1	Yes		
+152700	Systemic Lupus Erythematosus	123890	CTLA4	Ctla4	1	1			1	1	Yes		
+152700	Systemic Lupus Erythematosus	606609	TREX1	Trex1	1	1			0	1	Yes		
+152700	Systemic Lupus Erythematosus	125505	DNASE1	Dnase1	1	1			1	0	Yes		
+153670	"Bernard-soulier Syndrome, Benign Autosomal Dominant"	606672	GP1BA	Gp1ba	1	1			1	0			
+154800	Mast Cell Disease	164920	KIT	Kit	1	1			1	1	Yes	"['erythroid.progenitor', 'myeloid.progenitor']"	
+155100	May-hegglin Anomaly	160775	MYH9	Myh9	1	1	PS231200	"Bleeding disorder, platelet-type"	1	1	Yes		
+158310	"Mucoepithelial Dysplasia, Hereditary"	184756	SREBF1	Srebf1	1	1			1	1	NA		
+158350	Cowden Disease	601728	PTEN	Pten	1	1	PS158350	Cowden disease	1	1	Yes	"['nampt.neutrophil', 'neutrophil']"	
+159550	Ataxia-pancytopenia Syndrome	611170	SAMD9L	Samd9l	1	1			1	1	Yes	['cd24.neutrophil']	"['band.form.neutrophil', 'segmented.neutrophil.of.bone.marrow']"
+162800	Cyclic Hematopoiesis	130130	ELANE	Elane	1	1			1	1	Yes	['granulocyte']	
+163950	Noonan Syndrome 1	176876	PTPN11	Ptpn11	1	1	PS163950	Noonan syndrome	1	1	Yes		
+166200	"Osteogenesis Imperfecta, Type I"	120150	COL1A1	Col1a1	1	1	PS166200	Osteogenesis imperfecta	0	0			
+166600	"Osteopetrosis, Autosomal Dominant 2"	602727	CLCN7	Clcn7	1	1	PS607634	"Osteopetrosis, autosomal dominant"	1	0		"['cd24.neutrophil', 'neutrophil']"	['segmented.neutrophil.of.bone.marrow']
+166900	"Ovalocytosis, Hereditary Hemolytic"	109270	SLC4A1	Slc4a1	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'proerythroblast']"
+167800	"Pancreatitis, Hereditary"	601405	CTRC	Ctrc	1	1			0	0			
+167800	"Pancreatitis, Hereditary"	167790	SPINK1	Spink1	1	1			0	0			
+167800	"Pancreatitis, Hereditary"	602421	CFTR	Cftr	1	1			0	0			
+167800	"Pancreatitis, Hereditary"	276000	PRSS1	Try10	1	1			0	0			
+167800	"Pancreatitis, Hereditary"	601564	PRSS2	Prss2	1	1			0	0			
+169400	Pelger-huet Anomaly	600024	LBR	Lbr	1	1			1	1	Yes	['cd24.neutrophil']	
+170100	Prolidase Deficiency	613230	PEPD	Pepd	1	1			1	1	Yes		
+171300	Pheochromocytoma	605995	KIF1B	Kif1b	1	1			1	1	NA		
+171300	Pheochromocytoma	185470	SDHB	Sdhb	1	1			1	1	NA		
+171300	Pheochromocytoma	613403	TMEM127	Tmem127	1	1			1	1	NA		
+171300	Pheochromocytoma	608537	VHL	Vhl	1	1			1	1	NA		
+171300	Pheochromocytoma	600837	GDNF	Gdnf	1	1			0	0	NA		
+171300	Pheochromocytoma	164761	RET	Ret	1	1			0	0	NA		
+171300	Pheochromocytoma	602690	SDHD	Sdhd	1	1			1	1	NA		
+171300	Pheochromocytoma	154950	MAX	Max	1	1			1	1	NA		
+174000	Medullary Cystic Kidney Disease 1	158340	MUC1		1	1	PS162000	Tubulointerstitial kidney disease	1	0		['plasma.cell']	['plasma.cell']
+174900	"Juvenile Polyposis Syndrome Juvenile Intestinal Polyposis Polyposis, Familial, Of Entire Gastrointestinal Tract Juvenile Polyposis Of Stomach, Included Juvenile Polyposis Coli, Included"	601299	BMPR1A	Bmpr1a	1	1			0	0	Yes		
+174900	"Juvenile Polyposis Syndrome Juvenile Intestinal Polyposis Polyposis, Familial, Of Entire Gastrointestinal Tract Juvenile Polyposis Of Stomach, Included Juvenile Polyposis Coli, Included"	600993	SMAD4	Smad4	1	1			1	1	Yes		
+175050	Juvenile Polyposis/hereditary Hemorrhagic Telangiectasia Syndrome	600993	SMAD4	Smad4	1	1			1	1	Yes		
+175200	Peutz-jeghers Syndrome	602216	STK11	Stk11	1	1			1	1	Yes	['erythrocyte']	['proerythroblast']
+175780	Brain Small Vessel Disease 1 With Or Without Ocular Anomalies	120130	COL4A1	Col4a1	1	1	PS175780	Brain small vessel disease	0	0			
+176860	"Thrombophilia, Hereditary, Due To Protein C Deficiency, Autosomaldominant"	612283	PROC	Proc	1	1	PS188050	Thrombophilia	0	0	Yes		
+177000	"Protoporphyria, Erythropoietic, 1"	612386	FECH	Fech	1	1	PS177000	"Protoporphyria, erythropoietic"	1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+177820	Pseudo-von Willebrand Disease	606672	GP1BA	Gp1ba	1	1	PS231200	"Bleeding disorder, platelet-type"	1	0	Yes		
+177850	"Pseudoxanthoma Elasticum, Forme Frustepseudoxanthoma Elasticum, Heterozygous, Included"	603234	ABCC6	Abcc6	1	1			0	0			
+178600	"Pulmonary Hypertension, Primary, 1"	600799	BMPR2	Bmpr2	1	1	PS178600	"Pulmonary hypertension, primary"	1	0			
+180000	"Retinal Arteries, Tortuosity Of"	120130	COL4A1	Col4a1	1	1			0	0			
+180200	Retinoblastoma	614041	RB1	Rb1	1	1			1	1	Yes	['naive.b.cell']	
+180849	Rubinstein-taybi Syndrome 1	600140	CREBBP	Crebbp	1	1	PS180849	Rubinstein-Taybi syndrome	1	1	No		
+181000	"Sarcoidosis, Susceptibility To, 1"	142857	HLA-DRB1		1	1			1	0			
+182170	"Anemia, Sideroblastic, Autosomal Dominant"	600548	HSPA9	Hspa9	1	1	PS300751	"Anemia, Sideroblastic"	1	1	Yes	['erythrocyte']	['erythroblast']
+182900	"Spherocytosis, Hereditary"	612641	ANK1	Ank1	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'proerythroblast']"
+185000	Overhydrated Hereditary Stomatocytosis	180297	RHAG	Rhag	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'proerythroblast']"
+185020	Cryohydrocytosis	109270	SLC4A1	Slc4a1	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'proerythroblast']"
+185070	Stormorken Syndrome	605921	STIM1	Stim1	1	1			1	1	Yes		
+187300	"Telangiectasia, Hereditary Hemorrhagic, Type 1"	131195	ENG	Eng	1	1	PS187300	"Telangiectasia, hereditary hemorrhagic"	1	1	Yes	['erythroid.progenitor']	
+187800	"Bleeding Disorder, Platelet-type, 16"	607759	ITGA2B	Itga2b	1	1	PS231200	"Bleeding disorder, platelet-type"	1	1	Yes		
+187800	"Bleeding Disorder, Platelet-type, 16"	173470	ITGB3	Itgb3	1	1	PS231200	"Bleeding disorder, platelet-type"	1	1	Yes		
+187900	"Thrombasthenia-thrombocytopenia, Hereditary"	604383	GFI1B	Gfi1b	1	1	PS231200	"Bleeding disorder, platelet-type"	1	1	Yes		
+187950	Thrombocythemia 1	600044	THPO	Thpo	1	1	PS187950	Thrombocythemia	0	0	Yes		
+188000	Thrombocytopenia 2	610855	ANKRD26	Ankrd26	1	1	PS313900	Thrombocytopenia	1	1	Yes		
+188050	"Thrombophiliavenous Thromboembolism, Included"	607093	MTHFR	Mthfr	1	1	PS188050	Thrombophilia	1	0	Yes		
+188050	"Thrombophiliavenous Thromboembolism, Included"	134570	F13A1	F13a1	1	1	PS188050	Thrombophilia	1	1	Yes		
+188050	"Thrombophiliavenous Thromboembolism, Included"	603924	HABP2	Habp2	1	1	PS188050	Thrombophilia	0	0	Yes		
+188050	"Thrombophiliavenous Thromboembolism, Included"	176930	F2	F2	1	1	PS188050	Thrombophilia	0	0	Yes		
+188055	Thrombophilia Due To Deficiency Of Activated Protein C Cofactor	612309	F5	F5	1	1	PS188050	Thrombophilia	1	1	Yes		
+189800	Preeclampsia/eclampsia 1	163729	NOS3	Nos3	1	1	PS189800	Preeclampsia/eclampsia	0	0			
+191900	Muckle-wells Syndrome	606416	NLRP3	Nlrp3	1	1			1	1	Yes		
+192315	"Vasculopathy, Retinal, With Cerebral Leukodystrophy"	606609	TREX1	Trex1	1	1			0	1	No		
+193220	Vitreoretinochoroidopathy	607854	BEST1	Best1	1	1			1	0			
+193235	"Vitreoretinopathy, Neovascular Inflammatory"	602537	CAPN5	Capn5	1	1			0	1	No		
+193300	Von Hippel-lindau Syndrome	608537	VHL	Vhl	1	1			1	1	Yes		
+193300	Von Hippel-lindau Syndrome	168461	CCND1	Ccnd1	1	1			0	1	Yes		
+193400	Von Willebrand Disease	613160	VWF	Vwf	1	1			1	0			
+193670	Whim Syndrome	162643	CXCR4	Cxcr4	1	1			1	1	Yes		
+194380	Dehydrated Hereditary Stomatocytosis With Or Without Pseudohyperkalemiaand/or Perinatal Edema	611184	PIEZO1	Piezo1	1	1			1	0			
+200100	Abetalipoproteinemia	157147	MTTP	Mttp	1	1			0	0			
+200150	Choreoacanthocytosis	605978	VPS13A	Vps13a	1	1			1	1	Yes		
+202400	"Afibrinogenemia, Congenitalhypofibrinogenemia, Congenital, Included"	134830	FGB	Fgb	1	1			0	0			
+202400	"Afibrinogenemia, Congenitalhypofibrinogenemia, Congenital, Included"	134820	FGA	Fga	1	1			0	0			
+202400	"Afibrinogenemia, Congenitalhypofibrinogenemia, Congenital, Included"	134850	FGG	Fgg	1	1			0	0			
+202700	"Neutropenia, Severe Congenital, Autosomal Dominant 1"	130130	ELANE	Elane	1	1	PS202700	"Neutropenia, severe congenital"	1	1	Yes		
+203300	Hermansky-pudlak Syndrome	604982	HPS1	Hps1	1	1	PS203300	Hermansky-Pudlak syndrome	1	1	Yes		
+204200	"Ceroid Lipofuscinosis, Neuronal, 3"	607042	CLN3	Cln3	1	1	PS256730	Ceroid lipofuscinoses	1	1	Yes		
+205950	"Anemia, Congenital Sideroblastic, B6-nonresponsive"	610819	SLC25A38	Slc25a38	1	1	PS300751	"Anemia, Sideroblastic"	1	1	Yes	['erythrocyte']	['erythroblast']
+206100	"Anemia, Hypochromic Microcytic, With Iron Overload"	600523	SLC11A2	Slc11a2	1	1	PS206100	"Anemia, hypochromic microcytic, with iron overload"	1	1	Yes		
+206200	Iron-refractory Iron Deficiency Anemia	609862	TMPRSS6	Tmprss6	1	1			0	0			
+208050	Arterial Tortuosity Syndrome	606145	SLC2A10	Slc2a10	1	1			0	0			
+208085	"Arthrogryposis, Renal Dysfunction, And Cholestasis"	608552	VPS33B	Vps33b	1	1	PS208085	"Arthrogryposis, renal dysfunction, and cholestasis"	0	1	No		
+208400	Aspartylglucosaminuria	613228	AGA	Aga	1	1			1	1	Yes	['naive.b.cell']	
+208900	Ataxia-telangiectasia	607585	ATM	Atm	1	1			1	1	Yes	['nk.cell']	
+209300	Atransferrinemia	190000	TF	Trf	1	1			0	1	Yes		
+209920	"Bare Lymphocyte Syndrome, Type Ii"	601863	RFX5		1	1			1	0	Yes		
+209920	"Bare Lymphocyte Syndrome, Type Ii"	601861	RFXAP	Rfxap	1	1			1	1	Yes		
+209920	"Bare Lymphocyte Syndrome, Type Ii"	600005	CIITA	Ciita	1	1			1	1	Yes		
+209920	"Bare Lymphocyte Syndrome, Type Ii"	603200	RFXANK	Rfxank	1	1			1	1	Yes		
+209950	"Immunodeficiency 27a, Mycobacteriosis, Ar"	107470	IFNGR1	Ifngr1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+210250	Sitosterolemia 1	605460	ABCG8	Abcg8	1	1	PS210250	Sitosterolemia	0	0			
+210370	Bietti Crystalline Corneoretinal Dystrophy	608614	CYP4V2	Cyp4v3	1	1			1	1	Yes		
+210600	Seckel Syndrome 1	601215	ATR	Atr	1	1	PS210600	Seckel syndrome	1	0			
+210900	Bloom Syndrome	604610	BLM	Blm	1	1	PS210900	"Microcephaly, growth restriction and increased sister chromatid exchange"	1	1	Yes	['granulocyte']	['proerythroblast']
+212050	"Candidiasis, Familial, 2"	607212	CARD9	Card9	1	1	PS114580	Familial candidiasis	1	1	Yes		
+212065	"Congenital Disorder Of Glycosylation, Type Ia"	601785	PMM2	Pmm2	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	1	Yes		
+212066	"Congenital Disorder Of Glycosylation, Type Iia"	602616	MGAT2	Mgat2	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1	No		
+212350	Cataract And Cardiomyopathy	610345	AGK	Agk	1	1	PS603041	Mitochondrial DNA depletion syndrome	1	1	Yes	['nk.cell']	
+212750	Celiac Disease	146880	HLA-DQA1	H2-Aa	1	1	PS212750	Celiac disease	1	1	NA		
+212750	Celiac Disease	604305	HLA-DQB1	H2-Ab1	1	1	PS212750	Celiac disease	1	1	NA		
+214500	Chediak-higashi Syndrome	606897	LYST	Lyst	1	1			1	1	Yes	['neutrophil']	['segmented.neutrophil.of.bone.marrow']
+214800	Charge Syndrome	608166	SEMA3E	Sema3e	1	1			1	0	Yes	['nampt.neutrophil']	
+214800	Charge Syndrome	608892	CHD7	Chd7	1	1			1	1	Yes	['nampt.neutrophil']	
+214950	"Bile Acid Synthesis Defect, Congenital, 4"	604489	AMACR	Amacr	1	1	PS607765	"Bile acid synthesis defect, congenital"	0	0	Yes		
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	600024	LBR	Lbr	1	1			1	1	NA		
+216340	"Cleidocranial Dysplasia With Micrognathia, Absent Thumbs, And Distal"	609390	FIG4	Fig4	1	1			1	1	Yes	['cd24.neutrophil']	
+216550	Cohen Syndrome	607817	VPS13B	Vps13b	1	1			1	1	Yes	['erythrocyte']	
+217000	Complement Component 2 Deficiency	613927	C2	C2	1	1			0	0			
+220110	Mitochondrial Complex Iv Deficiency	185620	SURF1	Surf1	1	1	PS220110	"Mitochondrial complex IV deficiency, nuclear-type"	1	1	No	['nk.cell']	
+221900	"Retinal Nonattachment, Nonsyndromic Congenital"	609875	ATOH7	Atoh7	1	1	PS221900	Persistent hyperplastic primary vitreous	0	0			
+222300	Wolfram Syndrome 1	606201	WFS1	Wfs1	1	1			1	1	No		
+222470	Trichohepatoenteric Syndrome 1	614589	TTC37	Ttc37	1	1	PS222470	Trichohepatoenteric syndrome	1	1	Yes	['myeloid.progenitor']	
+222700	Lysinuric Protein Intolerance	603593	SLC7A7	Slc7a7	1	1			1	1	Yes	"['macrophage', 'monocyte']"	
+222800	Diphosphoglycerate Mutase Deficiency Of Erythrocyte	613896	BPGM	Bpgm	1	1			1	1	Yes	['erythrocyte']	['reticulocyte']
+224100	"Anemia, Dyserythropoietic Congenital, Type Ii"	610512	SEC23B	Sec23b	1	1	PS224120	"Anemia, congenital dyserythropoietic"	1	1	Yes		
+224120	"Anemia, Congenital Dyserythropoietic, Type Ia"	607465	CDAN1	Cdan1	1	1	PS224120	"Anemia, congenital dyserythropoietic"	0	1	Yes		
+224230	"Dyskeratosis Congenita, Autosomal Recessive, 1"	606471	NOP10	Nop10	1	1	PS127550	Dyskeratosis congenita	1	1	Yes		
+225320	"Ehlers-danlos Syndrome, Autosomal Recessive, Cardiac Valvular Form"	120160	COL1A2	Col1a2	1	1	PS130000	Ehlers-Danlos syndrome	0	0			
+225400	"Ehlers-danlos Syndrome, Type Vi"	153454	PLOD1	Plod1	1	1	PS130000	Ehlers-Danlos syndrome	1	0			
+225410	"Ehlers-danlos Syndrome, Type Vii, Autosomal Recessive"	604539	ADAMTS2	Adamts2	1	1	PS130000	Ehlers-Danlos syndrome	1	0			
+225750	Aicardi-goutieres Syndrome 1	606609	TREX1	Trex1	1	1	PS225750	Aicardi-Goutieres syndrome	0	1	Yes		
+226300	"Complement Hyperactivation, Angiopathic Thrombosis, And Protein-losing Enteropathy"	125240	CD55	Cd55	1	1			1	1	Yes	"['nampt.neutrophil', 'neutrophil']"	
+226300	"Complement Hyperactivation, Angiopathic Thrombosis, And Protein-losing Enteropathy"	125240	CD55	Cd55b	1	1			1	0	Yes	"['nampt.neutrophil', 'neutrophil']"	
+226600	"Epidermolysis Bullosa Dystrophica, Autosomal Recessive"	120120	COL7A1	Col7a1	1	1			0	0			
+226600	"Epidermolysis Bullosa Dystrophica, Autosomal Recessive"	120353	MMP1	Mmp1a	1	1			0	0			
+226670	Epidermolysis Bullosa Simplex With Muscular Dystrophy	601282	PLEC	Plec	1	1			1	1	Yes		
+227300	"Factor V And Factor Viii, Combined Deficiency Of"	601567	LMAN1	Lman1	1	1			1	1	No		
+227400	Factor V Deficiency	612309	F5	F5	1	1			1	1	No		
+227500	Factor Vii Deficiency	613878	F7	F7	1	1			0	0			
+227600	Factor X Deficiency	613872	F10	F10	1	1			0	1	No		
+227645	"Fanconi Anemia, Complementation Group C"	613899	FANCC	Fancc	1	1	PS227650	Fanconi anemia	0	1	Yes		
+227646	"Fanconi Anemia, Complementation Group D2"	613984	FANCD2	Fancd2	1	1	PS227650	Fanconi anemia	1	1	Yes		
+227650	Fanconi Anemia	607139	FANCA	Fanca	1	1	PS227650	Fanconi anemia	1	1	Yes		
+228000	Farber Lipogranulomatosis	613468	ASAH1	Asah1	1	1			1	1	Yes		
+228960	Flaujeac Factor Deficiency	612358	KNG1	Kng2	1	1			0	0			
+228960	Flaujeac Factor Deficiency	612358	KNG1	Kng1	1	1			0	0			
+229050	"Folic Acid, Transport Defect Involving"	611672	SLC46A1	Slc46a1	1	1			0	0			
+229100	Formiminotransferase Deficiency	606806	FTCD	Ftcd	1	1			0	0			
+229600	"Fructose Intolerance, Hereditary"	612724	ALDOB	Aldob	1	1			0	0			
+230000	Fucosidosis	612280	FUCA1	Fuca1	1	1			1	1	Yes	"['macrophage', 'monocyte']"	
+230400	Galactosemia	606999	GALT	Galt	1	1	PS230400	Galactosemia	1	1	Yes	['nk.cell']	
+230450	"Gamma-glutamylcysteine Synthetase Deficiency, Hemolytic Anemia Dueto"	606857	GCLC	Gclc	1	1			1	1	Yes	['erythrocyte']	['proerythroblast']
+230500	"Gm1-gangliosidosis, Type I"	611458	GLB1	Glb1	1	1			1	1	Yes	['monocyte']	
+230600	"Gm1-gangliosidosis, Type Ii"	611458	GLB1	Glb1	1	1			1	1	Yes	['monocyte']	
+230650	"Gm1-gangliosidosis, Type Iii"	611458	GLB1	Glb1	1	1			1	1	Yes	['monocyte']	
+230800	"Gaucher Disease, Type I"	606463	GBA	Gba	1	1			1	1	Yes	['macrophage']	
+230900	"Gaucher Disease, Type Ii"	606463	GBA	Gba	1	1			1	1	Yes	['macrophage']	
+231000	"Gaucher Disease, Type Iii"	606463	GBA	Gba	1	1			1	1	Yes	['macrophage']	
+231005	"Gaucher Disease, Type Iiic"	606463	GBA	Gba	1	1			1	1	Yes	['macrophage']	
+231095	Ghosal Hematodiaphyseal Dysplasia	274180	TBXAS1	Tbxas1	1	1			1	1	Yes	['macrophage']	
+231200	Bernard-soulier Syndrome	173515	GP9	Gp9	1	1	PS231200	"Bleeding disorder, platelet-type"	1	1	Yes		
+231200	Bernard-soulier Syndrome	606672	GP1BA	Gp1ba	1	1	PS231200	"Bleeding disorder, platelet-type"	1	0	Yes		
+231200	Bernard-soulier Syndrome	138720	GP1BB	Gp1bb	1	1	PS231200	"Bleeding disorder, platelet-type"	0	1	Yes		
+231900	"Glutathione Synthetase Deficiency Of Erythrocytes, Hemolytic Anemiadue To"	601002	GSS	Gss	1	1			1	1	Yes		
+232200	Glycogen Storage Disease Ia	613742	G6PC1	G6pc	1	1			0	0			
+232220	Glycogen Storage Disease Ib	602671	SLC37A4	Slc37a4	1	1			1	1	Yes	['erythroid.progenitor']	
+232800	Glycogen Storage Disease Vii	610681	PFKM	Pfkm	1	1			1	1	Yes	['erythroid.progenitor']	['proerythroblast']
+233600	Immunodeficiency 59 And Hypoglycemia	601746	HYOU1	Hyou1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+233650	Combined Cellular And Humoral Immune Defects With Granulomas	179615	RAG1	Rag1	1	1			0	1	Yes		
+233650	Combined Cellular And Humoral Immune Defects With Granulomas	179616	RAG2	Rag2	1	1			0	1	Yes		
+233690	"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-negative"	608508	CYBA	Cyba	1	1	PS306400	"Granulomatous disease, chronic"	1	1	Yes		
+233700	"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-positive, Type I"	608512	NCF1	Ncf1	1	1	PS306400	"Granulomatous disease, chronic"	1	1	Yes		
+233710	"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-positive, Type Ii"	608515	NCF2	Ncf2	1	1	PS306400	"Granulomatous disease, chronic"	1	1	Yes		
+234000	Factor Xii Deficiency	610619	F12	F12	1	1			0	0			
+234200	Neurodegeneration With Brain Iron Accumulation 1	606157	PANK2	Pank2	1	1	PS234200	Neurodegeneration with brain iron accumulation	1	1	No		
+235400	"Hemolytic Uremic Syndrome, Atypical"	134370	CFH	Cfh	1	1	PS235400	Hemolytic uremic syndrome	1	1	Yes	['hematopoietic.stem.cell']	
+235400	"Hemolytic Uremic Syndrome, Atypical"	605336	CFHR3		1	1	PS235400	Hemolytic uremic syndrome	0	0	Yes	['hematopoietic.stem.cell']	
+235400	"Hemolytic Uremic Syndrome, Atypical"	134371	CFHR1	Cfhr1	1	1	PS235400	Hemolytic uremic syndrome	0	0	Yes	['hematopoietic.stem.cell']	
+235555	"Bile Acid Synthesis Defect, Congenital, 2"	604741	AKR1D1	Akr1d1	1	1	PS607765	"Bile acid synthesis defect, congenital"	0	0	Yes		
+235700	Hexokinase Deficiency Hemolytic Anemia	142600	HK1	Hk1	1	1			1	1	Yes		
+236000	Hodgkin Lymphoma	613169	KLHDC8B	Klhdc8b	1	1			1	0			
+236200	Homocystinuria Due To Cystathionine Beta-synthase Deficiency	613381	CBS	Cbs	1	1			0	0			
+236270	"Homocystinuria-megaloblastic Anemia Due To Defect In Cobalamin Metabolism,cble Complementation Type"	602568	MTRR	Mtrr	1	1			1	0			
+238700	Hyperlysinemia	605113	AASS	Aass	1	1			1	0			
+239200	"Hyperparathyroidism, Neonatal Severe"	601199	CASR	Casr	1	1	PS145000	Hyperparathyroidism	0	0			
+240500	"Immunodeficiency, Common Variable, 2"	604907	TNFRSF13B	Tnfrsf13b	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes		
+241200	"Bartter Syndrome, Antenatal, Type 2"	600359	KCNJ1	Kcnj1	1	1	PS601678	Bartter syndrome	0	0			
+241500	"Hypophosphatasia, Infantile"	171760	ALPL	Alpl	1	1			1	1	Yes	"['nampt.neutrophil', 'neutrophil']"	
+242840	"Immunodeficiency With Cleft Lip/palate, Cataract, Hypopigmentation,and Absent Corpus Callosum"	615068	EPG5	Epg5	1	1			1	0			
+242860	Immunodeficiency-centromeric Instability-facial Anomalies Syndrome1	602900	DNMT3B	Dnmt3b	1	1	PS242860	Immunodeficiency-centromeric instability-facial anomalies	1	1	Yes	"['hematopoietic.stem.cell', 'myeloid.progenitor']"	
+242900	"Immunoosseous Dysplasia, Schimke Type"	606622	SMARCAL1	Smarcal1	1	1			1	1	Yes		
+243150	Gastrointestinal Defects And Immunodeficiency Syndrome	609332	TTC7A	Ttc7	1	1			1	1	Yes		
+243500	Isovaleric Acidemia	607036	IVD	Ivd	1	1			1	1	Yes	['myeloid.progenitor']	
+243700	"Hyperimmunoglobulin E-recurrent Infection Syndrome, Autosomal Recessive"	611432	DOCK8	Dock8	1	1	PS147060	Hyper-IgE recurrent infection syndrome	1	1	Yes		
+244460	"Kenny-caffey Syndrome, Type 1"	604934	TBCE	Tbce	1	1	PS127000	Kenny-Caffey syndrome	1	1	Yes		
+245200	Krabbe Disease	606890	GALC	Galc	1	1			1	0			
+245480	Specific Granule Deficiency	600749	CEBPE	Cebpe	1	1	PS245480	Specific granule deficiency	1	1	Yes	['cd24.neutrophil']	
+245900	Lecithin:cholesterol Acyltransferase Deficiency	606967	LCAT	Lcat	1	1			0	0			
+246450	3-hydroxy-3-methylglutaryl-coa Lyase Deficiency	613898	HMGCL	Hmgcl	1	1			1	1	Yes		
+248500	"Mannosidosis, Alpha B, Lysosomal"	609458	MAN2B1	Man2b1	1	1			1	1	Yes	['macrophage']	
+249100	"Familial Mediterranean Fever, Ar"	608107	MEFV	Mefv	1	1			1	1	Yes	['nampt.neutrophil']	
+249270	Thiamine-responsive Megaloblastic Anemia Syndrome	603941	SLC19A2	Slc19a2	1	1	PS249270	Thiamine-responsive dysfunction syndrome	0	0			
+250250	Cartilage-hair Hypoplasia	157660	RMRP		1	1			0	0			
+250790	Methemoglobinemia And Ambiguous Genitalia	613218	CYB5A	Cyb5a	1	1			1	0			
+250800	Methemoglobinemia Due To Deficiency Of Methemoglobin Reductase	613213	CYB5R3		1	1			1	0			
+250940	"Homocystinuria-megaloblastic Anemia, Cblg Complementation Type"	156570	MTR	Mtr	1	1			1	0			
+251000	Methylmalonic Aciduria Due To Methylmalonyl-coa Mutase Deficiency	609058	MMUT	Mmut	1	1			1	0			
+251100	"Methylmalonic Aciduria, Cbla Type"	607481	MMAA	Mmaa	1	1			0	1	Yes		
+251110	"Methylmalonic Aciduria, Cblb Type"	607568	MMAB	Mmab	1	1			1	0			
+251260	Nijmegen Breakage Syndrome	602667	NBN	Nbn	1	1			1	1	Yes	['neutrophil']	
+251290	Pseudo-torch Syndrome	602876	OCLN	Ocln	1	1	PS251290	Pseudo-TORCH syndrome	0	0			
+251880	"Mitochondrial Dna Depletion Syndrome, Hepatocerebral Form"	601465	DGUOK	Dguok	1	1	PS603041	Mitochondrial DNA depletion syndrome	1	1	Yes	['nk.cell']	
+251900	"Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy"	614585	FDX2	Fdx2	1	1			1	0			
+252270	Myelodysplasia And Leukemia Syndrome With Monosomy 7	611170	SAMD9L	Samd9l	1	1	PS252270	Monosomy 7 myelodysplasia and leukemia syndrome	1	1	Yes	['cd24.neutrophil']	"['band.form.neutrophil', 'segmented.neutrophil.of.bone.marrow']"
+253270	Holocarboxylase Synthetase Deficiency	609018	HLCS	Hlcs	1	1			0	1			
+253600	"Muscular Dystrophy, Limb-girdle, Type 2a"	114240	CAPN3	Capn3	1	1	PS253600	"Muscular dystrophy, limb-girdle, autosomal recessive"	0	0			
+254600	Myeloperoxidase Deficiency	606989	MPO	Mpo	1	1			1	1	Yes	['granulocyte']	
+254900	"Epilepsy, Progressive Myoclonic 4, With Or Without Renal Failure"	602257	SCARB2	Scarb2	1	1	PS254800	"Epilepsy, progressive myoclonic"	1	1	No		
+255125	"Myopathy With Exercise Intolerance, Swedish Type"	611911	ISCU	Iscu	1	1			1	1	No		
+256040	Proteasome-associated Autoinflammatory Syndrome 1 And Digenic Forms	177046	PSMB8	Psmb8	1	1	PS256040	Proteosome-associated autoinflammatory syndrome	1	1	Yes		
+256100	Nephronophthisis 1	607100	NPHP1	Nphp1	1	1	PS256100	Nephronophthisis	0	1			
+256500	Netherton Syndrome	605010	SPINK5	Spink5	1	1			0	0			
+256550	Neuraminidase Deficiency	608272	NEU1	Neu1	1	1			1	1	Yes	['nk.cell']	
+256700	Neuroblastoma	605995	KIF1B	Kif1b	1	1			1	1	Yes	"['cd24.neutrophil', 'neutrophil']"	
+257200	"Niemann-pick Disease, Type A"	607608	SMPD1	Smpd1	1	1			1	1	Yes		
+257220	"Niemann-pick Disease, Type C1"	607623	NPC1	Npc1	1	1			1	1	Yes	['nk.cell']	
+257300	Mosaic Variegated Aneuploidy Syndrome 1	602860	BUB1B	Bub1b	1	1	PS257300	Mosaic variegated aneuploidy syndrome	1	1	Yes	['granulocyte']	['immature.B.cell']
+258900	Orotic Aciduria	613891	UMPS	Umps	1	1			1	1	Yes	['myeloid.progenitor']	['precursor.B.cell']
+259700	"Osteopetrosis, Autosomal Recessive 1"	604592	TCIRG1	Tcirg1	1	1	PS259700	"Osteopetrosis, autosomal recessive"	1	1	Yes		
+259710	"Osteopetrosis, Autosomal Recessive 2"	602642	TNFSF11	Tnfsf11	1	1	PS259700	"Osteopetrosis, autosomal recessive"	0	0	Yes		
+259720	"Osteopetrosis, Autosomal Recessive 5"	607649	OSTM1	Ostm1	1	1	PS259700	"Osteopetrosis, autosomal recessive"	1	1	Yes		
+259730	"Osteopetrosis, Autosomal Recessive 3"	611492	CA2	Car2	1	1	PS259700	"Osteopetrosis, autosomal recessive"	1	1	Yes		
+260400	Shwachman-diamond Syndrome	607444	SBDS	Sbds	1	1	PS260400	Schwachman-Diamond syndrome	1	1	Yes		
+260920	Hyper-igd Syndrome	251170	MVK	Mvk	1	1			0	1	Yes		
+261000	Intrinsic Factor Deficiency	609342	CBLIF	Cblif	1	1			0	0			
+261100	Megaloblastic Anemia 1	602997	CUBN	Cubn	1	1	PS261100	Imerslund-Grasbeck syndrome	0	0			
+261500	Eosinophil Peroxidase Deficiency	131399	EPX	Epx	1	1			0	0			
+262850	Plasmin Inhibitor Deficiency	613168	SERPINF2	Serpinf2	1	1			0	0			
+262890	Scott Syndrome	608663	ANO6	Ano6	1	1	PS231200	"Bleeding disorder, platelet-type"	1	1	Yes		
+263400	"Erythrocytosis, Familial, 2"	608537	VHL	Vhl	1	1	PS133100	"Erythrocytosis, familial"	1	1	Yes		
+263700	"Porphyria, Congenital Erythropoietic"	606938	UROS	Uros	1	1			1	1	Yes	['erythroid.progenitor']	['proerythroblast']
+264800	Pseudoxanthoma Elasticum	603234	ABCC6	Abcc6	1	1			0	0	No		
+264800	Pseudoxanthoma Elasticum	608124	XYLT1	Xylt1	1	1			1	0	No		
+264800	Pseudoxanthoma Elasticum	608125	XYLT2	Xylt2	1	1			0	1	No		
+266120	"Uridine 5-prime Monophosphate Hydrolase Deficiency, Hemolytic Anemiadue To"	606224	NT5C3A	Nt5c3	1	1			1	1	Yes		
+266130	Glutathione Synthetase Deficiency	601002	GSS	Gss	1	1			1	1	Yes		
+266140	"Pyropoikilocytosis, Hereditary"	182860	SPTA1	Spta1	1	1			1	0			
+266200	Pyruvate Kinase Deficiency Of Red Cells	609712	PKLR	Pklr	1	1			1	1	Yes	['erythroid.progenitor']	['proerythroblast']
+266265	"Congenital Disorder Of Glycosylation, Type Iic"	605881	SLC35C1	Slc35c1	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1	Yes		
+266510	"Refsum Disease, Infantile Form"	601758	PEX12	Pex12	1	1	PS214100	Peroxisome biogenesis disorder	0	0			
+266900	Senior-loken Syndrome 1	607100	NPHP1	Nphp1	1	1	PS266900	Senior-Loken syndrome	0	1			
+266920	Short-rib Thoracic Dysplasia 9 With Or Without Polydactyly	614620	IFT140	Ift140	1	1	PS208500	Short-rib thoracic dysplasia	0	1	No		
+267500	Reticular Dysgenesia	103020	AK2	Ak2	1	1			1	1	Yes	['granulocyte']	
+268130	Revesz Syndrome	604319	TINF2	Tinf2	1	1	PS127550	Dyskeratosis congenita	1	1	Yes		
+268150	"Anemia, Hemolytic, Rh-null, Regulator Type"	180297	RHAG	Rhag	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'proerythroblast']"
+269600	Sea-blue Histiocyte Disease	107741	APOE	Apoe	1	1			1	1	Yes	['erythroid.progenitor']	
+269920	Infantile Sialic Acid Storage Disorder	604322	SLC17A5	Slc17a5	1	1			1	1	Yes		
+270970	"Spherocytosis, Autosomal Recessive"	182860	SPTA1	Spta1	1	1			1	0			
+271400	"Asplenia, Isolated Congenital"	150370	RPSA	Rpsa	1	1			1	1	Yes		
+271510	"Spondyloepimetaphyseal Dysplasia, Sponastrime Type"	604546	TONSL	Tonsl	1	1			1	0			
+273800	Glanzmann Thrombasthenia	607759	ITGA2B	Itga2b	1	1	PS231200	"Bleeding disorder, platelet-type"	1	1	Yes		
+273800	Glanzmann Thrombasthenia	173470	ITGB3	Itgb3	1	1	PS231200	"Bleeding disorder, platelet-type"	1	1	Yes		
+273900	Thrombocytopenia 3	602731	FYB1	Fyb	1	1	PS313900	Thrombocytopenia	1	1	Yes		
+274000	Thrombocytopenia-absent Radius Syndrome	605313	RBM8A	Rbm8a	1	1			1	1	Yes	['nk.cell']	
+274150	"Thrombotic Thrombocytopenic Purpura, Congenital"	604134	ADAMTS13	Adamts13	1	1			0	0			
+275350	Transcobalamin Ii Deficiency	613441	TCN2	Tcn2	1	1			1	1	Yes	"['macrophage', 'monocyte']"	
+275630	Chanarin-dorfman Syndrome	604780	ABHD5	Abhd5	1	1			1	1	Yes	['cd24.neutrophil']	
+276300	Mismatch Repair Cancer Syndrome	120436	MLH1	Mlh1	1	1	PS276300	Mismatch repair cancer syndrome	1	0	Yes		
+276700	"Tyrosinemia, Type I"	613871	FAH	Fah	1	1	PS276700	Tyrosinemia	1	0			
+277380	"Methylmalonic Aciduria And Homocystinuria, Cblf Type"	612625	LMBRD1	Lmbrd1	1	1			1	1	Yes	['naive.b.cell']	['mature.B.cell']
+277400	"Methylmalonic Aciduria And Homocystinuria, Cblc Type"	609831	MMACHC	Mmachc	1	1			0	0	Yes	['hematopoietic.stem.cell']	
+277400	"Methylmalonic Aciduria And Homocystinuria, Cblc Type"	176763	PRDX1	Prdx1	1	1			1	1	Yes	['hematopoietic.stem.cell']	
+277410	"Methylmalonic Aciduria And Homocystinuria, Cbld Type"	611935	MMADHC	Mmadhc	1	1			1	1	Yes		
+277450	"Vitamin K-dependent Clotting Factors, Combined Deficiency Of, 1"	137167	GGCX	Ggcx	1	1	PS277450	"Vitamin K-dependent clotting factors, combined deficiency of"	1	0	Yes		
+277480	"Von Willebrand Disease, Recessive Form"	613160	VWF	Vwf	1	1			1	0			
+277900	Wilson Disease	606882	ATP7B	Atp7b	1	1			1	0			
+278000	Lysosomal Acid Lipase Deficiency	613497	LIPA	Lipa	1	1			1	1	Yes	"['macrophage', 'monocyte']"	['monocyte']
+280000	Zunich Neuroectodermal Syndrome	605947	PIGL	Pigl	1	1			1	0			
+300048	"Intestinal Pseudoobstruction, Neuronal, Chronic Idiopathic, X-linked"	300017	FLNA	Flna	1	1			1	1	Yes		
+300049	"Heterotopia, Periventricular, X-linked Dominant"	300017	FLNA	Flna	1	1	PS300049	Periventricular nodular heterotopia	1	1	Yes		
+300299	"Neutropenia, Severe Congenital, X-linked"	300392	WAS	Was	1	1	PS202700	"Neutropenia, severe congenital"	1	1	Yes		
+300322	Lesch-nyhan Syndrome	308000	HPRT1	Hprt	1	1			1	1	Yes	['erythroid.progenitor']	
+300367	"Dyserythropoietic Anemia With Thrombocytopeniamacrothrombocytopenia, X-linked, Included"	305371	GATA1	Gata1	1	1			1	1	Yes	['erythroid.progenitor']	['proerythroblast']
+300400	"Severe Combined Immunodeficiency, X-linked"	308380	IL2RG	Il2rg	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+300514	"Fanconi Anemia, Complementation Group B"	300515	FANCB	Fancb	1	1	PS227650	Fanconi anemia	1	0			
+300635	"Lymphoproliferative Syndrome, X-linked, 2"	300079	XIAP	Xiap	1	1	PS308240	Lymphoproliferative syndrome	1	1	Yes		
+300653	Phosphoglycerate Kinase 1 Deficiency	311800	PGK1	Pgk1	1	1			1	1	Yes		
+300751	"Anemia, Sideroblastic, X-linked"	301300	ALAS2	Alas2	1	1	PS300751	"Anemia, Sideroblastic"	1	1	Yes	['erythrocyte']	['erythroblast']
+300752	"Protoporphyria, Erythropoietic, X-linked"	301300	ALAS2	Alas2	1	1	PS177000	"Protoporphyria, erythropoietic"	1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+300807	"Thrombophilia, X-linked, Due To Factor Ix Defect"	300746	F9	F9	1	1	PS188050	Thrombophilia	0	0	Yes		
+300835	"Anemia, X-linked, With Or Without Neutropenia And/or Platelet Abnormalities"	305371	GATA1	Gata1	1	1			1	1	Yes	['erythroid.progenitor']	['proerythroblast']
+300842	Mcleod Syndrome	314850	XK	Xk	1	1			1	1	Yes	['erythrocyte']	['proerythroblast']
+300853	"Immunodeficiency, X-linked, With Magnesium Defect, Epstein-barr Virus Infection And Neoplasia"	300715	MAGT1	Magt1	1	1			1	1	Yes		
+300908	"Anemia, Nonspherocytic Hemolytic, Due To G6pd Deficiency"	305900	G6PD	G6pdx	1	1			1	1	Yes	['cd24.neutrophil']	['band.form.neutrophil']
+300934	"Congenital Disorder Of Glycosylation, Type Iy"	300090	SSR4	Ssr4	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	1	No		
+300946	Diamond-blackfan Anemia 14 With Mandibulofacial Dysostosis	300945	TSR2	Tsr2	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+300972	Immunodeficiency 47	300197	ATP6AP1	Atp6ap1	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1	Yes		
+300972	Immunodeficiency 47	300197	ATP6AP1	Atp6ap1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+300988	Immunodeficiency 50	309845	MSN	Msn	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+300990	"Midface Hypoplasia, Hearing Impairment, Elliptocytosis, And Nephrocalcinosis"	300195	AMMECR1	Ammecr1	1	1			1	1	Yes	['erythrocyte']	
+301000	Wiskott-aldrich Syndrome	300392	WAS	Was	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+301015	"Hemolytic Anemia, Congenital, X-linked"	300516	ATP11C	Atp11c	1	1			1	1	Yes		
+301040	"Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked"	300032	ATRX	Atrx	1	1			1	1	Yes		
+301045	"Congenital Disorder Of Glycosylation, Type Iir"	300556	ATP6AP2	Atp6ap2	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1	Yes		
+301050	"Alport Syndrome, X-linked"	303630	COL4A5	Col4a5	1	1	PS301050	Alport syndrome	0	0			
+301310	"Anemia, Sideroblastic, And Spinocerebellar Ataxia"	300135	ABCB7	Abcb7	1	1			1	1	Yes		
+301500	Fabry Disease	300644	GLA	Gla	1	1			1	1	Yes	['granulocyte']	
+302060	Barth Syndrome	300394	TAFAZZIN	Taz	1	1	PS250950	3-Methylglutaconic aciduria	0	1	Yes		
+304150	"Cutis Laxa, X-linked"	300011	ATP7A	Atp7a	1	1			1	1	No		
+304790	"Immunodysregulation, Polyendocrinopathy, And Enteropathy, X-linked"	300292	FOXP3	Foxp3	1	1			0	0			
+305000	"Dyskeratosis Congenita, X-linked"	300126	DKC1	Dkc1	1	1	PS127550	Dyskeratosis congenita	1	1	Yes		
+306400	"Chronic Granulomatous Disease, X-linked"	300481	CYBB	Cybb	1	1	PS306400	"Granulomatous disease, chronic"	1	1	Yes		
+306700	Hemophilia A	300841	F8	F8	1	1			0	0			
+306900	Hemophilia B	300746	F9	F9	1	1			0	0			
+308230	"Immunodeficiency, X-linked, With Hyper-igm"	300386	CD40LG	Cd40lg	1	1	PS300755	Immunodeficiency (Select Examples)	1	0	Yes		
+308230	"Immunodeficiency, X-linked, With Hyper-igm"	300386	CD40LG	Cd40lg	1	1	PS308230	Immunodeficiency with hyper-IgM	1	0	Yes	"['memory.b.cell', 'naive.b.cell']"	['mature.B.cell']
+308240	"Lymphoproliferative Syndrome, X-linked, 1"	300490	SH2D1A	Sh2d1a	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+308240	"Lymphoproliferative Syndrome, X-linked, 1"	300490	SH2D1A	Sh2d1a	1	1	PS308240	Lymphoproliferative syndrome	1	1	Yes		
+308300	Incontinentia Pigmenti	300248	IKBKG	Ikbkg	1	1			1	1	Yes		
+309400	Menkes Disease	300011	ATP7A	Atp7a	1	1			1	1	No		
+309580	"Mental Retardation-hypotonic Facies Syndrome, X-linked, 1"	300032	ATRX	Atrx	1	1			1	1	Yes		
+312700	"Retinoschisis 1, X-linked, Juvenile"	300839	RS1	Rs1	1	1			0	0			
+312863	"Combined Immunodeficiency, X-linked"	308380	IL2RG	Il2rg	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+313900	Thrombocytopenia 1	300392	WAS	Was	1	1	PS313900	Thrombocytopenia	1	1	Yes		
+314050	"Thrombocytopenia With Beta-thalassemia, X-linked"	305371	GATA1	Gata1	1	1			1	1	Yes	['erythroid.progenitor']	['proerythroblast']
+600195	"Venous Malformations, Multiple Cutaneous And Mucosal"	600221	TEK	Tek	1	1			0	0			
+600376	Osler-rendu-weber Syndrome 2	601284	ACVRL1	Acvrl1	1	1	PS187300	"Telangiectasia, hereditary hemorrhagic"	0	1		['erythroid.progenitor']	
+600462	Mitochondrial Myopathy And Sideroblastic Anemia	608109	PUS1	Pus1	1	1	PS600462	"Myopathy, lactic acidosis, and sideroblastic anemia"	1	1	Yes		
+600802	"Scid, Autosomal Recessive, T-negative/b-positive Type"	600173	JAK3	Jak3	1	1			1	1	Yes		
+600901	"Fanconi Anemia, Complementation Group E"	613976	FANCE	Fance	1	1	PS227650	Fanconi anemia	0	1	Yes		
+601399	"Platelet Disorder, Familial, With Associated Myeloid Malignancy"	151385	RUNX1	Runx1	1	1			1	1	Yes	['myeloid.progenitor']	
+601457	"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-negative,b Cell-negative, Nk Cell-positive"	179615	RAG1	Rag1	1	1			0	1	Yes		
+601457	"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-negative,b Cell-negative, Nk Cell-positive"	179616	RAG2	Rag2	1	1			0	1	Yes		
+601495	"Agammaglobulinemia 1, Autosomal Recessive"	147020	IGHM		1	1	PS601495	Agammaglobulinemia	1	0			
+601626	"Leukemia, Acute Myeloid"	137295	GATA2	Gata2	1	1			1	1	Yes		
+601626	"Leukemia, Acute Myeloid"	600700	LPP	Lpp	1	1			1	1	Yes		
+601626	"Leukemia, Acute Myeloid"	604332	CHIC2	Chic2	1	1			1	1	Yes		
+601626	"Leukemia, Acute Myeloid"	187270	TERT	Tert	1	1			0	0	Yes		
+601626	"Leukemia, Acute Myeloid"	602409	MLLT10	Mllt10	1	1			1	1	Yes		
+601626	"Leukemia, Acute Myeloid"	116897	CEBPA	Cebpa	1	1			1	1	Yes		
+601626	"Leukemia, Acute Myeloid"	151385	RUNX1	Runx1	1	1			1	1	Yes		
+601705	"T-cell Immunodeficiency, Congenital Alopecia, And Nail Dystrophy"	600838	FOXN1	Foxn1	1	1			0	0			
+601709	Quebec Platelet Disorder	191840	PLAU	Plau	1	1	PS231200	"Bleeding disorder, platelet-type"	0	0	Yes		
+601776	"Ehlers-danlos Syndrome, Musculocontractural Type"	608429	CHST14	Chst14	1	1	PS130000	Ehlers-Danlos syndrome	1	0			
+601813	Exudative Vitreoretinopathy 4	603506	LRP5	Lrp5	1	1	PS133780	Exudative vitreoretinopathy	1	0			
+601815	Phosphoglycerate Dehydrogenase Deficiency	606879	PHGDH	Phgdh	1	1			1	1	No		
+601859	Autoimmune Lymphoproliferative Syndrome	134638	FASLG	Fasl	1	1			1	1	Yes	['cd8.positive..alpha.beta.t.cell']	['T.cell']
+601859	Autoimmune Lymphoproliferative Syndrome	134637	FAS	Fas	1	1			1	1	Yes	['cd8.positive..alpha.beta.t.cell']	['T.cell']
+601977	Thrombocythemia 2	159530	MPL	Mpl	1	1	PS187950	Thrombocythemia	1	1	Yes		
+602079	Trimethylaminuria	136132	FMO3	Fmo3	1	1			0	0			
+602473	"Encephalopathy, Ethylmalonic"	608451	ETHE1	Ethe1	1	1			1	1	No		
+602579	"Congenital Disorder Of Glycosylation, Type Ib"	154550	MPI	Mpi	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	0			
+602782	Histiocytosis-lymphadenopathy Plus Syndrome	612373	SLC29A3	Slc29a3	1	1			0	1	Yes		
+603075	"Macular Degeneration, Age-related, 1"	608548	HMCN1	Hmcn1	1	1	PS603075	"Macular degeneration, age-related"	0	0		['erythroid.progenitor']	
+603075	"Macular Degeneration, Age-related, 1"	605336	CFHR3		1	1	PS603075	"Macular degeneration, age-related"	0	0		['erythroid.progenitor']	
+603075	"Macular Degeneration, Age-related, 1"	134371	CFHR1	Cfhr1	1	1	PS603075	"Macular degeneration, age-related"	0	0		['erythroid.progenitor']	
+603075	"Macular Degeneration, Age-related, 1"	107741	APOE	Apoe	1	1	PS603075	"Macular degeneration, age-related"	1	1	Yes	['erythroid.progenitor']	
+603147	"Congenital Disorder Of Glycosylation, Type Ic"	604566	ALG6	Alg6	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	1	NA		
+603278	Focal Segmental Glomerulosclerosis 1	604638	ACTN4	Actn4	1	1	PS603278	Focal segmental glomerulosclerosis	1	1	Yes		
+603284	Cerebral Cavernous Malformations 2	607929	CCM2	Ccm2	1	1	PS116860	Cerebral cavernous malformations	1	1	No		
+603285	Cerebral Cavernous Malformations 3	609118	PDCD10	Pdcd10	1	1	PS116860	Cerebral cavernous malformations	1	1	No		
+603467	"Fanconi Anemia, Complementation Group F"	613897	FANCF	Fancf	1	1	PS227650	Fanconi anemia	1	0	Yes		
+603552	"Hemophagocytic Lymphohistiocytosis, Familial, 4"	605014	STX11	Stx11	1	1	PS267700	"Hemophagocytic lymphohistiocytosis, familial"	1	1	Yes		
+603553	"Hemophagocytic Lymphohistiocytosis, Familial, 2"	170280	PRF1	Prf1	1	1	PS267700	"Hemophagocytic lymphohistiocytosis, familial"	1	0	Yes		
+603554	Omenn Syndrome	605988	DCLRE1C	Dclre1c	1	1			1	1	Yes		
+603554	Omenn Syndrome	179615	RAG1	Rag1	1	1			0	1	Yes		
+603554	Omenn Syndrome	179616	RAG2	Rag2	1	1			0	1	Yes		
+603585	"Congenital Disorder Of Glycosylation, Type Iif"	605634	SLC35A1	Slc35a1	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1	Yes		
+603903	Sickle Cell Anemia	141900	HBB	Hbb-bt	1	1			1	0			
+603903	Sickle Cell Anemia	141900	HBB	Hbb-bs	1	1			1	0			
+603909	"Autoimmune Lymphoproliferative Syndrome, Type Iia"	601762	CASP10		1	1			1	0			
+604131	Alpha-thalassemia	141850	HBA2	Hba-a1	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+604131	Alpha-thalassemia	141850	HBA2	Hba-a2	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+604131	Alpha-thalassemia	141800	HBA1	Hba-a1	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+604131	Alpha-thalassemia	141800	HBA1	Hba-a2	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+604173	Poikiloderma With Neutropenia	613276	USB1	Usb1	1	1			1	0			
+604250	"Hemochromatosis, Type 3"	604720	TFR2	Tfr2	1	1	PS235200	Hemochromatosis	1	1	Yes		
+604278	"Renal Tubular Acidosis, Proximal, With Ocular Abnormalities And Mentalretardation"	603345	SLC4A4	Slc4a4	1	1			0	0			
+604290	"Aceruloplasminemiahypoceruloplasminemia, Included"	117700	CP	Cp	1	1			0	0			
+604369	"Sialuria, Finnish Type"	604322	SLC17A5	Slc17a5	1	1			1	1	NA		
+604416	"Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne"	606347	PSTPIP1	Pstpip1	1	1			1	1	Yes		
+604498	"Amegakaryocytic Thrombocytopenia, Congenital"	159530	MPL	Mpl	1	1			1	1	Yes	['hematopoietic.stem.cell']	
+604777	"Ichthyosis, Lamellar, 3"	611495	CYP4F22	Cyp4f39	1	1	PS242300	"Ichthyosis, congenital, autosomal recessive"	0	0			
+604928	Wolfram Syndrome 2	611507	CISD2	Cisd2	1	1			1	1	Yes	['erythrocyte']	
+605027	"Lymphoma, Non-hodgkin, Familial"	170280	PRF1	Prf1	1	1			1	0			
+605275	Noonan Syndrome 2	600574	LZTR1	Lztr1	1	1	PS163950	Noonan syndrome	0	1	Yes		
+605309	Macrocephaly/autism Syndrome	601728	PTEN	Pten	1	1			1	1	Yes	"['nampt.neutrophil', 'neutrophil']"	
+605432	Radioulnar Synostosis With Amegakaryocytic Thrombocytopenia	142958	HOXA11	Hoxa11	1	1	PS605432	Radioulnar synostosis with amegakaryocytic thrombocytopenia	0	0			
+605714	"Cerebral Amyloid Angiopathy, App-related"	104760	APP	App	1	1			1	1	No		
+605724	"Fanconi Anemia, Complementation Group D1"	600185	BRCA2	Brca2	1	1	PS227650	Fanconi anemia	1	1	Yes		
+606003	Transaldolase Deficiency	602063	TALDO1	Taldo1	1	1			1	1	Yes		
+606054	Propionic Acidemia	232050	PCCB	Pccb	1	1			1	0	Yes	['myeloid.progenitor']	
+606054	Propionic Acidemia	232000	PCCA	Pcca	1	1			1	1	Yes	['myeloid.progenitor']	
+606069	"Hemochromatosis, Type 4"	604653	SLC40A1	Slc40a1	1	1	PS235200	Hemochromatosis	1	1	Yes		
+606164	Diamond-blackfan Anemia 15 With Mandibulofacial Dysostosis	603685	RPS28	Rps28	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+606176	"Diabetes Mellitus, Permanent Neonatal 1"	138079	GCK	Gck	1	1	PS606176	"Diabetes mellitus, permanent neonatal"	0	0			
+606367	Immunodeficiency 41 With Lymphoproliferation And Autoimmunity	147730	IL2RA	Il2ra	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+606408	Ehlers-danlos-like Syndrome Due To Tenascin-x Deficiency	600985	TNXB	Tnxb	1	1	PS130000	Ehlers-Danlos syndrome	1	0			
+606593	Lig4 Syndrome	601837	LIG4	Lig4	1	1			1	1	Yes	"['cd24.neutrophil', 'neutrophil']"	
+606812	Fumarase Deficiency	136850	FH	Fh1	1	1			1	1	NA		
+606843	"Immunodeficiency With Hyper-igm, Type 3"	109535	CD40	Cd40	1	1	PS308230	Immunodeficiency with hyper-IgM	1	1	Yes	"['memory.b.cell', 'naive.b.cell']"	['mature.B.cell']
+606893	"Vascular Malformation, Primary Intraosseous"	606421	ELMO2	Elmo2	1	1			1	1	No		
+606966	Nephronophthisis 4	607215	NPHP4	Nphp4	1	1	PS256100	Nephronophthisis	0	0			
+606996	Senior-loken Syndrome 4	607215	NPHP4	Nphp4	1	1	PS266900	Senior-Loken syndrome	0	0			
+607091	"Congenital Disorder Of Glycosylation, Type Iid"	137060	B4GALT1	B4galt1	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1	Yes		
+607115	Cinca Syndrome	606416	NLRP3	Nlrp3	1	1			1	1	NA		
+607143	"Congenital Disorder Of Glycosylation, Type Ig"	607144	ALG12	Alg12	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	0			
+607236	"Hypoprebetalipoproteinemia, Acanthocytosis, Retinitis Pigmentosa,and Pallidal Degeneration"	606157	PANK2	Pank2	1	1			1	1	Yes		
+607271	"Autoimmune Lymphoproliferative Syndrome, Type Iib"	601763	CASP8	Casp8	1	1			1	1	Yes	"['cd8.positive..alpha.beta.t.cell', 'nk.cell']"	
+607330	Lathosterolosis	602286	SC5D	Sc5d	1	1			1	1	Yes		
+607426	"Coenzyme Q10 Deficiency, Primary, 1"	609825	COQ2	Coq2	1	1	PS607426	"Coenzyme Q10 deficiency, primary"	1	1	Yes		
+607473	"Vitamin K-dependent Clotting Factors, Combined Deficiency Of, 2"	608547	VKORC1	Vkorc1	1	1	PS277450	"Vitamin K-dependent clotting factors, combined deficiency of"	1	1	No		
+607554	"Atrial Fibrillation, Familial, 3"	607542	KCNQ1	Kcnq1	1	1	PS608583	"Atrial fibrillation, familial"	1	0			
+607594	"Immunodeficiency, Common Variable, 1"	604558	ICOS	Icos	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes		
+607616	"Niemann-pick Disease, Type B"	607608	SMPD1	Smpd1	1	1			1	1	Yes		
+607624	"Griscelli Syndrome, Type 2"	603868	RAB27A	Rab27a	1	1	PS214450	Griscelli syndrome	1	1	Yes	['cd24.neutrophil']	
+607625	"Niemann-pick Disease, Type C2"	601015	NPC2	Npc2	1	1			1	1	Yes	['macrophage']	['monocyte']
+607626	"Ichthyosis, Leukocyte Vacuoles, Alopecia, And Sclerosing Cholangitis"	603718	CLDN1	Cldn1	1	1			0	1	Yes		
+607676	Immunodeficiency 67	606883	IRAK4	Irak4	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+607765	"Bile Acid Synthesis Defect, Congenital, 1"	607764	HSD3B7	Hsd3b7	1	1	PS607765	"Bile acid synthesis defect, congenital"	0	1	Yes		
+607785	Juvenile Myelomonocytic Leukemia	165360	CBL	Cbl	1	1			1	1	Yes	"['nampt.neutrophil', 'neutrophil']"	
+607785	Juvenile Myelomonocytic Leukemia	613113	NF1	Nf1	1	1			1	1	Yes	"['nampt.neutrophil', 'neutrophil']"	
+607847	"Neutropenia, Nonimmune Chronic Idiopathic, Of Adults"	600871	GFI1	Gfi1	1	1			1	1	Yes	['cd8.positive..alpha.beta.t.cell']	
+607906	"Congenital Disorder Of Glycosylation, Type Ii"	607905	ALG2	Alg2	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	1	NA		
+607944	Spondyloenchondrodysplasia With Immune Dysregulation	171640	ACP5		1	1	PS184255	Spondylometaphyseal dysplasia	1	0			
+608013	"Gaucher Disease, Perinatal Lethal"	606463	GBA	Gba	1	1			1	1	Yes	['macrophage']	
+608068	"Neutrophilic Dermatosis, Acute Febrile"	608107	MEFV	Mefv	1	1			1	1	Yes	['nampt.neutrophil']	
+608093	"Congenital Disorder Of Glycosylation, Type Ij"	191350	DPAGT1	Dpagt1	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	1	NA		
+608104	"Congenital Disorder Of Glycosylation, Type Ih"	608103	ALG8	Alg8	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	1	Yes		
+608203	Immunodeficiency 73a With Defective Neutrophil Chemotaxix And Leukocytosis	602049	RAC2	Rac2	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+608233	Hermansky-pudlak Syndrome 2	603401	AP3B1	Ap3b1	1	1	PS203300	Hermansky-Pudlak syndrome	1	1	Yes		
+608404	Platelet Glycoprotein Iv Deficiency	173510	CD36	Cd36	1	1	PS231200	"Bleeding disorder, platelet-type"	1	1	Yes		
+608799	"Congenital Disorder Of Glycosylation, Type Ie"	603503	DPM1	Dpm1	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	1	No		
+608836	"Carnitine Palmitoyltransferase Ii Deficiency, Lethal Neonatal"	600650	CPT2	Cpt2	1	1			1	1	NA		
+608885	Stomatin-deficient Cryohydrocytosis With Neurologic Defects	138140	SLC2A1	Slc2a1	1	1			1	0			
+608898	"Hemophagocytic Lymphohistiocytosis, Familial, 3"	608897	UNC13D	Unc13d	1	1	PS267700	"Hemophagocytic lymphohistiocytosis, familial"	1	1	Yes		
+608957	"Cd8 Deficiency, Familial"	186910	CD8A	Cd8a	1	1			1	1	Yes	['cd8.positive..alpha.beta.t.cell']	['T.cell']
+608971	"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-negative,b Cell-positive, Nk Cell-positive"	151460	PTPRC	Ptprc	1	1			1	1	Yes		
+608971	"Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-negative,b Cell-positive, Nk Cell-positive"	146661	IL7R	Il7r	1	1			1	1	Yes		
+609053	"Fanconi Anemia, Complementation Group I"	611360	FANCI	Fanci	1	1	PS227650	Fanconi anemia	1	0	Yes		
+609054	"Fanconi Anemia, Complementation Group J"	605882	BRIP1	Brip1	1	1	PS227650	Fanconi anemia	1	1	Yes		
+609057	Nephropathy With Pretibial Epidermolysis Bullosa And Deafness	602243	CD151	Cd151	1	1			1	1	No		
+609069	Pancreatic And Cerebellar Agenesis	607194	PTF1A	Ptf1a	1	1			0	0			
+609135	Aplastic Anemia	607444	SBDS	Sbds	1	1			1	1	Yes		
+609135	Aplastic Anemia	602667	NBN	Nbn	1	1			1	1	Yes		
+609135	Aplastic Anemia	170280	PRF1	Prf1	1	1			1	0	Yes		
+609135	Aplastic Anemia	147570	IFNG	Ifng	1	1			1	1	Yes		
+609180	"Congenital Disorder Of Glycosylation, Type If"	604041	MPDU1	Mpdu1	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	1	No		
+609529	Immunoglobulin A Deficiency 2	604907	TNFRSF13B	Tnfrsf13b	1	1			1	1	Yes	['memory.b.cell']	
+609628	Majeed Syndrome	605519	LPIN2	Lpin2	1	1			1	1	Yes	['erythrocyte']	['erythroblast']
+609820	"Erythrocytosis, Familial, 3"	606425	EGLN1	Egln1	1	1	PS133100	"Erythrocytosis, familial"	1	1	Yes		
+609821	Bleeding Disorder Due To P2ry12 Defect	600515	P2RY12	P2ry12	1	1	PS231200	"Bleeding disorder, platelet-type"	0	1	Yes		
+609942	Noonan Syndrome 3	190070	KRAS	Kras	1	1	PS163950	Noonan syndrome	1	1	Yes		
+609981	Natural Killer Cell And Glucocorticoid Deficiency With Dna Repairdefect	602638	MCM4	Mcm4	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+610090	Pyridoxamine 5-prime-phosphate Oxidase Deficiency	603287	PNPO	Pnpo	1	1			1	1	Yes	['myeloid.progenitor']	
+610163	Immunodeficiency 25	186780	CD247	Cd247	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+610181	Aicardi-goutieres Syndrome 2	610326	RNASEH2B	Rnaseh2b	1	1	PS225750	Aicardi-Goutieres syndrome	1	1	Yes		
+610198	"3-@methylglutaconic Aciduria, Type V"	608977	DNAJC19	Dnajc19-ps	1	1	PS250950	3-Methylglutaconic aciduria	1	0	Yes		
+610198	"3-@methylglutaconic Aciduria, Type V"	608977	DNAJC19	Dnajc19	1	1	PS250950	3-Methylglutaconic aciduria	1	1	Yes		
+610293	Glycosylphosphatidylinositol Deficiency	610273	PIGM	Pigm	1	1			1	1	Yes	['myeloid.progenitor']	
+610329	Aicardi-goutieres Syndrome 3	610330	RNASEH2C	Rnaseh2c	1	1	PS225750	Aicardi-Goutieres syndrome	1	1	Yes		
+610333	Aicardi-goutieres Syndrome 4	606034	RNASEH2A	Rnaseh2a	1	1	PS225750	Aicardi-Goutieres syndrome	1	1	Yes		
+610377	Mevalonic Aciduria	251170	MVK	Mvk	1	1			0	1	Yes		
+610460	Thiopurine S-methyltransferase Deficiency	187680	TPMT	Tpmt	1	1	PS610460	"Thiopurines, poor metabolism of"	1	0			
+610475	"Pigmented Nodular Adrenocortical Disease, Primary, 2"	604961	PDE11A	Pde11a	1	1	PS610489	"Pigmented nodular adrenocortical disease, primary"	0	0			
+610489	"Pigmented Nodular Adrenocortical Disease, Primary, 1"	188830	PRKAR1A	Prkar1a	1	1	PS610489	"Pigmented nodular adrenocortical disease, primary"	1	1	No		
+610539	"Gaucher Disease, Atypical"	176801	PSAP	Psap	1	1			1	1	Yes	['macrophage']	
+610582	"Diabetes Mellitus, Transient Neonatal, 3"	600937	KCNJ11	Kcnj11	1	1			0	0			
+610629	Diamond-blackfan Anemia 3	602412	RPS24	Rps24	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+610733	Noonan Syndrome 4	182530	SOS1	Sos1	1	1	PS163950	Noonan syndrome	1	0			
+610738	"Neutropenia, Severe Congenital, Autosomal Recessive 3"	605998	HAX1	Hax1	1	1	PS202700	"Neutropenia, severe congenital"	1	1	Yes		
+610798	Immunodeficiency Due To Defect In Mapbp-interacting Protein	610389	LAMTOR2	Lamtor2	1	1			1	1	Yes	['macrophage']	
+610832	"Fanconi Anemia, Complementation Group N"	610355	PALB2	Palb2	1	1	PS227650	Fanconi anemia	1	0	Yes		
+610842	Pseudoxanthoma Elasticum-like Disorder With Multiple Coagulation Factor Deficiency	137167	GGCX	Ggcx	1	1			1	0			
+611126	"Acyl-coa Dehydrogenase Family, Member 9, Deficiency Of"	611103	ACAD9	Acad9	1	1	PS252010	"Mitochondrial complex I deficiency, nuclear type"	1	1	NA		
+611174	Hamamy Syndrome	606195	IRX5		1	1			0	0			
+611209	"Congenital Disorder Of Glycosylation, Type Iig"	606973	COG1	Cog1	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1	NA		
+611283	Isobutyryl-coa Dehydrogenase Deficiency	604773	ACAD8	Acad8	1	1			1	1	NA		
+611490	"Osteopetrosis,  Autosomal Recessive 4"	602727	CLCN7	Clcn7	1	1	PS259700	"Osteopetrosis, autosomal recessive"	1	0	Yes		
+611590	"Renal Tubular Acidosis, Distal, With Hemolytic Anemia"	109270	SLC4A1	Slc4a1	1	1	PS179800	Distal renal tubular acidosis	1	1	Yes	['erythrocyte']	"['erythroblast', 'proerythroblast']"
+611762	Familial Cold Autoinflammatory Syndrome 2	609648	NLRP12	Nlrp12	1	1	PS120100	Familial cold autoinflammatory syndrome	1	0			
+611773	"Angiopathy, Hereditary, With Nephropathy, Aneurysms, And Muscle Cramps"	120130	COL4A1	Col4a1	1	1			0	0			
+611783	"Erythrocytosis, Familial, 4"	603349	EPAS1	Epas1	1	1	PS133100	"Erythrocytosis, familial"	0	0	Yes		
+611804	Elliptocytosis 1	130500	EPB41	Epb41	1	1			1	0			
+611881	Glycogen Storage Disease Xii	103850	ALDOA	Aldoa	1	1			1	1	Yes	['macrophage']	
+612004	Thrombocytopenia 4	123970	CYCS	Cycs	1	1	PS313900	Thrombocytopenia	1	1	Yes		
+612015	"Congenital Disorder Of Glycosylation, Type In"	611908	RFT1	Rft1	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	1	No		
+612126	Glut1 Deficiency Syndrome 2	138140	SLC2A1	Slc2a1	1	1	PS128100	Dystonia	1	0			
+612126	Glut1 Deficiency Syndrome 2	138140	SLC2A1	Slc2a1	1	1	PS606777	Glut1 deficiency syndrome	1	0			
+612199	Cerebroretinal Microangiopathy With Calcifications And Cysts	613129	CTC1	Ctc1	1	1	PS612199	Cerebroretinal microangiopathy with calcfications and cysts	1	0			
+612260	Immunodeficiency 68	602170	MYD88	Myd88	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+612300	"Hemolytic Anemia, Cd59-mediated, With Or Without Immune-mediated Polyneuropathy"	107271	CD59	Cd59b	1	1			1	1	Yes		
+612301	"Osteopetrosis, Autosomal Recessive 7"	603499	TNFRSF11A	Tnfrsf11a	1	1	PS259700	"Osteopetrosis, autosomal recessive"	0	0	Yes		
+612304	"Thrombophilia, Hereditary, Due To Protein C Deficiency, Autosomal"	612283	PROC	Proc	1	1	PS188050	Thrombophilia	0	0	Yes		
+612336	"Thrombophilia, Hereditary, Due To Protein S Deficiency, Autosomal"	176880	PROS1	Pros1	1	1	PS188050	Thrombophilia	1	1	Yes		
+612350	"Ehlers-danlos Syndrome, Spondylodysplastic Type, 3"	608735	SLC39A13	Slc39a13	1	1	PS130000	Ehlers-Danlos syndrome	0	0			
+612356	Heparin Cofactor Ii Deficiency	142360	SERPIND1	Serpind1	1	1	PS188050	Thrombophilia	0	0	Yes		
+612379	"Coloboma, Ocular, And Ichthyosis, Brain Malformations, And Endocrine"	611715	SRD5A3	Srd5a3	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	1	Yes		
+612394	"Bone Fragility With Contractures, Arterial Rupture, And Deafness"	603066	PLOD3	Plod3	1	1			1	1	No		
+612416	Factor Xi Deficiency	264900	F11	F11	1	1			0	0			
+612423	Prekallikrein Deficiency	229000	KLKB1	Klkb1	1	1			0	0			
+612527	Diamond-blackfan Anemia 4	180472	RPS17	Rps17	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+612528	Diamond-blackfan Anemia 5	180468	RPL35A	Rpl35a	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+612541	"Neutropenia, Severe Congenital, 4, Autosomal Recessive"	611045	G6PC3	G6pc3	1	1	PS202700	"Neutropenia, severe congenital"	1	1	Yes		
+612561	Diamond-blackfan Anemia 6	603634	RPL5	Rpl5	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+612562	Diamond-blackfan Anemia 7	604175	RPL11	Rpl11	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+612563	Diamond-blackfan Anemia 8	603658	RPS7	Rps7	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+612631	"Adenylate Kinase Deficiency, Hemolytic Anemia Due To"	103000	AK1	Ak1	1	1			1	0			
+612653	"Spherocytosis, Type 4"	109270	SLC4A1	Slc4a1	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'proerythroblast']"
+612690	"Spherocytosis, Type 5"	177070	EPB42	Epb42	1	1			1	0			
+612714	"Exocrine Pancreatic Insufficiency, Dyserythropoietic Anemia, And Calvarial"	607976	COX4I2	Cox4i2	1	1			0	0			
+612740	"Porphyria, Acute Hepatic"	125270	ALAD	Alad	1	1			1	1	Yes	"['erythrocyte', 'erythroid.progenitor']"	['proerythroblast']
+612783	Immunodeficiency 10	605921	STIM1	Stim1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+612840	"Leukocyte Adhesion Deficiency, Type Iii"	607901	FERMT3	Fermt3	1	1			1	1	Yes		
+612852	Interleukin 1 Receptor Antagonist Deficiency	147679	IL1RN	Il1rn	1	1			1	1	NA		
+612922	"Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 2"	120920	CD46	Cd46	1	1	PS235400	Hemolytic uremic syndrome	1	0	Yes	['hematopoietic.stem.cell']	
+612923	"Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 3"	217030	CFI	Cfi	1	1	PS235400	Hemolytic uremic syndrome	0	0	Yes	['hematopoietic.stem.cell']	
+612924	"Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 4"	138470	CFB	Cfb	1	1	PS235400	Hemolytic uremic syndrome	0	0	Yes	['hematopoietic.stem.cell']	
+612925	"Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 5"	120700	C3	C3	1	1	PS235400	Hemolytic uremic syndrome	0	1	Yes	['hematopoietic.stem.cell']	
+612926	"Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 6"	188040	THBD	Thbd	1	1	PS235400	Hemolytic uremic syndrome	0	1	Yes	['hematopoietic.stem.cell']	
+612952	Aicardi-goutieres Syndrome 5	606754	SAMHD1	Samhd1	1	1	PS225750	Aicardi-Goutieres syndrome	1	1	Yes		
+613011	Lymphoproliferative Syndrome 1	186973	ITK	Itk	1	1	PS308240	Lymphoproliferative syndrome	1	1	Yes		
+613065	"Leukemia, Acute Lymphocytic, Susceptibility To, 1"	602667	NBN	Nbn	1	1			1	1	Yes	['neutrophil']	
+613070	"Liver Failure, Acute Infantile"	610230	TRMU	Trmu	1	1			1	0			
+613075	"Macrocephaly, Alopecia, Cutis Laxa, And Scoliosis"	610222	RIN2	Rin2	1	1			1	1	No		
+613092	"Hyperuricemic Nephropathy, Familial Juvenile, 2"	179820	REN	Ren1	1	1	PS162000	Tubulointerstitial kidney disease	0	0		['plasma.cell']	['plasma.cell']
+613101	"Hemophagocytic Lymphohistiocytosis, Familial, 5"	601717	STXBP2	Stxbp2	1	1	PS267700	"Hemophagocytic lymphohistiocytosis, familial"	1	1	Yes		
+613107	"Neutropenia, Severe Congenital, 2, Autosomal Dominant"	600871	GFI1	Gfi1	1	1	PS202700	"Neutropenia, severe congenital"	1	1	Yes		
+613112	"Macrothrombocytopenia, Autosomal Dominant, Tubb1-related"	612901	TUBB1	Tubb1	1	1			1	0			
+613116	Thrombophilia Due To Histidine-rich Glycoprotein Deficiency	142640	HRG		1	1	PS188050	Thrombophilia	0	0	Yes		
+613118	Antithrombin Iii Deficiency	107300	SERPINC1	Serpinc1	1	1	PS188050	Thrombophilia	0	0	Yes		
+613148	"Inflammatory Bowel Disease 28, Early Onset, Autosomal Recessive"	146933	IL10RA	Il10ra	1	1	PS266600	Inflammatory bowel disease	1	1	Yes	['cd8.positive..alpha.beta.t.cell']	
+613179	Immunodeficiency Due To Purine Nucleoside Phosphorylase Deficiency	164050	PNP	Pnp	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'proerythroblast']"
+613179	Immunodeficiency Due To Purine Nucleoside Phosphorylase Deficiency	164050	PNP	Pnp2	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'proerythroblast']"
+613224	Noonan Syndrome 6	164790	NRAS	Nras	1	1	PS163950	Noonan syndrome	1	1	Yes		
+613225	"Factor Xiii, A Subunit, Deficiency Of"	134570	F13A1	F13a1	1	1			1	1	No		
+613235	"Factor Xiii, B Subunit, Deficiency Of"	134580	F13B	F13b	1	1			0	0			
+613280	"Hypermanganesemia With Dystonia, Polycythemia, And Cirrhosis"	611146	SLC30A10	Slc30a10	1	1	PS613280	Hypermanganesemia with dystonia	0	0			
+613308	Diamond-blackfan Anemia 9	603632	RPS10	Rps10	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+613309	Diamond-blackfan Anemia 10	603701	RPS26	Rps26	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+613313	"Hemochromatosis, Type 2b"	606464	HAMP		1	1	PS235200	Hemochromatosis	0	0			
+613329	Plasminogen Activator Inhibitor-1 Deficiency	173360	SERPINE1	Serpine1	1	1			0	0			
+613385	"Autoimmune Disease, Multisystem, With Facial Dysmorphism"	606409	ITCH	Itch	1	1			1	1	NA		
+613470	"Hemolytic Anemia, Nonspherocytic, Due To Glucose Phosphate Isomerase"	172400	GPI	Gpi1	1	1			1	1	Yes	['cd24.neutrophil']	
+613471	Reynolds Syndrome	600024	LBR	Lbr	1	1			1	1	NA		
+613496	"Immunodeficiency, Common Variable, 6"	186845	CD81	Cd81	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes		
+613501	"Agammaglobulinemia 3, Autosomal Recessive"	112205	CD79A	Cd79a	1	1	PS601495	Agammaglobulinemia	1	1	Yes		
+613502	"Agammaglobulinemia 4, Autosomal Recessive"	604515	BLNK	Blnk	1	1	PS601495	Agammaglobulinemia	1	1	Yes		
+613550	Nephronophthisis 11	609884	TMEM67	Tmem67	1	1	PS256100	Nephronophthisis	1	0			
+613554	"Von Willebrand Disease, Type 2"	613160	VWF	Vwf	1	1			1	0			
+613561	"Myopathy, Lactic Acidosis, And Sideroblastic Anemia 2"	610957	YARS2	Yars2	1	1	PS600462	"Myopathy, lactic acidosis, and sideroblastic anemia"	1	1	Yes		
+613563	Noonan Syndrome-like Disorder With Or Without Juvenile Myelomonocyticleukemia	165360	CBL	Cbl	1	1			1	1	Yes	['neutrophil']	
+613625	"Factor V And Factor Viii, Combined Deficiency Of"	607788	MCFD2	Mcfd2	1	1			1	1	No		
+613658	Rajab Interstitial Lung Disease With Brain Calcifications	609690	FARSB	Farsb	1	1	PS613658	Rajab interstitial lung disease with brain calcifications	1	1	Yes	['erythroid.progenitor']	
+613673	"Anemia, Dyserythropoietic Congenital, Type Iv"	600599	KLF1	Klf1	1	1	PS224120	"Anemia, congenital dyserythropoietic"	1	1	Yes		
+613679	Congenital Prothrombin Deficiency	176930	F2	F2	1	1			0	0			
+613759	"Infections, Recurrent, With Encephalopathy, Hepatic Dysfunction, And Cardiovascular Malformations"	602457	FADD	Fadd	1	1			1	1	Yes	['neutrophil']	
+613795	"Loeys-dietz Syndrome, Type 3"	603109	SMAD3	Smad3	1	1	PS609192	Loeys-Dietz syndrome	1	1	No		
+613812	"Bile Acid Synthesis Defect, Congenital, 3"	603711	CYP7B1	Cyp7b1	1	1	PS607765	"Bile acid synthesis defect, congenital"	1	0	Yes		
+613839	Megaloblastic Anemia Due To Dihydrofolate Reductase Deficiency	126060	DHFR	Dhfr	1	1			1	1	Yes	['erythroid.progenitor']	['precursor.B.cell']
+613845	"Hyperuricemia, Pulmonary Hypertension, Renal Failure, And Alkalosis"	612804	SARS2	Sars2	1	1			1	1	Yes	['erythroid.progenitor']	['immature.B.cell']
+613949	Okt4 Epitope Deficiency 	186940	CD4	Cd4	1	1			1	1	Yes	['cd4.positive..alpha.beta.t.cell']	
+613951	"Fanconi Anemia, Complementation Group P"	613278	SLX4	Slx4	1	1	PS227650	Fanconi anemia	0	0	Yes		
+613977	"Cyanosis, Transient Neonatal"	142250	HBG2	Hbb-y	1	1			0	0			
+613978	Hemoglobin H Disease	141850	HBA2	Hba-a1	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+613978	Hemoglobin H Disease	141850	HBA2	Hba-a2	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+613978	Hemoglobin H Disease	141800	HBA1	Hba-a1	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+613978	Hemoglobin H Disease	141800	HBA1	Hba-a2	1	1			1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+613985	Beta-thalassemia	141900	HBB	Hbb-bt	1	1			1	0			
+613985	Beta-thalassemia	141900	HBB	Hbb-bs	1	1			1	0			
+613985	Beta-thalassemia	152424	LCRB		1	1			0	0			
+613987	"Dyskeratosis Congenita, Autosomal Recessive, 2"	606470	NHP2	Nhp2	1	1	PS127550	Dyskeratosis congenita	1	1	Yes		
+613988	"Dyskeratosis Congenita, Autosomal Recessive, 3"	612661	WRAP53	Wrap53	1	1	PS127550	Dyskeratosis congenita	1	1	Yes		
+613989	"Dyskeratosis Congenita, Autosomal Dominant, 2"	187270	TERT	Tert	1	1	PS127550	Dyskeratosis congenita	0	0	Yes		
+613990	"Dyskeratosis Congenita, Autosomal Dominant, 3"	604319	TINF2	Tinf2	1	1	PS127550	Dyskeratosis congenita	1	1	Yes		
+614009	"Bleeding Disorder, Platelet-type, 13, Susceptibility To"	188070	TBXA2R	Tbxa2r	1	1	PS231200	"Bleeding disorder, platelet-type"	0	1	Yes		
+614034	Heme Oxygenase-1 Deficiency	141250	HMOX1	Hmox1	1	1			1	1	Yes	['macrophage']	['monocyte']
+614038	"Lymphedema, Primary, With Myelodysplasia"	137295	GATA2	Gata2	1	1			1	1	Yes	['myeloid.progenitor']	
+614072	Hermansky-pudlak Syndrome 3	606118	HPS3	Hps3	1	1	PS203300	Hermansky-Pudlak syndrome	1	1	Yes		
+614073	Hermansky-pudlak Syndrome 4	606682	HPS4	Hps4	1	1	PS203300	Hermansky-Pudlak syndrome	1	0	Yes		
+614074	Hermansky-pudlak Syndrome 5	607521	HPS5	Hps5	1	1	PS203300	Hermansky-Pudlak syndrome	1	1	Yes		
+614075	Hermansky-pudlak Syndrome 6	607522	HPS6	Hps6	1	1	PS203300	Hermansky-Pudlak syndrome	1	0	Yes		
+614076	Hermansky-pudlak Syndrome 7	607145	DTNBP1	Dtnbp1	1	1	PS203300	Hermansky-Pudlak syndrome	1	1	Yes		
+614077	Hermansky-pudlak Syndrome 8	609762	BLOC1S3	Bloc1s3	1	1	PS203300	Hermansky-Pudlak syndrome	0	1	Yes		
+614082	"Fanconi Anemia, Complementation Group G"	602956	FANCG	Fancg	1	1	PS227650	Fanconi anemia	1	1	Yes		
+614083	"Fanconi Anemia, Complementation Group L"	608111	FANCL	Fancl	1	1	PS227650	Fanconi anemia	1	1	Yes		
+614162	Immunodeficiency 31c	600555	STAT1	Stat1	1	1	PS114580	Familial candidiasis	1	1	Yes		
+614162	Immunodeficiency 31c	600555	STAT1	Stat1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+614171	Hermansky-pudlak Syndrome 9	604310	BLOC1S6	Bloc1s6	1	1	PS203300	Hermansky-Pudlak syndrome	1	0	Yes		
+614172	Immunodeficiency 21	137295	GATA2	Gata2	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+614201	"Bleeding Disorder, Platelet-type, 11"	605546	GP6	Gp6	1	1	PS231200	"Bleeding disorder, platelet-type"	0	0	Yes		
+614204	"Psoriasis 14, Pustular"	605507	IL36RN	Il36rn	1	1	PS177900	Psoriasis	0	0			
+614286	Myelodysplastic Syndrome	137295	GATA2	Gata2	1	1			1	1	Yes	['myeloid.progenitor']	
+614378	Cranioectodermal Dysplasia 4	608151	WDR19	Wdr19	1	1	PS218330	Cranioectodermal dysplasia	0	0			
+614380	Complement Component 4a Deficiency	120810	C4A	C4b	1	1			0	0			
+614380	Complement Component 4a Deficiency	120810	C4A	C4a	1	1			0	0			
+614450	"Hypothyroidism, Congenital, Nongoitrous, 6"	190120	THRA	Thra	1	1	PS275200	"Hypothyroidism, congenital, nongoitrous"	1	1	Yes	['erythroid.progenitor']	
+614470	"Ras-associated Autoimmune Lymphoproliferative Syndrome Type Iv, Somatic"	190070	KRAS	Kras	1	1			1	1	Yes	['neutrophil']	
+614483	Porencephaly 2	120090	COL4A2	Col4a2	1	1	PS175780	Brain small vessel disease	0	0			
+614486	Thrombophilia Due To Thrombomodulin Defect	188040	THBD	Thbd	1	1	PS188050	Thrombophilia	0	1			
+614493	Wiskott-aldrich Syndrome 2	602357	WIPF1	Wipf1	1	1			1	1	Yes	['nampt.neutrophil']	
+614514	"Thrombophilia Due To Protein S Deficiency, Autosomal Recessive"	176880	PROS1	Pros1	1	1	PS188050	Thrombophilia	1	1	Yes		
+614521	Thrombocythemia 3	147796	JAK2	Jak2	1	1	PS187950	Thrombocythemia	1	1	Yes		
+614557	"Ehlers-danlos Syndrome With Progressive Kyphoscoliosis, Myopathy,and Hearing Loss"	614505	FKBP14	Fkbp14	1	1	PS130000	Ehlers-Danlos syndrome	1	0			
+614576	"Congenital Disorder Of Glycosylation, Type Iil"	606977	COG6	Cog6	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1	Yes		
+614675	"Bone Marrow Failure, Familial"	602122	SRP72	Srp72	1	1	PS614675	Bone marrow failure syndrome	1	1	Yes		
+614700	"Immunodeficiency, Common Variable, 8, With Autoimmunity"	606453	LRBA	Lrba	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes		
+614727	"Congenital Disorder Of Glycosylation, Type Iik"	614726	TMEM165	Tmem165	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1	Yes		
+614739	"3-@methylglutaconic Aciduria With Deafness, Encephalopathy, And Leigh-likesyndrome"	614725	SERAC1	Serac1	1	1	PS250950	3-Methylglutaconic aciduria	0	0			
+614742	"Pulmonary Fibrosis And/or Bone Marrow Failure, Telomere-related, 1"	187270	TERT	Tert	1	1	PS614742	"Pulmonary fibrosis and/or bone marrow failure, telomere-related"	0	0		['erythrocyte']	
+614743	"Pulmonary Fibrosis And/or Bone Marrow Failure, Telomere-related, 2"	602322	TERC		1	1	PS614742	"Pulmonary fibrosis and/or bone marrow failure, telomere-related"	0	0		['erythrocyte']	
+614816	"Loeys-dietz Syndrome, Type 4"	190220	TGFB2	Tgfb2	1	1	PS609192	Loeys-Dietz syndrome	0	0			
+614857	"Methylmalonic Aciduria And Homocystinuria, Cblj Type"	603214	ABCD4	Abcd4	1	1			1	0	Yes		
+614868	"T-cell Immunodeficiency, Recurrent Infections, And Autoimmunity Withor Without Cardiac Malformations"	604965	STK4	Stk4	1	1			1	1	Yes		
+614900	Diamond-blackfan Anemia 11	603704	RPL26	Rpl26	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+614921	"Congenital Disorder Of Glycosylation, Type It"	171900	PGM1	Pgm1	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	1	No		
+614946	Combined Oxidative Phosphorylation Deficiency 14	611592	FARS2	Fars2	1	1	PS609060	Combined oxidative phosphorylation deficiency	1	1	Yes		
+614979	"Splenomegaly, Cytopenia, And Vision Loss"	607347	ALPK1	Alpk1	1	1			1	0			
+615008	"Nephrotic Syndrome, Type 7"	601440	DGKE	Dgke	1	1	PS235400	Hemolytic uremic syndrome	1	0	Yes	['hematopoietic.stem.cell']	
+615008	"Nephrotic Syndrome, Type 7"	601440	DGKE	Dgke	1	1	PS256300	Nephrotic syndrome	1	0	Yes		
+615010	Aicardi-goutieres Syndrome 6	146920	ADAR	Adar	1	1	PS225750	Aicardi-Goutieres syndrome	1	1	Yes		
+615085	"Osteopetrosis, Autosomal Recessive 8"	614780	SNX10	Snx10	1	1	PS259700	"Osteopetrosis, autosomal recessive"	1	1	Yes		
+615122	Lymphoproliferative Syndrome 2	186711	CD27	Cd27	1	1	PS308240	Lymphoproliferative syndrome	1	1	Yes		
+615190	"Dyskeratosis Congenita, Autosomal Recessive 5"	608833	RTEL1	Rtel1	1	1	PS127550	Dyskeratosis congenita	0	0	Yes		
+615193	"Bleeding Disorder, Platelet-type, 15"	102575	ACTN1	Actn1	1	1	PS231200	"Bleeding disorder, platelet-type"	1	1	Yes		
+615214	"Agammaglobulinemia 7, Autosomal Recessive"	171833	PIK3R1	Pik3r1	1	1	PS601495	Agammaglobulinemia	1	1	Yes		
+615234	"Anemia, Hypochromic Microcytic, With Iron Overload 2"	609671	STEAP3	Steap3	1	1	PS206100	"Anemia, hypochromic microcytic, with iron overload"	1	1	Yes		
+615272	"Fanconi Anemia, Complementation Group Q"	133520	ERCC4	Ercc4	1	1	PS227650	Fanconi anemia	1	0	Yes		
+615285	"Neutropenia, Severe Congenital, 5, Autosomal Recessive"	610035	VPS45	Vps45	1	1	PS202700	"Neutropenia, severe congenital"	1	1	Yes		
+615368	Lethal Congenital Contracture Syndrome 5	602378	DNM2	Dnm2	1	1	PS253310	Lethal congenital contracture syndrome	1	1	No		
+615387	T-cell Receptor-alpha/beta Deficiency	186880	TRAC		1	1	PS300755	Immunodeficiency (Select Examples)	1	0			
+615399	Paroxysmal Nocturnal Hemoglobinuria 2	610272	PIGT	Pigt	1	1	PS300818	Paroxysmal nocturnal hemoglobinuria	1	1	Yes		
+615401	Immunodeficiency 8	605000	CORO1A	Coro1a	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615438	Infantile Liver Failure Syndrome 1	151350	LARS1	Lars	1	1	PS615438	Infantile liver failure syndrome	0	1			
+615471	Mitochondrial Dna Depletion Syndrome 13 (encephalomyopathic Type)	605654	FBXL4	Fbxl4	1	1	PS603041	Mitochondrial DNA depletion syndrome	1	0	Yes	['nk.cell']	
+615486	Interstitial Lung And Liver Disease	156560	MARS1	Mars1	1	1			0	0			
+615506	"Telangiectasia, Hereditary Hemorrhagic, Type 5"	605120	GDF2	Gdf2	1	1	PS187300	"Telangiectasia, hereditary hemorrhagic"	0	0		['erythroid.progenitor']	
+615512	Triosephosphate Isomerase Deficiency	190450	TPI1	Tpi1	1	1			1	1	Yes		
+615513	Immunodeficiency 14	602839	PIK3CD	Pik3cd	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615518	Immunodeficiency 13	604011	UNC119	Unc119	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615550	Diamond-blackfan Anemia 12	604174	RPL15	Rpl15	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+615555	Hyperprolactinemia	176761	PRLR	Prlr	1	1			0	1	No		
+615558	"Hypobetalipoproteinemia, Familial, 1"	107730	APOB	Apob	1	1			0	0			
+615559	"Autoimmune Lymphoproliferative Syndrome, Type Iii"	176977	PRKCD	Prkcd	1	1			1	1	Yes	['nampt.neutrophil']	
+615578	Combined Oxidative Phosphorylation Deficiency 18	615564	SFXN4	Sfxn4	1	1	PS609060	Combined oxidative phosphorylation deficiency	1	0			
+615582	Loeys-dietz Syndrome 5	190230	TGFB3	Tgfb3	1	1	PS609192	Loeys-Dietz syndrome	0	0			
+615593	Immunodeficiency 16	600315	TNFRSF4	Tnfrsf4	1	1	PS300755	Immunodeficiency (Select Examples)	1	0	Yes		
+615597	"Congenital Disorder Of Glycosylation, Type Ix"	608605	STT3B	Stt3b	1	1	PS212065	"Congenital disorders of glycosylation, type I"	1	1	Yes		
+615607	Immunodeficiency 17	186740	CD3G	Cd3g	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615615	Immunodeficiency 18	186830	CD3E	Cd3e	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615617	Immunodeficiency 19	186790	CD3D	Cd3d	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615631	"Anemia, Congenital Dyserythropoietic, Type Ib"	615626	CDIN1	Cdin1	1	1	PS224120	"Anemia, congenital dyserythropoietic"	0	0	Yes		
+615688	"Vasculitis, Autoinflammation, Immunodeficiency, And Hematologic Defects Syndrome"	607575	ADA2		1	1			1	0			
+615715	Bone Marrow Failure Syndrome 2	615667	ERCC6L2	Ercc6l2	1	1	PS614675	Bone marrow failure syndrome	1	0	Yes		
+615758	Immunodeficiency 22	153390	LCK	Lck	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615789	Short Stature With Microcephaly And Distinctive Facies	604594	CRIPT	Cript	1	1			1	1	Yes		
+615816	Immunodeficiency 23	172100	PGM3	Pgm3	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615838	"Mitochondrial Complex Iii Deficiency, Nuclear Type 8"	615831	LYRM7	Lyrm7	1	1	PS124000	"Mitochondrial complex III deficiency, nuclear type"	1	0			
+615846	Aicardi-goutieres Syndrome 7	606951	IFIH1	Ifih1	1	1	PS225750	Aicardi-Goutieres syndrome	1	1	Yes		
+615888	"Bleeding Disorder, Platelet-type, 18"	605577	RASGRP2	Rasgrp2	1	1	PS231200	"Bleeding disorder, platelet-type"	1	1	Yes		
+615897	Immunodeficiency 24	123860	CTPS1	Ctps	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+615909	Diamond-blackfan Anemia 13	603633	RPS29	Rps29	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+615934	"Sting-associated Vasculopathy, Infantile-onset"	612374	STING1	Sting1	1	1			0	0			
+615952	"Autoimmune Disease, Multisystem, Infantile-onset, 1"	102582	STAT3	Stat3	1	1	PS615952	"Autoimmune disease, multisystem, infantile-onset"	1	1	Yes		
+616005	Immunodeficiency 36	171833	PIK3R1	Pik3r1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+616022	"Neutropenia, Severe Congenital, 6, Autosomal Recessive"	616012	JAGN1	Jagn1	1	1	PS202700	"Neutropenia, severe congenital"	1	1	Yes		
+616028	Adams-oliver Syndrome 5	190198	NOTCH1	Notch1	1	1	PS100300	Adams-Oliver syndrome	1	1	No		
+616050	Autoinflammation With Infantile Enterocolitis	606831	NLRC4	Nlrc4	1	1			1	0			
+616084	"Sideroblastic Anemia With B-cell Immunodeficiency, Periodic Fevers, And Developmental Delay"	612907	TRNT1	Trnt1	1	1			1	1	Yes		
+616100	"Autoimmune Lymphoproliferative Syndrome, Type V"	123890	CTLA4	Ctla4	1	1			1	1	Yes	['cd4.positive..alpha.beta.t.cell']	
+616176	"Bleeding Disorder, Platelet-type, 19"	176893	PRKACG		1	1	PS231200	"Bleeding disorder, platelet-type"	0	0			
+616216	Thrombocytopenia 5	600618	ETV6	Etv6	1	1	PS313900	Thrombocytopenia	1	1	Yes		
+616271	"3-@methylglutaconic Aciduria With Cataracts, Neurologic Involvement,and Neutropenia"	616254	CLPB	Clpb	1	1	PS250950	3-Methylglutaconic aciduria	1	1	Yes		
+616278	"Bile Acid Synthesis Defect, Congenital, 5"	170995	ABCD3	Abcd3	1	1	PS607765	"Bile acid synthesis defect, congenital"	1	1	Yes		
+616414	"Autoimmune Interstitial Lung, Joint, And Kidney Disease"	601924	COPA	Copa	1	1			1	1	NA		
+616433	Immunodeficiency 40	603122	DOCK2	Dock2	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+616435	"Fanconi Anemia, Complementation Group T"	610538	UBE2T	Ube2t	1	1	PS227650	Fanconi anemia	1	1	Yes		
+616452	B-cell Expansion With Nfkb And T-cell Anergy	607210	CARD11	Card11	1	1			1	1	Yes	['nk.cell']	
+616457	"Congenital Disorder Of Glycosylation, Type Iz"	114010	CAD	Cad	1	1	PS308350	Developmental and epileptic encephalopathy	1	1	Yes	"['erythroid.progenitor', 'myeloid.progenitor']"	['precursor.B.cell']
+616483	Infantile Liver Failure Syndrome 2	608025	NBAS	Nbas	1	1	PS615438	Infantile liver failure syndrome	1	1	No		
+616507	"Osteogenesis Imperfecta, Type Xvii"	182120	SPARC	Sparc	1	1	PS166200	Osteogenesis imperfecta	1	0			
+616541	"Short Stature, Microcephaly, And Endocrine Dysfunction"	194363	XRCC4	Xrcc4	1	1			1	1	Yes		
+616553	"Dyskeratosis Congenita, Autosomal Dominant 6"	609377	ACD	Acd	1	1	PS127550	Dyskeratosis congenita	1	1	Yes		
+616568	Glioma Susceptibility 9	606478	POT1	Pot1a	1	1	PS137800	Glioma	1	1	No		
+616576	"Immunodeficiency, Common Variable, 12"	164011	NFKB1	Nfkb1	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes		
+616577	"Epilepsy, Hearing Loss, And Mental Retardation Syndrome"	613940	SPATA5	Spata5	1	1			1	1	Yes		
+616638	Smith-kingsmore Syndrome	601231	MTOR	Mtor	1	1			1	1	Yes		
+616649	"Spherocytosis, Type 2"	182870	SPTB	Sptb	1	1			1	0			
+616651	Roifman Syndrome	601428	RNU4ATAC		1	1			0	0			
+616689	Dehydrated Hereditary Stomatocytosis 2	602754	KCNN4	Kcnn4	1	1			1	1	Yes	['erythroid.progenitor']	['proerythroblast']
+616737	Takenouchi-kosaki Syndrome	116952	CDC42		1	1			1	0			
+616738	Radioulnar Synostosis With Amegakaryocytic Thrombocytopenia 2	165215	MECOM	Mecom	1	1	PS605432	Radioulnar synostosis with amegakaryocytic thrombocytopenia	1	0			
+616740	Immunodeficiency 46	190010	TFRC	Tfrc	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+616744	"Autoinflammatory Syndrome, Familial, Behcet-like"	191163	TNFAIP3	Tnfaip3	1	1			1	1	NA		
+616843	"Lymphedema, Hereditary, Iii"	611184	PIEZO1	Piezo1	1	1	PS153100	Lymphatic malformation	1	0			
+616860	"Anemia, Sideroblastic, 3, Pyridoxine-refractory"	609588	GLRX5	Glrx5	1	1	PS300751	"Anemia, Sideroblastic"	1	1	Yes	['erythrocyte']	['erythroblast']
+616871	"Myeloproliferative/lymphoproliferative Neoplasms, Familial (multiple Types), Susceptibility To"	608170	DDX41	Ddx41	1	1			1	1	Yes		
+616873	"Immunodeficiency, Common Variable, 13"	603023	IKZF1	Ikzf1	1	1	PS607594	"Immunodeficiency, common variable"	1	1	Yes		
+616913	"Bleeding Disorder, Platelet-type, 20"	614958	SLFN14	Slfn14	1	1	PS231200	"Bleeding disorder, platelet-type"	1	0	Yes		
+616914	Marfan Lipodystrophy Syndrome	134797	FBN1	Fbn1	1	1			1	0			
+616937	Thrombocytopenia 6	190090	SRC	Src	1	1	PS313900	Thrombocytopenia	0	0			
+616941	"Agammaglobulinemia 8, Autosomal Dominant"	147141	TCF3	Tcf3	1	1	PS601495	Agammaglobulinemia	1	1	Yes		
+616949	"Spinocerebellar Ataxia, Autosomal Recessive 23"	605764	TDP2	Tdp2	1	1	PS213200	"Spinocerebellar ataxia, autosomal recessive"	1	1	Yes	['nampt.neutrophil']	
+616959	Retinitis Pigmentosa And Erythrocytic Microcytosis	612907	TRNT1	Trnt1	1	1			1	1	Yes		
+617006	"Autoimmune Disease, Multisystem, Infantile-onset, 2"	176947	ZAP70	Zap70	1	1	PS615952	"Autoimmune disease, multisystem, infantile-onset"	1	1	Yes		
+617014	"Neutropenia, Severe Congenital, 7, Autosomal Recessive"	138971	CSF3R	Csf3r	1	1	PS202700	"Neutropenia, severe congenital"	1	1	Yes		
+617021	"Hydrops, Lactic Acidosis, And Sideroblastic Anemia"	604544	LARS2	Lars2	1	1			0	1	Yes		
+617049	"Cholestasis, Progressive Familial Intrahepatic, 5"	603826	NR1H4	Nr1h4	1	1	PS211600	"Cholestasis, progressive familial intrahepatic"	0	0			
+617050	Hermansky-pudlak Syndrome 10	607246	AP3D1	Ap3d1	1	1	PS203300	Hermansky-Pudlak syndrome	1	1	Yes		
+617052	Bone Marrow Failure Syndrome 3	617048	DNAJC21	Dnajc21	1	1	PS614675	Bone marrow failure syndrome	1	1	Yes		
+617053	Mirage Syndrome	610456	SAMD9		1	1			1	0			
+617056	"Hyperuricemic Nephropathy, Familial Juvenile, 4"	609213	SEC61A1	Sec61a1	1	1	PS162000	Tubulointerstitial kidney disease	1	1	Yes	['plasma.cell']	['plasma.cell']
+617099	"Autoinflammation, Panniculitis, And Dermatosis Syndrome"	615712	OTULIN	Otulin	1	1			1	0			
+617156	Mitochondrial Dna Depletion Syndrome 15 (hepatocerebral Type)	600438	TFAM	Tfam	1	1	PS603041	Mitochondrial DNA depletion syndrome	1	1	No	['nk.cell']	
+617174	"Ehlers-danlos Syndrome, Periodontal Type, 2"	120580	C1S	C1s2	1	1	PS130000	Ehlers-Danlos syndrome	0	0			
+617174	"Ehlers-danlos Syndrome, Periodontal Type, 2"	120580	C1S	C1s1	1	1	PS130000	Ehlers-Danlos syndrome	0	0			
+617237	Immunodeficiency 49	606558	BCL11B	Bcl11b	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+617241	"Lung Disease, Immunodeficiency, And Chromosome Breakage Syndrome"	608243	NSMCE3	Nsmce3	1	1			1	0			
+617243	"Fanconi Anemia, Complementation Group V"	604094	MAD2L2	Mad2l2	1	1	PS227650	Fanconi anemia	1	1	Yes		
+617248	"3-methylglutaconic Aciduria, Type Viii"	606441	HTRA2	Htra2	1	1	PS250950	3-Methylglutaconic aciduria	1	1	Yes		
+617253	Seckel Syndrome 10	617246	NSMCE2	Nsmce2	1	1	PS210600	Seckel syndrome	1	1	No		
+617300	"Hydrops Fetalis, Nonimmune, And/or Atrial Septal Defect, Susceptibility To"	600011	EPHB4	Ephb4	1	1	PS153100	Lymphatic malformation	1	0			
+617303	Mucopolysaccharidosis-plus Syndrome	610034	VPS33A	Vps33a	1	1			1	1	Yes		
+617341	Cerebroretinal Microangiopathy With Calcifications And Cysts 2	613128	STN1	Stn1	1	1	PS612199	Cerebroretinal microangiopathy with calcfications and cysts	1	0			
+617388	Autoinflammation With Arthritis And Dyskeratosis	606636	NLRP1	Nlrp1b	1	1			1	0			
+617397	Pseudo-torch Syndrome 2	607057	USP18	Usp18	1	1	PS251290	Pseudo-TORCH syndrome	0	1	Yes		
+617408	Diamond-blackfan Anemia 16	607526	RPL27	Rpl27	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+617409	Diamond-blackfan Anemia 17	603702	RPS27		1	1	PS105650	Diamond-Blackfan anemia	1	0	Yes		
+617425	Immunoskeletal Dysplasia With Neurodevelopmental Abnormalities	605744	EXTL3	Extl3	1	1			1	1	Yes	"['nampt.neutrophil', 'neutrophil']"	
+617441	"Thrombocytopenia, Anemia, And Myelofibrosis"	606520	MPIG6B	Mpig6b	1	1			1	0			
+617443	"Bleeding Disorder, Platelet-type, 21"	193067	FLI1	Fli1	1	1	PS231200	"Bleeding disorder, platelet-type"	1	1	Yes		
+617475	Specific Granule Deficiency 2	601736	SMARCD2	Smarcd2	1	1	PS245480	Specific granule deficiency	1	1	Yes	['cd24.neutrophil']	
+617514	Immunodeficiency 52	602354	LAT	Lat	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+617575	"Nephrotic Syndrome, Type 14"	603729	SGPL1	Sgpl1	1	1	PS256300	Nephrotic syndrome	1	1	NA		
+617591	Proteasome-associated Autoinflammatory Syndrome 3	602177	PSMB4	Psmb4	1	1	PS256040	Proteosome-associated autoinflammatory syndrome	1	1	Yes		
+617591	Proteasome-associated Autoinflammatory Syndrome 3	177045	PSMB9	Psmb9	1	1	PS256040	Proteosome-associated autoinflammatory syndrome	1	1	Yes		
+617638	Immunodeficiency 11b With Atopic Dermatitis	607210	CARD11	Card11	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+617718	Platelet Abnormalities With Eosinophilia And Immune-mediated Inflammatory Disease	604223	ARPC1B	Arpc1b	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+617780	Combined Immunodeficiency And Megaloblastic Anemia With Or Without Hyperhomocysteinemia	172460	MTHFD1	Mthfd1	1	1			1	1	Yes	"['erythroid.progenitor', 'myeloid.progenitor']"	['proerythroblast']
+617784	"Fanconi Anemia, Complementation Group W"	614151	RFWD3	Rfwd3	1	1	PS227650	Fanconi anemia	1	1	Yes		
+617821	"Ehlers-danlos Syndrome, Arthrochalasia Type, 2"	120160	COL1A2	Col1a2	1	1	PS130000	Ehlers-Danlos syndrome	0	0			
+617827	Immunodeficiency 55	610608	GINS1	Gins1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+617872	Combined Oxidative Phosphorylation Deficiency 34	611974	MRPS7	Mrps7	1	1	PS609060	Combined oxidative phosphorylation deficiency	1	1	Yes		
+617883	"Fanconi Anemia, Complementation Group S"	113705	BRCA1	Brca1	1	1	PS227650	Fanconi anemia	1	1	Yes		
+617907	"Erythrocytosis, Familial, 5"	133170	EPO	Epo	1	1	PS133100	"Erythrocytosis, familial"	0	0	Yes		
+617911	Diamond-blackfan Anemia-like	133170	EPO	Epo	1	1			0	0			
+617941	Shwachman-diamond Syndrome 2	617538	EFL1	Efl1	1	1	PS260400	Schwachman-Diamond syndrome	1	0			
+617948	Elliptocytosis-3	182870	SPTB	Sptb	1	1			1	0			
+618000	"Ehlers-danlos Syndrome, Classic-like, 2"	602981	AEBP1	Aebp1	1	1	PS130000	Ehlers-Danlos syndrome	1	0			
+618005	Congenital Disorder Of Glycosylation With Defective Fucosylation 1	602589	FUT8	Fut8	1	1	PS618005	Congenital disorder of glycosylation with defective fucosylation	1	1	NA		
+618015	"Protoporphyria, Erythropoietic, 2"	615611	CLPX	Clpx	1	1	PS177000	"Protoporphyria, erythropoietic"	1	1	Yes	['erythrocyte']	"['erythroblast', 'reticulocyte']"
+618048	Proteasome-associated Autoinflammatory Syndrome 2	613386	POMP	Pomp	1	1	PS256040	Proteosome-associated autoinflammatory syndrome	1	1	Yes		
+618067	"Epileptic Encephalopathy, Early Infantile, 66"	610423	PACS2	Pacs2	1	1	PS308350	Developmental and epileptic encephalopathy	1	1	NA	"['erythroid.progenitor', 'myeloid.progenitor']"	['precursor.B.cell']
+618092	"Intellectual Developmental Disorder With Speech Delay, Dysmorphic Facies, And T-cell Abnormalities"	606558	BCL11B	Bcl11b	1	1			1	1	Yes	"['cd4.positive..alpha.beta.t.cell', 'cd8.positive..alpha.beta.t.cell']"	['T.cell']
+618107	"Osteopetrosis, Autosomal Dominant 3"	611466	PLEKHM1	Plekhm1	1	1	PS607634	"Osteopetrosis, autosomal dominant"	1	1	Yes	"['cd24.neutrophil', 'neutrophil']"	['segmented.neutrophil.of.bone.marrow']
+618116	Bone Marrow Failure Syndrome 4	612176	MYSM1	Mysm1	1	1	PS614675	Bone marrow failure syndrome	1	1	Yes		
+618150	Saul-wilson Syndrome	606976	COG4	Cog4	1	1			1	1	NA		
+618162	"Spondyloepimetaphyseal Dysplasia, Krakow Type"	614776	SIK3	Sik3	1	1			1	1	Yes		
+618165	Bone Marrow Failure Syndrome 5	191170	TP53	Trp53	1	1	PS614675	Bone marrow failure syndrome	1	1	Yes		
+618183	"Diarrhea 10, Protein-losing Enteropathy Type"	607647	PLVAP	Plvap	1	1	PS214700	"Diarrhea, congenital"	0	0			
+618213	"Inflammatory Bowel Disease, Immunodeficiency, And Encephalopathy"	190180	TGFB1	Tgfb1	1	1			0	1			
+618223	Vertebral Anomalies And Variable Endocrine And T-cell Dysfunction	600747	TBX2	Tbx2	1	1			0	0			
+618261	Lymphoproliferative Syndrome 3	602840	CD70	Cd70	1	1	PS308240	Lymphoproliferative syndrome	1	0			
+618278	"Fibrosis, Neurodegeneration, And Cerebral Angiomatosis"	618277	NHLRC2	Nhlrc2	1	1			1	1	Yes	['naive.b.cell']	
+618282	"Hyper-ige Recurrent Infection Syndrome 3, Autosomal Recessive"	618269	ZNF341	Zfp341	1	1	PS147060	Hyper-IgE recurrent infection syndrome	0	0			
+618307	"Epidermodysplasia Verruciformis, Susceptibility To, 4"	602037	RHOH	Rhoh	1	1	PS226400	"Epidermodysplasia verruciformis, susceptibility to"	1	1	NA		
+618309	"Epidermodysplasia Verruciformis, Susceptibility To, 5"	146660	IL7	Il7	1	1	PS226400	"Epidermodysplasia verruciformis, susceptibility to"	1	0			
+618310	Diamond-blackfan Anemia 18	604179	RPL18	Rpl18	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+618312	Diamond-blackfan Anemia 19	618315	RPL35	Rpl35	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+618313	Diamond-blackfan Anemia 20	603674	RPS15A	Rps15a	1	1	PS105650	Diamond-Blackfan anemia	1	1	Yes		
+618321	"Encephalopathy, Progressive, Early-onset, With Brain Edema And/or Leukoencephalopathy, 2"	615910	NAXD	Naxd	1	1	PS617186	"Encephalopathy, progressive, early-onset, with brain edema and/or leukoencephalopathy"	0	0			
+618336	"Intrauterine Growth Retardation, Metaphyseal Dysplasia, Adrenal Hypoplasia Congenita, Genital Anomalies, And Immunodeficiency"	174762	POLE	Pole	1	1			1	1	Yes		
+618343	Polymicrogyria With Or Without Vascular-type Ehlers-danlos Syndrome	120180	COL3A1	Col3a1	1	1			0	0			
+618360	Brain Small Vessel Disease 3	617531	COLGALT1	Colgalt1	1	1	PS175780	Brain small vessel disease	1	0			
+618372	"Gastrointestinal Ulceration, Recurrent, With Dysfunctional Platelets"	600522	PLA2G4A	Pla2g4a	1	1			1	1	Yes		
+618394	Immunodeficiency 60	605394	BACH2	Bach2	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618398	"T-cell Lymphoma, Subcutaneous Panniculitis-like"	606652	HAVCR2	Havcr2	1	1			1	0			
+618451	"Neurodegeneration, Early-onset, With Choreoathetoid Movements And Microcytic Anemia"	147582	IREB2	Ireb2	1	1			1	1	Yes		
+618459	Immunodeficiency 62	601855	ARHGEF1	Arhgef1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618462	"Bleeding Disorder, Platelet-type, 22"	600997	EPHB2	Ephb2	1	1	PS231200	"Bleeding disorder, platelet-type"	0	0			
+618495	Immunodeficiency 63 With Lymphoproliferation And Autoimmunity	146710	IL2RB	Il2rb	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618523	"Hyper-ige Recurrent Infection Syndrome 4, Autosomal Recessive"	600694	IL6ST	Il6st	1	1	PS147060	Hyper-IgE recurrent infection syndrome	1	1	Yes		
+618534	Immunodeficiency 64	603962	RASGRP1	Rasgrp1	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618549	"Hepatitis, Fulminant Viral, Susceptibility To"	604113	IL18BP	Il18bp	1	1			1	1	NA		
+618620	Abdominal Obesity-metabolic Syndrome 4	609443	CELA2A	Cela2a	1	1	PS605552	Abdominal obesity-metabolic syndrome	0	0			
+618624	Noonan Syndrome 12	600098	RRAS2	Rras2	1	1	PS163950	Noonan syndrome	1	1	Yes		
+618641	Infantile Liver Failure Syndrome 3	610089	RINT1	Rint1	1	1	PS615438	Infantile liver failure syndrome	1	1	No		
+618660	Hemolytic Anemia Due To Glutathione Reductase Deficiency	138300	GSR	Gsr	1	1			1	1	Yes	['cd24.neutrophil']	['segmented.neutrophil.of.bone.marrow']
+618674	"Pulmonary Fibrosis And/or Bone Marrow Failure, Telomere-related, 5"	616381	ZCCHC8	Zcchc8	1	1	PS614742	"Pulmonary fibrosis and/or bone marrow failure, telomere-related"	1	1	Yes	['erythrocyte']	
+618752	"Neutropenia, Severe Congenital, 8, Autosomal Dominant"	604857	SRP54	Srp54a	1	1	PS202700	"Neutropenia, severe congenital"	1	1	Yes		
+618752	"Neutropenia, Severe Congenital, 8, Autosomal Dominant"	604857	SRP54	Srp54b	1	1	PS202700	"Neutropenia, severe congenital"	1	1	Yes		
+618775	"Mitochondrial Complex Iii Deficiency, Nuclear Type 10"	191327	UQCRFS1	Uqcrfs1	1	1	PS124000	"Mitochondrial complex III deficiency, nuclear type"	1	1	Yes		
+618795	Juvenile Arthritis	613409	LACC1	Lacc1	1	1			1	0			
+618805	Triokinase And Fmn Cyclase Deficiency Syndrome	615844	TKFC	Tkfc	1	1			1	0			
+618806	"T-cell Lymphopenia, Infantile, With Or Without Nail Dystrophy, Autosomal Dominant"	600838	FOXN1	Foxn1	1	1			0	0			
+618811	Mitochondrial Dna Depletion Syndrome 18	607571	SLC25A21	Slc25a21	1	1	PS603041	Mitochondrial DNA depletion syndrome	1	1	No	['nk.cell']	
+618835	Combined Oxidative Phosphorylation Deficiency 40	617209	QRSL1	Qrsl1	1	1	PS609060	Combined oxidative phosphorylation deficiency	1	1	Yes		
+618838	Combined Oxidative Phosphorylation Deficiency 41	603645	GATB	Gatb	1	1	PS609060	Combined oxidative phosphorylation deficiency	1	0			
+618839	Combined Oxidative Phosphorylation Deficiency 42	617210	GATC	Gatc	1	1	PS609060	Combined oxidative phosphorylation deficiency	1	1	Yes		
+618849	Bone Marrow Failure Syndrome 6	602704	MDM4	Mdm4	1	1	PS614675	Bone marrow failure syndrome	1	1	Yes		
+618852	Autoinflammation With Episodic Fever And Lymphadenopathy	603453	RIPK1	Ripk1	1	1			1	1	Yes	['nk.cell']	
+618858	"Diabetes Mellitus, Permanent Neonatal 4"	176730	INS	Ins2	1	1	PS606176	"Diabetes mellitus, permanent neonatal"	0	0			
+618882	Imerslund-grasbeck Syndrome 2	605799	AMN	Amn	1	1	PS261100	Imerslund-Grasbeck syndrome	0	0			
+618885	"Congenital Disorder Of Glycosylation, Type Iit"	602274	GALNT2	Galnt2	1	1	PS212066	"Congenital disorders of glycosylation, type II"	1	1	No		
+618886	Pseudo-torch Syndrome 3	600556	STAT2	Stat2	1	1	PS251290	Pseudo-TORCH syndrome	1	1	Yes		
+618892	Harderoporphyria	612732	CPOX	Cpox	1	1			1	1	Yes	"['erythrocyte', 'erythroid.progenitor']"	['proerythroblast']
+618935	"Chronic Granulomatous Disease 5, Autosomal Recessive"	618334	CYBC1	Cybc1	1	1	PS306400	"Granulomatous disease, chronic"	1	0			
+618944	"Hyper-ige Recurrent Infection Syndrome 5, Autosomal Recessive"	147880	IL6R	Il6ra	1	1	PS147060	Hyper-IgE recurrent infection syndrome	1	1	Yes		
+618947	Arthrogryposis Multiplex Congenita 5	605204	TOR1A	Tor1a	1	1	PS617468	Arthrogryposis multiplex congenita	1	1	No		
+618963	"Immunodeficiency 69, Mycobacteriosis"	147570	IFNG	Ifng	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618969	Immunodeficiency 70	609209	IVNS1ABP	Ivns1abp	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618972	Mitochondrial Dna Depletion Syndrome 19	606794	SLC25A10	Slc25a10	1	1	PS603041	Mitochondrial DNA depletion syndrome	0	1	Yes	['nk.cell']	
+618982	Immunodeficiency 72 With Autoinflammation	141180	NCKAP1L	Nckap1l	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618986	Immunodeficiency 73b With Defective Neutrophil Chemotaxis And Lymphopenia	602049	RAC2	Rac2	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618987	Immunodeficiency 73c With Defective Neutrophil Chemotaxis And Hypogammaglobulinemia	602049	RAC2	Rac2	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+618999	"Autoinflammation, Immune Dysregulation, And Eosinophilia"	147795	JAK1	Jak1	1	1			1	1	Yes	['nk.cell']	['T.cell']
+619004	Deeah Syndrome	603584	MADD	Madd	1	1			1	1	Yes	['nk.cell']	
+619005	"Neurodevelopmental Disorder With Dysmorphic Facies, Impaired Speech And Hypotonia"	603584	MADD	Madd	1	1			1	1	No		
+619013	Rajab Interstitial Lung Disease With Brain Calcifications 2	602918	FARSA	Farsa	1	1	PS613658	Rajab interstitial lung disease with brain calcifications	1	1	NA	['erythroid.progenitor']	
+619041	Monosomy 7 Myelodysplasia And Leukemia Syndrome 2	610456	SAMD9		1	1	PS252270	Monosomy 7 myelodysplasia and leukemia syndrome	1	0		['cd24.neutrophil']	"['band.form.neutrophil', 'segmented.neutrophil.of.bone.marrow']"
+619046	"Mitochondrial Complex Iv Deficiency, Nuclear Type 3"	602125	COX10	Cox10	1	1	PS220110	"Mitochondrial complex IV deficiency, nuclear-type"	1	1	Yes	['nk.cell']	
+619055	"Mitochondrial Complex Iv Deficiency, Nuclear Type 12"	614770	PET100	Pet100	1	1	PS220110	"Mitochondrial complex IV deficiency, nuclear-type"	1	0		['nk.cell']	
+619087	Noonan Syndrome 13	176948	MAPK1	Mapk1	1	1	PS163950	Noonan syndrome	1	1	Yes		
+619096	Mismatch Repair Cancer Syndrome 2	609309	MSH2	Msh2	1	1	PS276300	Mismatch repair cancer syndrome	1	1	Yes		
+619097	Mismatch Repair Cancer Syndrome 3	600678	MSH6	Msh6	1	1	PS276300	Mismatch repair cancer syndrome	1	1	Yes		
+619101	Mismatch Repair Cancer Syndrome 4	600259	PMS2	Pms2	1	1	PS276300	Mismatch repair cancer syndrome	1	1	Yes		
+619115	Combined Osteogenesis Imperfecta And Ehlers-danlos Syndrome 1	120150	COL1A1	Col1a1	1	1	PS619115	Combined osteogenesis imperfecta and Ehlers-Danlos syndrome	0	0			
+619120	Combined Osteogenesis Imperfecta And Ehlers-danlos Syndrome 2	120160	COL1A2	Col1a2	1	1	PS619115	Combined osteogenesis imperfecta and Ehlers-Danlos syndrome	0	0			
+619126	Immunodeficiency 75	612839	TET2	Tet2	1	1	PS300755	Immunodeficiency (Select Examples)	1	1	Yes		
+619127	Mandibuloacral Dysplasia Progeroid Syndrome	608555	MTX2	Mtx2	1	1			1	1	No		
+619130	"Thrombocytopenia, Autosomal Dominant, 7"	606238	IKZF5	Ikzf5	1	1	PS313900	Thrombocytopenia	1	1	Yes		

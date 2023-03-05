@@ -1,0 +1,15 @@
+epithelial cell
+macrophage
+plasmacytoid dendritic cell
+T1 B cell
+mesenchymal stem cell
+monocyte
+conventional dendritic cell
+natural killer cell
+follicular B cell
+mature NK T cell
+marginal zone B cell of spleen
+activated CD4-positive, alpha-beta T cell
+CD8-positive, alpha-beta memory T cell
+naive thymus-derived CD8-positive, alpha-beta T cell
+naive thymus-derived CD4-positive, alpha-beta T cell

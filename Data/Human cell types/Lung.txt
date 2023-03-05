@@ -1,0 +1,38 @@
+cd8-positive alpha-beta t cell
+cd4-positive alpha-beta t cell
+adventitial cell
+alveolar fibroblast
+b cell
+basal cell
+basophil
+bronchial smooth muscle cell
+bronchial vessel endothelial cell
+capillary aerocyte
+capillary endothelial cell
+classical monocyte
+club cell
+dendritic cell
+endothelial cell of artery
+endothelial cell of lymphatic vessel
+fibroblast
+intermediate monocyte
+lung ciliated cell
+lung microvascular endothelial cell
+macrophage
+mesothelial cell
+myofibroblast cell
+neutrophil
+nk cell
+non-classical monocyte
+pericyte cell
+plasma cell
+plasmacytoid dendritic cell
+pulmonary ionocyte
+respiratory goblet cell
+respiratory mucous cell
+serous cell of epithelium of bronchus
+smooth muscle cell
+type i pneumocyte
+type ii pneumocyte
+vascular associated smooth muscle cell
+vein endothelial cell

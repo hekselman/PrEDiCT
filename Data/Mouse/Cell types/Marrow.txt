@@ -1,0 +1,20 @@
+proerythroblast
+reticulocyte
+erythroblast
+plasma cell
+early pro-B cell
+precursor B cell
+immature B cell
+basophil
+myelocyte
+hematopoietic stem cell
+macrophage
+T cell
+mature B cell
+monocyte
+conventional dendritic cell
+promyelocyte
+neutrophilic myeloblast
+neutrophilic metamyelocyte
+band form neutrophil
+segmented neutrophil of bone marrow
