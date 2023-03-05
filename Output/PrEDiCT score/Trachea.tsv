@@ -1,0 +1,661 @@
+Disease\Phenotypic series accession (OMIM)	Disease\Phenotypic series name (OMIM)	Cell type	PrEDiCT score	Number of causal genes	Affected cell type (1=Yes, 0=No)
+101200	Apert Syndrome	goblet cell	0.221843604148637	1	0
+101200	Apert Syndrome	b cell	-0.638928350917765	1	0
+101200	Apert Syndrome	basal cell	1.87772153735176	1	0
+101200	Apert Syndrome	cd4-positive, alpha-beta t cell	-0.66239860896303	1	0
+101200	Apert Syndrome	cd8-positive, alpha-beta t cell	-0.684766991143946	1	0
+101200	Apert Syndrome	ciliated cell	-0.152705767499832	1	0
+101200	Apert Syndrome	connective tissue cell	-0.11547432549065599	1	0
+101200	Apert Syndrome	double-positive, alpha-beta thymocyte	-0.7504729466249621	1	0
+101200	Apert Syndrome	endothelial cell	-0.6107522005716629	1	0
+101200	Apert Syndrome	fibroblast	-0.604193490102919	1	0
+101200	Apert Syndrome	ionocyte	0.9194978618160251	1	0
+101200	Apert Syndrome	macrophage	-0.706149735244984	1	0
+101200	Apert Syndrome	mast cell	-0.670272722167186	1	0
+101200	Apert Syndrome	mucus secreting cell	1.7410320620148798	1	0
+101200	Apert Syndrome	neutrophil	-0.699802707788758	1	0
+101200	Apert Syndrome	plasma cell	-0.6436106852543729	1	0
+101200	Apert Syndrome	secretory cell	1.33316083040749	1	0
+101200	Apert Syndrome	serous cell of epithelium of trachea	2.10974807517583	1	1
+101200	Apert Syndrome	smooth muscle cell	-0.542214786633738	1	0
+101200	Apert Syndrome	t cell	-0.7212606525108219	1	0
+101600	Pfeiffer Syndrome	goblet cell	-0.082398581420613	2	0
+101600	Pfeiffer Syndrome	b cell	-0.544743261729597	2	0
+101600	Pfeiffer Syndrome	basal cell	0.805577264364548	2	0
+101600	Pfeiffer Syndrome	cd4-positive, alpha-beta t cell	-0.5362586520879781	2	0
+101600	Pfeiffer Syndrome	cd8-positive, alpha-beta t cell	-0.5606845574689535	2	0
+101600	Pfeiffer Syndrome	ciliated cell	-0.295760149722495	2	0
+101600	Pfeiffer Syndrome	connective tissue cell	1.7587924702143718	2	0
+101600	Pfeiffer Syndrome	double-positive, alpha-beta thymocyte	-0.4566453235927306	2	0
+101600	Pfeiffer Syndrome	endothelial cell	-0.22431980252339845	2	0
+101600	Pfeiffer Syndrome	fibroblast	0.6355890416334256	2	0
+101600	Pfeiffer Syndrome	ionocyte	0.21773720414377457	2	0
+101600	Pfeiffer Syndrome	macrophage	-0.5011000640021055	2	0
+101600	Pfeiffer Syndrome	mast cell	-0.3676211095376658	2	0
+101600	Pfeiffer Syndrome	mucus secreting cell	0.7042397943395133	2	0
+101600	Pfeiffer Syndrome	neutrophil	-0.5722649855526845	2	0
+101600	Pfeiffer Syndrome	plasma cell	-0.54551100381992	2	0
+101600	Pfeiffer Syndrome	secretory cell	0.55839020140049	2	0
+101600	Pfeiffer Syndrome	serous cell of epithelium of trachea	0.824735109288324	2	0
+101600	Pfeiffer Syndrome	smooth muscle cell	-0.25596780071612607	2	0
+101600	Pfeiffer Syndrome	t cell	-0.561785793210186	2	0
+114290	Campomelic Dysplasia	goblet cell	0.863954906205048	1	0
+114290	Campomelic Dysplasia	b cell	-0.584592380227309	1	0
+114290	Campomelic Dysplasia	basal cell	0.3510164661739	1	0
+114290	Campomelic Dysplasia	cd4-positive, alpha-beta t cell	-0.620811823362084	1	0
+114290	Campomelic Dysplasia	cd8-positive, alpha-beta t cell	-0.6130262825641569	1	0
+114290	Campomelic Dysplasia	ciliated cell	-0.31940892580701896	1	0
+114290	Campomelic Dysplasia	connective tissue cell	0.27017116507611605	1	0
+114290	Campomelic Dysplasia	double-positive, alpha-beta thymocyte	-0.620811823362084	1	0
+114290	Campomelic Dysplasia	endothelial cell	-0.6037752979290001	1	0
+114290	Campomelic Dysplasia	fibroblast	0.341153334125835	1	0
+114290	Campomelic Dysplasia	ionocyte	0.768489381017721	1	0
+114290	Campomelic Dysplasia	macrophage	-0.5852569101504339	1	0
+114290	Campomelic Dysplasia	mast cell	-0.620811823362084	1	0
+114290	Campomelic Dysplasia	mucus secreting cell	0.64998838365789	1	0
+114290	Campomelic Dysplasia	neutrophil	-0.6146042439368771	1	0
+114290	Campomelic Dysplasia	plasma cell	-0.60945784739847	1	0
+114290	Campomelic Dysplasia	secretory cell	-0.0171018337269926	1	0
+114290	Campomelic Dysplasia	serous cell of epithelium of trachea	3.5979334285730897	1	1
+114290	Campomelic Dysplasia	smooth muscle cell	-0.424659655732057	1	0
+114290	Campomelic Dysplasia	t cell	-0.608388217271036	1	0
+117650	Cerebrocostomandibular Syndrome	goblet cell	-0.461685444110009	1	0
+117650	Cerebrocostomandibular Syndrome	b cell	1.30178725865148	1	0
+117650	Cerebrocostomandibular Syndrome	basal cell	0.764273079500303	1	0
+117650	Cerebrocostomandibular Syndrome	cd4-positive, alpha-beta t cell	1.1111149451925502	1	0
+117650	Cerebrocostomandibular Syndrome	cd8-positive, alpha-beta t cell	1.37170985732924	1	0
+117650	Cerebrocostomandibular Syndrome	ciliated cell	-1.1162125147029198	1	0
+117650	Cerebrocostomandibular Syndrome	connective tissue cell	-0.21184187951985697	1	0
+117650	Cerebrocostomandibular Syndrome	double-positive, alpha-beta thymocyte	2.3266259483279503	1	1
+117650	Cerebrocostomandibular Syndrome	endothelial cell	0.37397547413928	1	0
+117650	Cerebrocostomandibular Syndrome	fibroblast	-0.632238772978973	1	0
+117650	Cerebrocostomandibular Syndrome	ionocyte	-0.9382911817373221	1	0
+117650	Cerebrocostomandibular Syndrome	macrophage	-0.42983940926215797	1	0
+117650	Cerebrocostomandibular Syndrome	mast cell	0.13500460720400098	1	0
+117650	Cerebrocostomandibular Syndrome	mucus secreting cell	-1.11606809042245	1	0
+117650	Cerebrocostomandibular Syndrome	neutrophil	-0.820758017198482	1	0
+117650	Cerebrocostomandibular Syndrome	plasma cell	-1.25731731569548	1	0
+117650	Cerebrocostomandibular Syndrome	secretory cell	-0.290360877153492	1	0
+117650	Cerebrocostomandibular Syndrome	serous cell of epithelium of trachea	-0.909503773730144	1	0
+117650	Cerebrocostomandibular Syndrome	smooth muscle cell	-0.00863220383494777	1	0
+117650	Cerebrocostomandibular Syndrome	t cell	0.808258310001428	1	0
+139210	Myhre Syndrome	goblet cell	0.0864001921561309	1	0
+139210	Myhre Syndrome	b cell	-0.13374699399079099	1	0
+139210	Myhre Syndrome	basal cell	0.9578564226531779	1	0
+139210	Myhre Syndrome	cd4-positive, alpha-beta t cell	-0.922436955346805	1	0
+139210	Myhre Syndrome	cd8-positive, alpha-beta t cell	0.175228570960099	1	0
+139210	Myhre Syndrome	ciliated cell	1.21400866970289	1	0
+139210	Myhre Syndrome	connective tissue cell	1.98844431297014	1	0
+139210	Myhre Syndrome	double-positive, alpha-beta thymocyte	0.632749644518742	1	0
+139210	Myhre Syndrome	endothelial cell	0.96564593012452	1	0
+139210	Myhre Syndrome	fibroblast	0.32395657728238103	1	0
+139210	Myhre Syndrome	ionocyte	-2.14394162525781	1	0
+139210	Myhre Syndrome	macrophage	-0.6001415298952409	1	0
+139210	Myhre Syndrome	mast cell	-0.590981172858536	1	0
+139210	Myhre Syndrome	mucus secreting cell	-0.22429820967654102	1	0
+139210	Myhre Syndrome	neutrophil	-1.11071170985388	1	0
+139210	Myhre Syndrome	plasma cell	-1.22567389185439	1	0
+139210	Myhre Syndrome	secretory cell	-0.233666621834688	1	0
+139210	Myhre Syndrome	serous cell of epithelium of trachea	1.3680609422449699	1	0
+139210	Myhre Syndrome	smooth muscle cell	0.0131531324549659	1	0
+139210	Myhre Syndrome	t cell	-0.5399056844993511	1	0
+PS300000	Opitz GBBB syndrome	goblet cell	-0.601359097196405	1	0
+PS300000	Opitz GBBB syndrome	b cell	-0.378828991766344	1	0
+PS300000	Opitz GBBB syndrome	basal cell	-0.30129491901995	1	0
+PS300000	Opitz GBBB syndrome	cd4-positive, alpha-beta t cell	-0.0675353253247934	1	0
+PS300000	Opitz GBBB syndrome	cd8-positive, alpha-beta t cell	-0.43478554462900604	1	0
+PS300000	Opitz GBBB syndrome	ciliated cell	-0.6047027485844929	1	0
+PS300000	Opitz GBBB syndrome	connective tissue cell	0.269903217603207	1	0
+PS300000	Opitz GBBB syndrome	double-positive, alpha-beta thymocyte	3.6450269067887904	1	1
+PS300000	Opitz GBBB syndrome	endothelial cell	-0.35620271343620896	1	0
+PS300000	Opitz GBBB syndrome	fibroblast	0.0112233290012778	1	0
+PS300000	Opitz GBBB syndrome	ionocyte	1.66576056231446	1	0
+PS300000	Opitz GBBB syndrome	macrophage	-0.41141119501153106	1	0
+PS300000	Opitz GBBB syndrome	mast cell	-0.266203522047827	1	0
+PS300000	Opitz GBBB syndrome	mucus secreting cell	-0.610402411155807	1	0
+PS300000	Opitz GBBB syndrome	neutrophil	-0.526797380849074	1	0
+PS300000	Opitz GBBB syndrome	plasma cell	-0.636776786021687	1	0
+PS300000	Opitz GBBB syndrome	secretory cell	-0.359140256420715	1	0
+PS300000	Opitz GBBB syndrome	serous cell of epithelium of trachea	-0.0669205606881516	1	0
+PS300000	Opitz GBBB syndrome	smooth muscle cell	0.293019020069274	1	0
+PS300000	Opitz GBBB syndrome	t cell	-0.26257158362501104	1	0
+150250	Larsen Syndrome, Autosomal Dominant	goblet cell	0.23321342503792897	1	0
+150250	Larsen Syndrome, Autosomal Dominant	b cell	-0.7597181287226351	1	0
+150250	Larsen Syndrome, Autosomal Dominant	basal cell	1.33492083041249	1	0
+150250	Larsen Syndrome, Autosomal Dominant	cd4-positive, alpha-beta t cell	-0.609066027351866	1	0
+150250	Larsen Syndrome, Autosomal Dominant	cd8-positive, alpha-beta t cell	-0.825954797929192	1	0
+150250	Larsen Syndrome, Autosomal Dominant	ciliated cell	0.932694567199491	1	0
+150250	Larsen Syndrome, Autosomal Dominant	connective tissue cell	-0.427907050953604	1	0
+150250	Larsen Syndrome, Autosomal Dominant	double-positive, alpha-beta thymocyte	-0.985461031657348	1	0
+150250	Larsen Syndrome, Autosomal Dominant	endothelial cell	2.87676453893121	1	1
+150250	Larsen Syndrome, Autosomal Dominant	fibroblast	-0.45419566650350607	1	0
+150250	Larsen Syndrome, Autosomal Dominant	ionocyte	-0.0221563042335886	1	0
+150250	Larsen Syndrome, Autosomal Dominant	macrophage	-0.6427008653511971	1	0
+150250	Larsen Syndrome, Autosomal Dominant	mast cell	0.614543100188808	1	0
+150250	Larsen Syndrome, Autosomal Dominant	mucus secreting cell	0.8018954094119151	1	0
+150250	Larsen Syndrome, Autosomal Dominant	neutrophil	-0.816655876374591	1	0
+150250	Larsen Syndrome, Autosomal Dominant	plasma cell	-0.953985587215236	1	0
+150250	Larsen Syndrome, Autosomal Dominant	secretory cell	1.12558048545722	1	0
+150250	Larsen Syndrome, Autosomal Dominant	serous cell of epithelium of trachea	-0.27108015548455	1	0
+150250	Larsen Syndrome, Autosomal Dominant	smooth muscle cell	-0.493935128736407	1	0
+150250	Larsen Syndrome, Autosomal Dominant	t cell	-0.656795736125353	1	0
+202650	Agnathia-otocephaly Complex	goblet cell	-0.405256120926466	1	0
+202650	Agnathia-otocephaly Complex	b cell	-0.41527972582403494	1	0
+202650	Agnathia-otocephaly Complex	basal cell	-0.407519336315151	1	0
+202650	Agnathia-otocephaly Complex	cd4-positive, alpha-beta t cell	-0.43070706165136	1	0
+202650	Agnathia-otocephaly Complex	cd8-positive, alpha-beta t cell	-0.406270061449385	1	0
+202650	Agnathia-otocephaly Complex	ciliated cell	-0.39999577826429206	1	0
+202650	Agnathia-otocephaly Complex	connective tissue cell	2.3119381465125697	1	1
+202650	Agnathia-otocephaly Complex	double-positive, alpha-beta thymocyte	-0.431942428477673	1	0
+202650	Agnathia-otocephaly Complex	endothelial cell	-0.38910535859418	1	0
+202650	Agnathia-otocephaly Complex	fibroblast	2.61932681011568	1	1
+202650	Agnathia-otocephaly Complex	ionocyte	-0.38298538022360495	1	0
+202650	Agnathia-otocephaly Complex	macrophage	-0.41164954090874895	1	0
+202650	Agnathia-otocephaly Complex	mast cell	-0.41386704678321207	1	0
+202650	Agnathia-otocephaly Complex	mucus secreting cell	-0.425946979494384	1	0
+202650	Agnathia-otocephaly Complex	neutrophil	-0.399544241729747	1	0
+202650	Agnathia-otocephaly Complex	plasma cell	-0.4163516901078	1	0
+202650	Agnathia-otocephaly Complex	secretory cell	-0.40280545710797294	1	0
+202650	Agnathia-otocephaly Complex	serous cell of epithelium of trachea	-0.38752315564196504	1	0
+202650	Agnathia-otocephaly Complex	smooth muscle cell	1.9926739101379902	1	0
+202650	Agnathia-otocephaly Complex	t cell	-0.39718950326626	1	0
+212720	Martsolf Syndrome	goblet cell	1.125482541317	1	0
+212720	Martsolf Syndrome	b cell	-0.128473282417599	1	0
+212720	Martsolf Syndrome	basal cell	-0.0794308499263849	1	0
+212720	Martsolf Syndrome	cd4-positive, alpha-beta t cell	0.154900670563889	1	0
+212720	Martsolf Syndrome	cd8-positive, alpha-beta t cell	0.210424148975587	1	0
+212720	Martsolf Syndrome	ciliated cell	-0.332762589157373	1	0
+212720	Martsolf Syndrome	connective tissue cell	0.20021172346417698	1	0
+212720	Martsolf Syndrome	double-positive, alpha-beta thymocyte	-1.22767509135338	1	0
+212720	Martsolf Syndrome	endothelial cell	1.12732837812427	1	0
+212720	Martsolf Syndrome	fibroblast	-0.352376605121687	1	0
+212720	Martsolf Syndrome	ionocyte	2.0758913580526297	1	1
+212720	Martsolf Syndrome	macrophage	-0.303030619768724	1	0
+212720	Martsolf Syndrome	mast cell	0.0490607426116073	1	0
+212720	Martsolf Syndrome	mucus secreting cell	1.8384352359309302	1	0
+212720	Martsolf Syndrome	neutrophil	-1.35429911362935	1	0
+212720	Martsolf Syndrome	plasma cell	-1.9468233050661699	1	0
+212720	Martsolf Syndrome	secretory cell	-0.0649437765185221	1	0
+212720	Martsolf Syndrome	serous cell of epithelium of trachea	0.368930927680036	1	0
+212720	Martsolf Syndrome	smooth muscle cell	-0.440398030960039	1	0
+212720	Martsolf Syndrome	t cell	-0.920452462800886	1	0
+214800	Charge Syndrome	goblet cell	0.7855944397882181	2	0
+214800	Charge Syndrome	b cell	0.561285628068631	2	0
+214800	Charge Syndrome	basal cell	-0.43986627655882454	2	0
+214800	Charge Syndrome	cd4-positive, alpha-beta t cell	-0.683698077630793	2	0
+214800	Charge Syndrome	cd8-positive, alpha-beta t cell	-0.651521692752897	2	0
+214800	Charge Syndrome	ciliated cell	0.6327343097464511	2	0
+214800	Charge Syndrome	connective tissue cell	-0.16457843943571154	2	0
+214800	Charge Syndrome	double-positive, alpha-beta thymocyte	-0.7359205363814401	2	0
+214800	Charge Syndrome	endothelial cell	1.6486514266707826	2	0
+214800	Charge Syndrome	fibroblast	0.330824564157555	2	0
+214800	Charge Syndrome	ionocyte	0.7723580840190695	2	0
+214800	Charge Syndrome	macrophage	-0.5595728943611366	2	0
+214800	Charge Syndrome	mast cell	0.4529454440195346	2	0
+214800	Charge Syndrome	mucus secreting cell	0.15608182243892849	2	0
+214800	Charge Syndrome	neutrophil	-0.23912837290383254	2	0
+214800	Charge Syndrome	plasma cell	-0.8143939877741261	2	0
+214800	Charge Syndrome	secretory cell	-0.20688601987866365	2	0
+214800	Charge Syndrome	serous cell of epithelium of trachea	0.4859032571364884	2	0
+214800	Charge Syndrome	smooth muscle cell	-0.686066201979689	2	0
+214800	Charge Syndrome	t cell	-0.6447464763885504	2	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	goblet cell	-0.578988899132943	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	b cell	0.6487478214929859	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	basal cell	-0.23878284552528198	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	cd4-positive, alpha-beta t cell	0.6056351935161971	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	cd8-positive, alpha-beta t cell	0.6231193370068979	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	ciliated cell	-0.334230872443575	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	connective tissue cell	-0.473956260315878	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	double-positive, alpha-beta thymocyte	-0.23709682453704897	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	endothelial cell	0.45228378550876	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	fibroblast	-0.48876681005054207	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	ionocyte	-0.9201814041855301	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	macrophage	0.19648817913574598	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	mast cell	-0.665359978030796	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	mucus secreting cell	-0.6128536185954909	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	neutrophil	3.72172672810114	1	1
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	plasma cell	-0.56800553537427	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	secretory cell	-0.30625176333924803	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	serous cell of epithelium of trachea	-0.6060316462715479	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	smooth muscle cell	-0.4504813924028621	1	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	t cell	0.23298680544328898	1	0
+218040	Costello Syndrome	goblet cell	0.0276257665493593	1	0
+218040	Costello Syndrome	b cell	-0.6798616282694151	1	0
+218040	Costello Syndrome	basal cell	2.68075260356422	1	1
+218040	Costello Syndrome	cd4-positive, alpha-beta t cell	-0.446251421181331	1	0
+218040	Costello Syndrome	cd8-positive, alpha-beta t cell	-0.5112103733453279	1	0
+218040	Costello Syndrome	ciliated cell	0.751943546358728	1	0
+218040	Costello Syndrome	connective tissue cell	-0.195795763935151	1	0
+218040	Costello Syndrome	double-positive, alpha-beta thymocyte	0.679517769767081	1	0
+218040	Costello Syndrome	endothelial cell	0.34032774411511396	1	0
+218040	Costello Syndrome	fibroblast	-0.44556828744918897	1	0
+218040	Costello Syndrome	ionocyte	2.23725924809654	1	1
+218040	Costello Syndrome	macrophage	-0.607043457886509	1	0
+218040	Costello Syndrome	mast cell	-0.7097718000821759	1	0
+218040	Costello Syndrome	mucus secreting cell	-0.7918001092700819	1	0
+218040	Costello Syndrome	neutrophil	-1.02399631167392	1	0
+218040	Costello Syndrome	plasma cell	-0.808813207212098	1	0
+218040	Costello Syndrome	secretory cell	0.64184331658779	1	0
+218040	Costello Syndrome	serous cell of epithelium of trachea	-0.8735832813095029	1	0
+218040	Costello Syndrome	smooth muscle cell	0.0823682319814842	1	0
+218040	Costello Syndrome	t cell	-0.347942585405623	1	0
+222600	Diastrophic Dysplasia	goblet cell	3.1759389259399105	1	1
+222600	Diastrophic Dysplasia	b cell	-0.5821457685100501	1	0
+222600	Diastrophic Dysplasia	basal cell	0.0167431320065397	1	0
+222600	Diastrophic Dysplasia	cd4-positive, alpha-beta t cell	-0.608836588748098	1	0
+222600	Diastrophic Dysplasia	cd8-positive, alpha-beta t cell	-0.5677738827502421	1	0
+222600	Diastrophic Dysplasia	ciliated cell	-0.0948405651086114	1	0
+222600	Diastrophic Dysplasia	connective tissue cell	-0.377884976566524	1	0
+222600	Diastrophic Dysplasia	double-positive, alpha-beta thymocyte	-0.657970764382655	1	0
+222600	Diastrophic Dysplasia	endothelial cell	-0.10403106346974099	1	0
+222600	Diastrophic Dysplasia	fibroblast	-0.45560641323816503	1	0
+222600	Diastrophic Dysplasia	ionocyte	-0.5665203871183361	1	0
+222600	Diastrophic Dysplasia	macrophage	-0.49961680695515	1	0
+222600	Diastrophic Dysplasia	mast cell	2.01880761828626	1	1
+222600	Diastrophic Dysplasia	mucus secreting cell	1.0607199207079	1	0
+222600	Diastrophic Dysplasia	neutrophil	-0.638717624205463	1	0
+222600	Diastrophic Dysplasia	plasma cell	-0.565808886342167	1	0
+222600	Diastrophic Dysplasia	secretory cell	0.202534439779707	1	0
+222600	Diastrophic Dysplasia	serous cell of epithelium of trachea	0.22959756458771802	1	0
+222600	Diastrophic Dysplasia	smooth muscle cell	-0.503623588163074	1	0
+222600	Diastrophic Dysplasia	t cell	-0.48096428574975497	1	0
+PS227650	Fanconi anemia	goblet cell	-0.016319619752408504	2	0
+PS227650	Fanconi anemia	b cell	0.8514168251472765	2	0
+PS227650	Fanconi anemia	basal cell	0.47122162930438705	2	0
+PS227650	Fanconi anemia	cd4-positive, alpha-beta t cell	-0.07909013074545601	2	0
+PS227650	Fanconi anemia	cd8-positive, alpha-beta t cell	-0.1490669456571865	2	0
+PS227650	Fanconi anemia	ciliated cell	0.5178850570639835	2	0
+PS227650	Fanconi anemia	connective tissue cell	-0.708975729926592	2	0
+PS227650	Fanconi anemia	double-positive, alpha-beta thymocyte	0.13539291211862992	2	0
+PS227650	Fanconi anemia	endothelial cell	0.3107457623692479	2	0
+PS227650	Fanconi anemia	fibroblast	-0.46446456103919753	2	0
+PS227650	Fanconi anemia	ionocyte	0.7395367701358401	2	0
+PS227650	Fanconi anemia	macrophage	-0.179846252471862	2	0
+PS227650	Fanconi anemia	mast cell	-0.43678442583822497	2	0
+PS227650	Fanconi anemia	mucus secreting cell	0.4734631868292866	2	0
+PS227650	Fanconi anemia	neutrophil	-1.0186113714682654	2	0
+PS227650	Fanconi anemia	plasma cell	-0.7412086533574944	2	0
+PS227650	Fanconi anemia	secretory cell	0.8590396953729379	2	0
+PS227650	Fanconi anemia	serous cell of epithelium of trachea	0.7298788458016485	2	0
+PS227650	Fanconi anemia	smooth muscle cell	-0.802149330146836	2	0
+PS227650	Fanconi anemia	t cell	-0.49206366373971505	2	0
+PS231050	Geleophysic dysplasia	goblet cell	-0.19503639595791697	1	0
+PS231050	Geleophysic dysplasia	b cell	-0.607412527977433	1	0
+PS231050	Geleophysic dysplasia	basal cell	0.384334950723153	1	0
+PS231050	Geleophysic dysplasia	cd4-positive, alpha-beta t cell	-0.4262446343909311	1	0
+PS231050	Geleophysic dysplasia	cd8-positive, alpha-beta t cell	-0.6727618390842779	1	0
+PS231050	Geleophysic dysplasia	ciliated cell	-0.43547158372629097	1	0
+PS231050	Geleophysic dysplasia	connective tissue cell	3.36104315661788	1	1
+PS231050	Geleophysic dysplasia	double-positive, alpha-beta thymocyte	-1.10982991027838	1	0
+PS231050	Geleophysic dysplasia	endothelial cell	0.446821757236253	1	0
+PS231050	Geleophysic dysplasia	fibroblast	1.4642716446655	1	0
+PS231050	Geleophysic dysplasia	ionocyte	0.017539323996174	1	0
+PS231050	Geleophysic dysplasia	macrophage	-0.741524705682755	1	0
+PS231050	Geleophysic dysplasia	mast cell	-0.193783336645905	1	0
+PS231050	Geleophysic dysplasia	mucus secreting cell	-0.0467409516487016	1	0
+PS231050	Geleophysic dysplasia	neutrophil	-0.957826286583028	1	0
+PS231050	Geleophysic dysplasia	plasma cell	-0.6609989888052521	1	0
+PS231050	Geleophysic dysplasia	secretory cell	-0.117736590688419	1	0
+PS231050	Geleophysic dysplasia	serous cell of epithelium of trachea	0.574552996358163	1	0
+PS231050	Geleophysic dysplasia	smooth muscle cell	0.436735740742611	1	0
+PS231050	Geleophysic dysplasia	t cell	-0.5199318188704379	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	goblet cell	-0.44764445634516	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	b cell	-0.487524437978677	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	basal cell	-0.47436024964198104	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	cd4-positive, alpha-beta t cell	-0.487524437978677	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	cd8-positive, alpha-beta t cell	-0.487524437978677	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	ciliated cell	-0.487524437978677	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	connective tissue cell	3.0241197082296	1	1
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	double-positive, alpha-beta thymocyte	-0.487524437978677	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	endothelial cell	0.6038066826172479	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	fibroblast	1.53683983413613	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	ionocyte	-0.487524437978677	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	macrophage	-0.476176173695792	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	mast cell	-0.253712026026783	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	mucus secreting cell	-0.42891194305622204	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	neutrophil	-0.487524437978677	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	plasma cell	-0.47037713474677006	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	secretory cell	-0.390157938100573	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	serous cell of epithelium of trachea	-0.40527144452909497	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	smooth muscle cell	1.97093486553476	1	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	t cell	-0.37641865852461703	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	goblet cell	-0.37767093393596796	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	b cell	-0.45106149148335906	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	basal cell	-0.379433939215786	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	cd4-positive, alpha-beta t cell	-0.42136811408263103	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	cd8-positive, alpha-beta t cell	-0.44272466367617896	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	ciliated cell	-0.400754045962442	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	connective tissue cell	3.1440630224897403	1	1
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	double-positive, alpha-beta thymocyte	-0.461385562398656	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	endothelial cell	-0.137942127265551	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	fibroblast	2.11175591528799	1	1
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	ionocyte	-0.461385562398656	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	macrophage	-0.40769589752991	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	mast cell	-0.433178688347034	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	mucus secreting cell	-0.20214884285252102	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	neutrophil	-0.451707995490342	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	plasma cell	-0.40459585622848293	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	secretory cell	-0.4294077136339571	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	serous cell of epithelium of trachea	-0.34193258255228004	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	smooth muscle cell	1.3888047373721102	1	0
+271665	Spondylometaepiphyseal Dysplasia, Short Limb-hand Type	t cell	-0.44022965809608705	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	goblet cell	1.27966641939998	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	b cell	-0.3569324956064311	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	basal cell	0.49185694617028103	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	cd4-positive, alpha-beta t cell	0.260322366862289	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	cd8-positive, alpha-beta t cell	1.1946638370447	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	ciliated cell	-0.6116587985426151	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	connective tissue cell	-0.921094188054621	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	double-positive, alpha-beta thymocyte	-0.273230280178044	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	endothelial cell	-0.716877475325628	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	fibroblast	-0.556464485900712	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	ionocyte	2.99418559536169	1	1
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	macrophage	-0.508697093858281	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	mast cell	-0.478655759073793	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	mucus secreting cell	0.8205914002814759	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	neutrophil	-1.4252163849288002	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	plasma cell	-0.655226031751297	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	secretory cell	0.329839236589381	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	serous cell of epithelium of trachea	-0.28239096418548804	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	smooth muscle cell	-0.756533210807112	1	0
+302960	Chondrodysplasia Punctata 2, X-linked Dominant	t cell	0.17185136650302898	1	0
+PS607014	Mucopolysaccharidoses	goblet cell	-0.45049494817102687	2	0
+PS607014	Mucopolysaccharidoses	b cell	-0.02954877680719964	2	0
+PS607014	Mucopolysaccharidoses	basal cell	-0.4070702492247547	2	0
+PS607014	Mucopolysaccharidoses	cd4-positive, alpha-beta t cell	0.6311721209559276	2	0
+PS607014	Mucopolysaccharidoses	cd8-positive, alpha-beta t cell	0.792038020937104	2	0
+PS607014	Mucopolysaccharidoses	ciliated cell	-0.26982661842052363	2	0
+PS607014	Mucopolysaccharidoses	connective tissue cell	1.4517718840848386	2	0
+PS607014	Mucopolysaccharidoses	double-positive, alpha-beta thymocyte	0.6951694843324302	2	0
+PS607014	Mucopolysaccharidoses	endothelial cell	-0.3704815973191865	2	0
+PS607014	Mucopolysaccharidoses	fibroblast	0.130878782712382	2	0
+PS607014	Mucopolysaccharidoses	ionocyte	0.29596091850345835	2	0
+PS607014	Mucopolysaccharidoses	macrophage	-0.14782798363806876	2	0
+PS607014	Mucopolysaccharidoses	mast cell	0.4357402819353149	2	0
+PS607014	Mucopolysaccharidoses	mucus secreting cell	-0.579860000022282	2	0
+PS607014	Mucopolysaccharidoses	neutrophil	-0.589547697776516	2	0
+PS607014	Mucopolysaccharidoses	plasma cell	-0.2765889722130821	2	0
+PS607014	Mucopolysaccharidoses	secretory cell	-0.3201113671942445	2	0
+PS607014	Mucopolysaccharidoses	serous cell of epithelium of trachea	-0.5515279027373936	2	0
+PS607014	Mucopolysaccharidoses	smooth muscle cell	-0.5709060614951105	2	0
+PS607014	Mucopolysaccharidoses	t cell	0.13106068155793654	2	0
+PS601390	Van Maldergem syndrome	goblet cell	-0.38682643746906853	2	0
+PS601390	Van Maldergem syndrome	b cell	-0.38673491071366	2	0
+PS601390	Van Maldergem syndrome	basal cell	-0.34947028194324403	2	0
+PS601390	Van Maldergem syndrome	cd4-positive, alpha-beta t cell	-0.396836554156334	2	0
+PS601390	Van Maldergem syndrome	cd8-positive, alpha-beta t cell	-0.320584208773135	2	0
+PS601390	Van Maldergem syndrome	ciliated cell	-0.3581798441117755	2	0
+PS601390	Van Maldergem syndrome	connective tissue cell	2.565560475990235	2	1
+PS601390	Van Maldergem syndrome	double-positive, alpha-beta thymocyte	-0.396836554156334	2	0
+PS601390	Van Maldergem syndrome	endothelial cell	2.336704222245863	2	1
+PS601390	Van Maldergem syndrome	fibroblast	0.8483524180249364	2	0
+PS601390	Van Maldergem syndrome	ionocyte	-0.27422412325764645	2	0
+PS601390	Van Maldergem syndrome	macrophage	-0.285052898208079	2	0
+PS601390	Van Maldergem syndrome	mast cell	-0.1603861054078892	2	0
+PS601390	Van Maldergem syndrome	mucus secreting cell	-0.396836554156334	2	0
+PS601390	Van Maldergem syndrome	neutrophil	-0.333881171126825	2	0
+PS601390	Van Maldergem syndrome	plasma cell	-0.34204323262282144	2	0
+PS601390	Van Maldergem syndrome	secretory cell	-0.3650929189940285	2	0
+PS601390	Van Maldergem syndrome	serous cell of epithelium of trachea	-0.290053807254588	2	0
+PS601390	Van Maldergem syndrome	smooth muscle cell	-0.3618830684314505	2	0
+PS601390	Van Maldergem syndrome	t cell	-0.345694445477819	2	0
+608022	Diaphanospondylodysostosis	goblet cell	-0.5433142362230471	1	0
+608022	Diaphanospondylodysostosis	b cell	-0.331402783555512	1	0
+608022	Diaphanospondylodysostosis	basal cell	-0.289818969335843	1	0
+608022	Diaphanospondylodysostosis	cd4-positive, alpha-beta t cell	-0.117996891884891	1	0
+608022	Diaphanospondylodysostosis	cd8-positive, alpha-beta t cell	-0.5433142362230471	1	0
+608022	Diaphanospondylodysostosis	ciliated cell	-0.5433142362230471	1	0
+608022	Diaphanospondylodysostosis	connective tissue cell	1.56307340376304	1	0
+608022	Diaphanospondylodysostosis	double-positive, alpha-beta thymocyte	-0.5433142362230471	1	0
+608022	Diaphanospondylodysostosis	endothelial cell	0.8583279248173392	1	0
+608022	Diaphanospondylodysostosis	fibroblast	3.3091696100938304	1	1
+608022	Diaphanospondylodysostosis	ionocyte	-0.5433142362230471	1	0
+608022	Diaphanospondylodysostosis	macrophage	-0.411659900974781	1	0
+608022	Diaphanospondylodysostosis	mast cell	-0.5433142362230471	1	0
+608022	Diaphanospondylodysostosis	mucus secreting cell	-0.432621858329972	1	0
+608022	Diaphanospondylodysostosis	neutrophil	-0.46749967308661206	1	0
+608022	Diaphanospondylodysostosis	plasma cell	-0.5433142362230471	1	0
+608022	Diaphanospondylodysostosis	secretory cell	-0.5433142362230471	1	0
+608022	Diaphanospondylodysostosis	serous cell of epithelium of trachea	1.24586995227014	1	0
+608022	Diaphanospondylodysostosis	smooth muscle cell	-0.34070113624690695	1	0
+608022	Diaphanospondylodysostosis	t cell	-0.238225787745465	1	0
+PS123700	Cutis laxa	goblet cell	-0.224520912616192	1	0
+PS123700	Cutis laxa	b cell	-0.43406601895439706	1	0
+PS123700	Cutis laxa	basal cell	0.26880886887493	1	0
+PS123700	Cutis laxa	cd4-positive, alpha-beta t cell	-0.28127782487036895	1	0
+PS123700	Cutis laxa	cd8-positive, alpha-beta t cell	-0.327758706095539	1	0
+PS123700	Cutis laxa	ciliated cell	-0.39734203480831	1	0
+PS123700	Cutis laxa	connective tissue cell	3.4166740231181096	1	1
+PS123700	Cutis laxa	double-positive, alpha-beta thymocyte	-0.49709775508701204	1	0
+PS123700	Cutis laxa	endothelial cell	-0.0740071292714551	1	0
+PS123700	Cutis laxa	fibroblast	2.2033286617937597	1	1
+PS123700	Cutis laxa	ionocyte	-0.553331992637425	1	0
+PS123700	Cutis laxa	macrophage	-0.44267930770993	1	0
+PS123700	Cutis laxa	mast cell	-0.40616604210384205	1	0
+PS123700	Cutis laxa	mucus secreting cell	-0.24821030913549103	1	0
+PS123700	Cutis laxa	neutrophil	-0.515474008327405	1	0
+PS123700	Cutis laxa	plasma cell	-0.48401854252888793	1	0
+PS123700	Cutis laxa	secretory cell	-0.23752535526450103	1	0
+PS123700	Cutis laxa	serous cell of epithelium of trachea	-0.38897762848483897	1	0
+PS123700	Cutis laxa	smooth muscle cell	-0.0203384041527778	1	0
+PS123700	Cutis laxa	t cell	-0.35601958173842496	1	0
+PS224690	Meier-Gorlin syndrome	goblet cell	-0.50197442168001	3	0
+PS224690	Meier-Gorlin syndrome	b cell	-0.11601505798411099	3	0
+PS224690	Meier-Gorlin syndrome	basal cell	1.5033741073601499	3	0
+PS224690	Meier-Gorlin syndrome	cd4-positive, alpha-beta t cell	0.325318741106343	3	0
+PS224690	Meier-Gorlin syndrome	cd8-positive, alpha-beta t cell	-0.12764074077646903	3	0
+PS224690	Meier-Gorlin syndrome	ciliated cell	0.329521015665379	3	0
+PS224690	Meier-Gorlin syndrome	connective tissue cell	0.7219989443914141	3	0
+PS224690	Meier-Gorlin syndrome	double-positive, alpha-beta thymocyte	-0.8982471922216729	3	0
+PS224690	Meier-Gorlin syndrome	endothelial cell	-0.25333397247498496	3	0
+PS224690	Meier-Gorlin syndrome	fibroblast	0.0574772430614135	3	0
+PS224690	Meier-Gorlin syndrome	ionocyte	0.204962850346963	3	0
+PS224690	Meier-Gorlin syndrome	macrophage	-0.16173195065419801	3	0
+PS224690	Meier-Gorlin syndrome	mast cell	-1.09889619883277	3	0
+PS224690	Meier-Gorlin syndrome	mucus secreting cell	-0.39159334594566597	3	0
+PS224690	Meier-Gorlin syndrome	neutrophil	-1.01552540044344	3	0
+PS224690	Meier-Gorlin syndrome	plasma cell	-0.680205576843873	3	0
+PS224690	Meier-Gorlin syndrome	secretory cell	0.48041432212680196	3	0
+PS224690	Meier-Gorlin syndrome	serous cell of epithelium of trachea	-0.866705423240641	3	0
+PS224690	Meier-Gorlin syndrome	smooth muscle cell	-0.5940513998871989	3	0
+PS224690	Meier-Gorlin syndrome	t cell	0.549207675688759	3	0
+PS118220	Charcot-Marie-Tooth disease	goblet cell	1.0748619081811601	1	0
+PS118220	Charcot-Marie-Tooth disease	b cell	-0.8049502867521091	1	0
+PS118220	Charcot-Marie-Tooth disease	basal cell	0.413023513362788	1	0
+PS118220	Charcot-Marie-Tooth disease	cd4-positive, alpha-beta t cell	-0.853209727472146	1	0
+PS118220	Charcot-Marie-Tooth disease	cd8-positive, alpha-beta t cell	-0.8321557170824649	1	0
+PS118220	Charcot-Marie-Tooth disease	ciliated cell	1.8403182117651	1	0
+PS118220	Charcot-Marie-Tooth disease	connective tissue cell	0.0299401271722862	1	0
+PS118220	Charcot-Marie-Tooth disease	double-positive, alpha-beta thymocyte	-0.8577118805168492	1	0
+PS118220	Charcot-Marie-Tooth disease	endothelial cell	-0.5491035403240809	1	0
+PS118220	Charcot-Marie-Tooth disease	fibroblast	-0.38301194743322603	1	0
+PS118220	Charcot-Marie-Tooth disease	ionocyte	0.989547445372065	1	0
+PS118220	Charcot-Marie-Tooth disease	macrophage	-0.7509479172731041	1	0
+PS118220	Charcot-Marie-Tooth disease	mast cell	-0.8213618707548821	1	0
+PS118220	Charcot-Marie-Tooth disease	mucus secreting cell	1.76982189785289	1	0
+PS118220	Charcot-Marie-Tooth disease	neutrophil	-0.7860314877305641	1	0
+PS118220	Charcot-Marie-Tooth disease	plasma cell	-0.705984204948958	1	0
+PS118220	Charcot-Marie-Tooth disease	secretory cell	0.736792238446244	1	0
+PS118220	Charcot-Marie-Tooth disease	serous cell of epithelium of trachea	1.7812403292989298	1	0
+PS118220	Charcot-Marie-Tooth disease	smooth muscle cell	-0.5487719936348011	1	0
+PS118220	Charcot-Marie-Tooth disease	t cell	-0.742305097528267	1	0
+616368	Chops Syndrome	goblet cell	0.7220951534580431	1	0
+616368	Chops Syndrome	b cell	-0.389661834018856	1	0
+616368	Chops Syndrome	basal cell	0.0916448672985908	1	0
+616368	Chops Syndrome	cd4-positive, alpha-beta t cell	-1.7058912608509902	1	0
+616368	Chops Syndrome	cd8-positive, alpha-beta t cell	-0.835233747800869	1	0
+616368	Chops Syndrome	ciliated cell	-0.4379589987123211	1	0
+616368	Chops Syndrome	connective tissue cell	0.5952112315344129	1	0
+616368	Chops Syndrome	double-positive, alpha-beta thymocyte	-1.32933757925704	1	0
+616368	Chops Syndrome	endothelial cell	0.174556358491401	1	0
+616368	Chops Syndrome	fibroblast	0.22105105303930397	1	0
+616368	Chops Syndrome	ionocyte	1.2789550188220402	1	0
+616368	Chops Syndrome	macrophage	1.07642980549035	1	0
+616368	Chops Syndrome	mast cell	0.31736503578045	1	0
+616368	Chops Syndrome	mucus secreting cell	2.15019663429675	1	1
+616368	Chops Syndrome	neutrophil	-0.5084685057429179	1	0
+616368	Chops Syndrome	plasma cell	-1.84045406318702	1	0
+616368	Chops Syndrome	secretory cell	0.5597452791557199	1	0
+616368	Chops Syndrome	serous cell of epithelium of trachea	0.42173833252907594	1	0
+616368	Chops Syndrome	smooth muscle cell	0.221358971139417	1	0
+616368	Chops Syndrome	t cell	-0.7833417514655409	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	goblet cell	0.913281560865133	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	b cell	-0.7952808197157251	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	basal cell	0.9664427214833591	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	cd4-positive, alpha-beta t cell	-0.888076858037679	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	cd8-positive, alpha-beta t cell	-0.472756966464213	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	ciliated cell	-0.569530662120213	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	connective tissue cell	1.2297898783016201	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	double-positive, alpha-beta thymocyte	-1.68648381667843	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	endothelial cell	0.623699249186336	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	fibroblast	1.5651422449685701	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	ionocyte	-0.313461984254977	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	macrophage	0.407759372707984	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	mast cell	1.55739962910289	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	mucus secreting cell	0.605217267203809	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	neutrophil	-1.3402373568833998	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	plasma cell	-1.19459800618008	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	secretory cell	-0.00468629749670781	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	serous cell of epithelium of trachea	-0.252356267519303	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	smooth muscle cell	0.7361251964264929	1	0
+616875	Cerebellar Atrophy, Visual Impairment, And Psychomotor Retardation	t cell	-1.08738808489546	1	0
+PS305620	Frontometaphyseal dysplasia	goblet cell	-0.20275147217168	1	0
+PS305620	Frontometaphyseal dysplasia	b cell	0.515883918165064	1	0
+PS305620	Frontometaphyseal dysplasia	basal cell	0.717232397044134	1	0
+PS305620	Frontometaphyseal dysplasia	cd4-positive, alpha-beta t cell	-0.266619165203362	1	0
+PS305620	Frontometaphyseal dysplasia	cd8-positive, alpha-beta t cell	-0.136755633189896	1	0
+PS305620	Frontometaphyseal dysplasia	ciliated cell	-0.16240092315525198	1	0
+PS305620	Frontometaphyseal dysplasia	connective tissue cell	1.1062618461436298	1	0
+PS305620	Frontometaphyseal dysplasia	double-positive, alpha-beta thymocyte	-1.91623174451076	1	0
+PS305620	Frontometaphyseal dysplasia	endothelial cell	0.12943640301613998	1	0
+PS305620	Frontometaphyseal dysplasia	fibroblast	1.18302864012469	1	0
+PS305620	Frontometaphyseal dysplasia	ionocyte	-1.91623174451076	1	0
+PS305620	Frontometaphyseal dysplasia	macrophage	1.0812978392952401	1	0
+PS305620	Frontometaphyseal dysplasia	mast cell	1.1194368862536699	1	0
+PS305620	Frontometaphyseal dysplasia	mucus secreting cell	0.8268677575036	1	0
+PS305620	Frontometaphyseal dysplasia	neutrophil	-1.31748537490588	1	0
+PS305620	Frontometaphyseal dysplasia	plasma cell	-1.3579270066138203	1	0
+PS305620	Frontometaphyseal dysplasia	secretory cell	0.18521185287095498	1	0
+PS305620	Frontometaphyseal dysplasia	serous cell of epithelium of trachea	1.03913044046184	1	0
+PS305620	Frontometaphyseal dysplasia	smooth muscle cell	-0.11186552924320599	1	0
+PS305620	Frontometaphyseal dysplasia	t cell	-0.51551938737436	1	0
+617180	Chitayat Syndrome	goblet cell	-1.3382593271960201	1	0
+617180	Chitayat Syndrome	b cell	-0.397333440161071	1	0
+617180	Chitayat Syndrome	basal cell	-0.0011276369101568301	1	0
+617180	Chitayat Syndrome	cd4-positive, alpha-beta t cell	0.0958924519892455	1	0
+617180	Chitayat Syndrome	cd8-positive, alpha-beta t cell	0.441556445360156	1	0
+617180	Chitayat Syndrome	ciliated cell	0.13082444367509	1	0
+617180	Chitayat Syndrome	connective tissue cell	-1.3259522161217299	1	0
+617180	Chitayat Syndrome	double-positive, alpha-beta thymocyte	0.6886600776862191	1	0
+617180	Chitayat Syndrome	endothelial cell	2.3120688768166	1	1
+617180	Chitayat Syndrome	fibroblast	0.23969664871078397	1	0
+617180	Chitayat Syndrome	ionocyte	-0.9394023070657271	1	0
+617180	Chitayat Syndrome	macrophage	-0.19325128814692802	1	0
+617180	Chitayat Syndrome	mast cell	0.234829297452665	1	0
+617180	Chitayat Syndrome	mucus secreting cell	-0.588139073055467	1	0
+617180	Chitayat Syndrome	neutrophil	0.46216508533586304	1	0
+617180	Chitayat Syndrome	plasma cell	-1.35690300020329	1	0
+617180	Chitayat Syndrome	secretory cell	-0.360715800180785	1	0
+617180	Chitayat Syndrome	serous cell of epithelium of trachea	-0.766837211382045	1	0
+617180	Chitayat Syndrome	smooth muscle cell	2.2133962150479998	1	1
+617180	Chitayat Syndrome	t cell	0.44883175834859795	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	goblet cell	-0.5990730858928229	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	b cell	-0.364641729611342	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	basal cell	-0.12348734317959599	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	cd4-positive, alpha-beta t cell	-0.606060729859056	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	cd8-positive, alpha-beta t cell	-0.541387435038269	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	ciliated cell	-0.606060729859056	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	connective tissue cell	2.80341399876712	1	1
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	double-positive, alpha-beta thymocyte	-0.606060729859056	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	endothelial cell	-0.440768864258671	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	fibroblast	1.1634657527831	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	ionocyte	-0.606060729859056	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	macrophage	0.552533620401145	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	mast cell	0.14629231599568399	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	mucus secreting cell	-0.606060729859056	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	neutrophil	-0.48104177838337703	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	plasma cell	-0.0159438517024439	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	secretory cell	-0.37302320130281896	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	serous cell of epithelium of trachea	-0.606060729859056	1	0
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	smooth muscle cell	2.38107132464852	1	1
+PS617660	Vertebral, cardiac, renal, and limb defects syndrome	t cell	-0.471045344071895	1	0
+PS219000	Fraser syndrome	goblet cell	0.445287034017479	1	0
+PS219000	Fraser syndrome	b cell	-0.382127038718749	1	0
+PS219000	Fraser syndrome	basal cell	0.8972838076939731	1	0
+PS219000	Fraser syndrome	cd4-positive, alpha-beta t cell	0.12412420606139801	1	0
+PS219000	Fraser syndrome	cd8-positive, alpha-beta t cell	-0.474479208449829	1	0
+PS219000	Fraser syndrome	ciliated cell	-0.555140792512609	1	0
+PS219000	Fraser syndrome	connective tissue cell	-0.523789324417617	1	0
+PS219000	Fraser syndrome	double-positive, alpha-beta thymocyte	-0.555140792512609	1	0
+PS219000	Fraser syndrome	endothelial cell	-0.555140792512609	1	0
+PS219000	Fraser syndrome	fibroblast	-0.426579527491401	1	0
+PS219000	Fraser syndrome	ionocyte	-0.555140792512609	1	0
+PS219000	Fraser syndrome	macrophage	-0.448585463293733	1	0
+PS219000	Fraser syndrome	mast cell	-0.555140792512609	1	0
+PS219000	Fraser syndrome	mucus secreting cell	1.64443276227427	1	0
+PS219000	Fraser syndrome	neutrophil	-0.555140792512609	1	0
+PS219000	Fraser syndrome	plasma cell	-0.299236760483938	1	0
+PS219000	Fraser syndrome	secretory cell	0.119742864859608	1	0
+PS219000	Fraser syndrome	serous cell of epithelium of trachea	3.4587393293739104	1	1
+PS219000	Fraser syndrome	smooth muscle cell	-0.470177385439154	1	0
+PS219000	Fraser syndrome	t cell	-0.333790540910563	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	goblet cell	-0.0714115986952009	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	b cell	-0.222601212075238	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	basal cell	-0.13679306774832597	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	cd4-positive, alpha-beta t cell	-0.23535192508706	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	cd8-positive, alpha-beta t cell	-0.29994266051953605	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	ciliated cell	0.353935921175719	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	connective tissue cell	0.420759809702914	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	double-positive, alpha-beta thymocyte	-0.0586211580736198	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	endothelial cell	-0.19231251898923102	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	fibroblast	-0.24368888620773302	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	ionocyte	3.8755398777339103	1	1
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	macrophage	-0.371816974001484	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	mast cell	0.318212206717514	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	mucus secreting cell	0.177191563359662	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	neutrophil	-1.04981959919048	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	plasma cell	-1.25003586954406	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	secretory cell	-0.0137988785742025	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	serous cell of epithelium of trachea	-0.4909144266099051	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	smooth muscle cell	-0.41744210595754994	1	0
+618454	Developmental Delay With Or Without Dysmorphic Facies And Autism	t cell	-0.0910884974160947	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	goblet cell	-0.684718316050221	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	b cell	-0.7938620137655421	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	basal cell	0.514666126449156	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	cd4-positive, alpha-beta t cell	-0.0484970307572239	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	cd8-positive, alpha-beta t cell	-0.443069896053776	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	ciliated cell	-0.152939150624377	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	connective tissue cell	-0.622515048913191	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	double-positive, alpha-beta thymocyte	2.95070490942638	1	1
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	endothelial cell	-0.0815756563416163	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	fibroblast	-0.34043227312250607	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	ionocyte	1.79527261730273	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	macrophage	1.1862783389151599	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	mast cell	0.157604558335793	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	mucus secreting cell	-0.5332877197558701	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	neutrophil	-0.827817198871657	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	plasma cell	-1.238507480258	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	secretory cell	0.0634497209396471	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	serous cell of epithelium of trachea	-0.7551174049545379	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	smooth muscle cell	0.40350376028843893	1	0
+618547	Neurodevelopmental Disorder With Visual Defects And Brain Anomalies	t cell	-0.549140842188785	1	0
+619083	Delpire-mcneill Syndrome	goblet cell	2.61161743046784	1	1
+619083	Delpire-mcneill Syndrome	b cell	-0.505037820608873	1	0
+619083	Delpire-mcneill Syndrome	basal cell	-0.0726891428931277	1	0
+619083	Delpire-mcneill Syndrome	cd4-positive, alpha-beta t cell	-0.624180513782848	1	0
+619083	Delpire-mcneill Syndrome	cd8-positive, alpha-beta t cell	-0.500991439757208	1	0
+619083	Delpire-mcneill Syndrome	ciliated cell	-0.537704259419943	1	0
+619083	Delpire-mcneill Syndrome	connective tissue cell	-0.429239040221652	1	0
+619083	Delpire-mcneill Syndrome	double-positive, alpha-beta thymocyte	-0.589000046260694	1	0
+619083	Delpire-mcneill Syndrome	endothelial cell	-0.317737917030534	1	0
+619083	Delpire-mcneill Syndrome	fibroblast	-0.5847557811599771	1	0
+619083	Delpire-mcneill Syndrome	ionocyte	2.08065511419217	1	1
+619083	Delpire-mcneill Syndrome	macrophage	-0.598340466404963	1	0
+619083	Delpire-mcneill Syndrome	mast cell	-0.5921159594733609	1	0
+619083	Delpire-mcneill Syndrome	mucus secreting cell	0.781627519313605	1	0
+619083	Delpire-mcneill Syndrome	neutrophil	-0.687914923980201	1	0
+619083	Delpire-mcneill Syndrome	plasma cell	-0.631489554993449	1	0
+619083	Delpire-mcneill Syndrome	secretory cell	0.13622993803642	1	0
+619083	Delpire-mcneill Syndrome	serous cell of epithelium of trachea	1.7656424862892899	1	0
+619083	Delpire-mcneill Syndrome	smooth muscle cell	-0.11737009563837199	1	0
+619083	Delpire-mcneill Syndrome	t cell	-0.587205526674121	1	0

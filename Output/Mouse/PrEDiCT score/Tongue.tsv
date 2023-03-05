@@ -1,0 +1,1093 @@
+Disease\Phenotypic series accession (OMIM)	Disease\Phenotypic series name (OMIM)	Cell type	PrEDiCT score	Number of causal genes	Affected cell type (1=Yes, 0=No)
+105830	Angelman Syndrome	basal cell	-0.100141371240729	1	0
+105830	Angelman Syndrome	capillary endothelial cell	1.65377779465981	1	0
+105830	Angelman Syndrome	endothelial cell of artery	0.8523943933466558	1	0
+105830	Angelman Syndrome	endothelial cell of lymphatic vessel	-0.13253499881664998	1	0
+105830	Angelman Syndrome	epithelial cell	-2.09174292263561	1	0
+105830	Angelman Syndrome	fibroblast	-0.0344757987688619	1	0
+105830	Angelman Syndrome	immune cell	0.162161168758641	1	0
+105830	Angelman Syndrome	keratinocyte	-1.3608010200187	1	0
+105830	Angelman Syndrome	pericyte cell	-0.226758158558065	1	0
+105830	Angelman Syndrome	schwann cell	0.91810054588169	1	0
+105830	Angelman Syndrome	tongue muscle cell	-0.20538641775032399	1	0
+105830	Angelman Syndrome	vein endothelial cell	0.5654067851421429	1	0
+117650	Cerebrocostomandibular Syndrome	basal cell	0.526711722294016	1	0
+117650	Cerebrocostomandibular Syndrome	capillary endothelial cell	-0.291254148085945	1	0
+117650	Cerebrocostomandibular Syndrome	endothelial cell of artery	-0.47404713501519896	1	0
+117650	Cerebrocostomandibular Syndrome	endothelial cell of lymphatic vessel	1.0218817027168199	1	0
+117650	Cerebrocostomandibular Syndrome	epithelial cell	2.4793955987361898	1	1
+117650	Cerebrocostomandibular Syndrome	fibroblast	-1.32720097891633	1	0
+117650	Cerebrocostomandibular Syndrome	immune cell	0.39354582159767004	1	0
+117650	Cerebrocostomandibular Syndrome	keratinocyte	-0.13318552690525	1	0
+117650	Cerebrocostomandibular Syndrome	pericyte cell	-0.594728105269482	1	0
+117650	Cerebrocostomandibular Syndrome	schwann cell	-0.7552050672382371	1	0
+117650	Cerebrocostomandibular Syndrome	tongue muscle cell	-0.37061265747819605	1	0
+117650	Cerebrocostomandibular Syndrome	vein endothelial cell	-0.47530122643604905	1	0
+130650	Beckwith-wiedemann Syndrome	basal cell	0.274594571540375	2	0
+130650	Beckwith-wiedemann Syndrome	capillary endothelial cell	1.0783280925317997	2	0
+130650	Beckwith-wiedemann Syndrome	endothelial cell of artery	-0.482228770310419	2	0
+130650	Beckwith-wiedemann Syndrome	endothelial cell of lymphatic vessel	-0.05965724068944203	2	0
+130650	Beckwith-wiedemann Syndrome	epithelial cell	-0.8892686208463045	2	0
+130650	Beckwith-wiedemann Syndrome	fibroblast	0.5636623232162735	2	0
+130650	Beckwith-wiedemann Syndrome	immune cell	-0.61934549799327	2	0
+130650	Beckwith-wiedemann Syndrome	keratinocyte	-0.5018027000906881	2	0
+130650	Beckwith-wiedemann Syndrome	pericyte cell	-0.43582797129821005	2	0
+130650	Beckwith-wiedemann Syndrome	schwann cell	-0.5978828022883019	2	0
+130650	Beckwith-wiedemann Syndrome	tongue muscle cell	2.01822385217842	2	1
+130650	Beckwith-wiedemann Syndrome	vein endothelial cell	-0.348795235950237	2	0
+146510	Pallister-hall Syndrome 1	basal cell	0.247405993827485	1	0
+146510	Pallister-hall Syndrome 1	capillary endothelial cell	-0.334973924232719	1	0
+146510	Pallister-hall Syndrome 1	endothelial cell of artery	-0.8093094513339959	1	0
+146510	Pallister-hall Syndrome 1	endothelial cell of lymphatic vessel	-0.6096911474907221	1	0
+146510	Pallister-hall Syndrome 1	epithelial cell	-0.5138797702495661	1	0
+146510	Pallister-hall Syndrome 1	fibroblast	2.74911176467808	1	1
+146510	Pallister-hall Syndrome 1	immune cell	-0.7776104191134999	1	0
+146510	Pallister-hall Syndrome 1	keratinocyte	-0.6298354454999611	1	0
+146510	Pallister-hall Syndrome 1	pericyte cell	0.34788574248061893	1	0
+146510	Pallister-hall Syndrome 1	schwann cell	0.300721463368299	1	0
+146510	Pallister-hall Syndrome 1	tongue muscle cell	0.63351541640507	1	0
+146510	Pallister-hall Syndrome 1	vein endothelial cell	-0.603340222839092	1	0
+PS148210	Keratitis-ichthyosis-deafness syndrome	basal cell	1.22053530099712	1	0
+PS148210	Keratitis-ichthyosis-deafness syndrome	capillary endothelial cell	-0.450935534985161	1	0
+PS148210	Keratitis-ichthyosis-deafness syndrome	endothelial cell of artery	-0.693284735735797	1	0
+PS148210	Keratitis-ichthyosis-deafness syndrome	endothelial cell of lymphatic vessel	-0.39330259110731	1	0
+PS148210	Keratitis-ichthyosis-deafness syndrome	epithelial cell	1.13455910776429	1	0
+PS148210	Keratitis-ichthyosis-deafness syndrome	fibroblast	-0.55805976117388	1	0
+PS148210	Keratitis-ichthyosis-deafness syndrome	immune cell	-0.3715506504656961	1	0
+PS148210	Keratitis-ichthyosis-deafness syndrome	keratinocyte	2.37389351535493	1	1
+PS148210	Keratitis-ichthyosis-deafness syndrome	pericyte cell	-0.447823062283674	1	0
+PS148210	Keratitis-ichthyosis-deafness syndrome	schwann cell	-0.5765192063473629	1	0
+PS148210	Keratitis-ichthyosis-deafness syndrome	tongue muscle cell	-0.6400441799901271	1	0
+PS148210	Keratitis-ichthyosis-deafness syndrome	vein endothelial cell	-0.597468202027328	1	0
+151050	Lenz-majewski Hyperostotic Dwarfism	basal cell	-0.438557327301073	1	0
+151050	Lenz-majewski Hyperostotic Dwarfism	capillary endothelial cell	-0.38173800696385496	1	0
+151050	Lenz-majewski Hyperostotic Dwarfism	endothelial cell of artery	-1.0623549282927098	1	0
+151050	Lenz-majewski Hyperostotic Dwarfism	endothelial cell of lymphatic vessel	1.18921437877885	1	0
+151050	Lenz-majewski Hyperostotic Dwarfism	epithelial cell	-0.6496888621459301	1	0
+151050	Lenz-majewski Hyperostotic Dwarfism	fibroblast	-0.821084742943773	1	0
+151050	Lenz-majewski Hyperostotic Dwarfism	immune cell	0.25506927066804397	1	0
+151050	Lenz-majewski Hyperostotic Dwarfism	keratinocyte	-0.973786368891761	1	0
+151050	Lenz-majewski Hyperostotic Dwarfism	pericyte cell	-0.267737470588573	1	0
+151050	Lenz-majewski Hyperostotic Dwarfism	schwann cell	2.14076176582841	1	1
+151050	Lenz-majewski Hyperostotic Dwarfism	tongue muscle cell	-0.14505774779886402	1	0
+151050	Lenz-majewski Hyperostotic Dwarfism	vein endothelial cell	1.15496003965124	1	0
+PS158350	Cowden disease	basal cell	-0.617601088064626	3	0
+PS158350	Cowden disease	capillary endothelial cell	0.692156030783526	3	0
+PS158350	Cowden disease	endothelial cell of artery	0.042617236972356004	3	0
+PS158350	Cowden disease	endothelial cell of lymphatic vessel	-0.119277704599709	3	0
+PS158350	Cowden disease	epithelial cell	-0.810906898035222	3	0
+PS158350	Cowden disease	fibroblast	-0.162176308327497	3	0
+PS158350	Cowden disease	immune cell	-0.13122217638074002	3	0
+PS158350	Cowden disease	keratinocyte	-1.2180006401054	3	0
+PS158350	Cowden disease	pericyte cell	0.9797709794681578	3	0
+PS158350	Cowden disease	schwann cell	1.4812713891776499	3	0
+PS158350	Cowden disease	tongue muscle cell	-0.5720662647682528	3	0
+PS158350	Cowden disease	vein endothelial cell	0.5306790270478211	3	0
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	basal cell	-0.7644845790330401	1	0
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	capillary endothelial cell	-1.10452895698658	1	0
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	endothelial cell of artery	-0.11009044780494999	1	0
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	endothelial cell of lymphatic vessel	0.31179200510100297	1	0
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	epithelial cell	-0.20833810283461301	1	0
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	fibroblast	-0.0200912954469324	1	0
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	immune cell	0.399059728777589	1	0
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	keratinocyte	0.110061106752087	1	0
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	pericyte cell	2.1775018071486203	1	1
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	schwann cell	1.35146170749273	1	0
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	tongue muscle cell	-1.13557193909556	1	0
+159950	Spinal Muscular Atrophy With Progressive Myoclonic Epilepsy	vein endothelial cell	-1.00677103407035	1	0
+PS311200	Orofaciodigital syndrome	basal cell	-0.639972639738196	6	0
+PS311200	Orofaciodigital syndrome	capillary endothelial cell	0.515740977770963	6	0
+PS311200	Orofaciodigital syndrome	endothelial cell of artery	0.42357715082111846	6	0
+PS311200	Orofaciodigital syndrome	endothelial cell of lymphatic vessel	0.3310800795760535	6	0
+PS311200	Orofaciodigital syndrome	epithelial cell	-0.9227332091245841	6	0
+PS311200	Orofaciodigital syndrome	fibroblast	0.026397106830836514	6	0
+PS311200	Orofaciodigital syndrome	immune cell	0.12818543878945163	6	0
+PS311200	Orofaciodigital syndrome	keratinocyte	-1.1652902322156	6	0
+PS311200	Orofaciodigital syndrome	pericyte cell	-0.1968776929890645	6	0
+PS311200	Orofaciodigital syndrome	schwann cell	1.4177515806201901	6	0
+PS311200	Orofaciodigital syndrome	tongue muscle cell	-0.26503936175237447	6	0
+PS311200	Orofaciodigital syndrome	vein endothelial cell	0.23396698803250457	6	0
+PS268310	Robinow syndrome	basal cell	0.18240998810682998	3	0
+PS268310	Robinow syndrome	capillary endothelial cell	-0.313318234505642	3	0
+PS268310	Robinow syndrome	endothelial cell of artery	-0.313318234505642	3	0
+PS268310	Robinow syndrome	endothelial cell of lymphatic vessel	-0.313318234505642	3	0
+PS268310	Robinow syndrome	epithelial cell	-0.239449142512958	3	0
+PS268310	Robinow syndrome	fibroblast	3.10074189859554	3	1
+PS268310	Robinow syndrome	immune cell	-0.307290652519157	3	0
+PS268310	Robinow syndrome	keratinocyte	-0.302896629310016	3	0
+PS268310	Robinow syndrome	pericyte cell	-0.24324870631417603	3	0
+PS268310	Robinow syndrome	schwann cell	-0.506752405568006	3	0
+PS268310	Robinow syndrome	tongue muscle cell	-0.313318234505642	3	0
+PS268310	Robinow syndrome	vein endothelial cell	-0.288973295880885	3	0
+PS187300	Telangiectasia, hereditary hemorrhagic	basal cell	-0.7686775909244361	2	0
+PS187300	Telangiectasia, hereditary hemorrhagic	capillary endothelial cell	1.9723044950754849	2	0
+PS187300	Telangiectasia, hereditary hemorrhagic	endothelial cell of artery	1.184658312444312	2	0
+PS187300	Telangiectasia, hereditary hemorrhagic	endothelial cell of lymphatic vessel	0.36073131128912694	2	0
+PS187300	Telangiectasia, hereditary hemorrhagic	epithelial cell	-0.702171693790979	2	0
+PS187300	Telangiectasia, hereditary hemorrhagic	fibroblast	-0.16194255886122805	2	0
+PS187300	Telangiectasia, hereditary hemorrhagic	immune cell	-0.716068009612265	2	0
+PS187300	Telangiectasia, hereditary hemorrhagic	keratinocyte	-0.770707977634624	2	0
+PS187300	Telangiectasia, hereditary hemorrhagic	pericyte cell	-0.5578232937107684	2	0
+PS187300	Telangiectasia, hereditary hemorrhagic	schwann cell	-0.617230855956605	2	0
+PS187300	Telangiectasia, hereditary hemorrhagic	tongue muscle cell	-0.37964631481516453	2	0
+PS187300	Telangiectasia, hereditary hemorrhagic	vein endothelial cell	1.1565741764971436	2	0
+201100	Acrodermatitis Enteropathica, Zinc-deficiency Type	basal cell	0.485613794862659	1	0
+201100	Acrodermatitis Enteropathica, Zinc-deficiency Type	capillary endothelial cell	-0.9837469069286608	1	0
+201100	Acrodermatitis Enteropathica, Zinc-deficiency Type	endothelial cell of artery	-1.08459142619502	1	0
+201100	Acrodermatitis Enteropathica, Zinc-deficiency Type	endothelial cell of lymphatic vessel	-0.376560178495128	1	0
+201100	Acrodermatitis Enteropathica, Zinc-deficiency Type	epithelial cell	1.68803329076668	1	0
+201100	Acrodermatitis Enteropathica, Zinc-deficiency Type	fibroblast	0.00170915260403685	1	0
+201100	Acrodermatitis Enteropathica, Zinc-deficiency Type	immune cell	-0.209225210134677	1	0
+201100	Acrodermatitis Enteropathica, Zinc-deficiency Type	keratinocyte	1.26080953223996	1	0
+201100	Acrodermatitis Enteropathica, Zinc-deficiency Type	pericyte cell	-1.2199973838572	1	0
+201100	Acrodermatitis Enteropathica, Zinc-deficiency Type	schwann cell	1.37402633416206	1	0
+201100	Acrodermatitis Enteropathica, Zinc-deficiency Type	tongue muscle cell	-0.7688290477013641	1	0
+201100	Acrodermatitis Enteropathica, Zinc-deficiency Type	vein endothelial cell	-0.16724195132335198	1	0
+PS162400	Hereditary sensory and autonomic neuropathy	basal cell	0.042689570191122746	2	0
+PS162400	Hereditary sensory and autonomic neuropathy	capillary endothelial cell	0.9911327247353572	2	0
+PS162400	Hereditary sensory and autonomic neuropathy	endothelial cell of artery	0.986256987932693	2	0
+PS162400	Hereditary sensory and autonomic neuropathy	endothelial cell of lymphatic vessel	-0.665890689730029	2	0
+PS162400	Hereditary sensory and autonomic neuropathy	epithelial cell	-0.5705315349618509	2	0
+PS162400	Hereditary sensory and autonomic neuropathy	fibroblast	-0.1708342028946785	2	0
+PS162400	Hereditary sensory and autonomic neuropathy	immune cell	0.26184986644353136	2	0
+PS162400	Hereditary sensory and autonomic neuropathy	keratinocyte	-0.373276094072734	2	0
+PS162400	Hereditary sensory and autonomic neuropathy	pericyte cell	-0.850130281020623	2	0
+PS162400	Hereditary sensory and autonomic neuropathy	schwann cell	-1.0968347469469601	2	0
+PS162400	Hereditary sensory and autonomic neuropathy	tongue muscle cell	0.8165927528846834	2	0
+PS162400	Hereditary sensory and autonomic neuropathy	vein endothelial cell	0.628975647439489	2	0
+202650	Agnathia-otocephaly Complex	basal cell	-0.30638112782	1	0
+202650	Agnathia-otocephaly Complex	capillary endothelial cell	-0.460834738284424	1	0
+202650	Agnathia-otocephaly Complex	endothelial cell of artery	-0.47577616696935104	1	0
+202650	Agnathia-otocephaly Complex	endothelial cell of lymphatic vessel	-0.46802299069883396	1	0
+202650	Agnathia-otocephaly Complex	epithelial cell	-0.4166683483091211	1	0
+202650	Agnathia-otocephaly Complex	fibroblast	1.53590515928767	1	0
+202650	Agnathia-otocephaly Complex	immune cell	-0.464924800048642	1	0
+202650	Agnathia-otocephaly Complex	keratinocyte	-0.46885739212105104	1	0
+202650	Agnathia-otocephaly Complex	pericyte cell	2.6164595230407204	1	1
+202650	Agnathia-otocephaly Complex	schwann cell	-0.418236641662376	1	0
+202650	Agnathia-otocephaly Complex	tongue muscle cell	-0.20839718245237002	1	0
+202650	Agnathia-otocephaly Complex	vein endothelial cell	-0.46426529396221505	1	0
+PS105400	Amyotrophic lateral sclerosis	basal cell	-0.748077029118734	2	0
+PS105400	Amyotrophic lateral sclerosis	capillary endothelial cell	1.117569336654751	2	0
+PS105400	Amyotrophic lateral sclerosis	endothelial cell of artery	0.7062407598280425	2	0
+PS105400	Amyotrophic lateral sclerosis	endothelial cell of lymphatic vessel	0.7991488731949464	2	0
+PS105400	Amyotrophic lateral sclerosis	epithelial cell	-0.8945716719897235	2	0
+PS105400	Amyotrophic lateral sclerosis	fibroblast	-0.2212147829136755	2	0
+PS105400	Amyotrophic lateral sclerosis	immune cell	-0.446609841741575	2	0
+PS105400	Amyotrophic lateral sclerosis	keratinocyte	-0.9204041150983915	2	0
+PS105400	Amyotrophic lateral sclerosis	pericyte cell	0.04037355418198399	2	0
+PS105400	Amyotrophic lateral sclerosis	schwann cell	0.907237505029991	2	0
+PS105400	Amyotrophic lateral sclerosis	tongue muscle cell	-0.32923306599291247	2	0
+PS105400	Amyotrophic lateral sclerosis	vein endothelial cell	-0.010459522034705016	2	0
+208400	Aspartylglucosaminuria	basal cell	0.470988242067187	1	0
+208400	Aspartylglucosaminuria	capillary endothelial cell	-1.2444766607431499	1	0
+208400	Aspartylglucosaminuria	endothelial cell of artery	-0.368082842223478	1	0
+208400	Aspartylglucosaminuria	endothelial cell of lymphatic vessel	1.4764028854099598	1	0
+208400	Aspartylglucosaminuria	epithelial cell	0.552533661812523	1	0
+208400	Aspartylglucosaminuria	fibroblast	-0.293342073423251	1	0
+208400	Aspartylglucosaminuria	immune cell	0.483235505540082	1	0
+208400	Aspartylglucosaminuria	keratinocyte	1.6215707356343	1	0
+208400	Aspartylglucosaminuria	pericyte cell	-1.69788065256356	1	0
+208400	Aspartylglucosaminuria	schwann cell	-0.39921858401841404	1	0
+208400	Aspartylglucosaminuria	tongue muscle cell	-0.7681083101201971	1	0
+208400	Aspartylglucosaminuria	vein endothelial cell	0.166378092628002	1	0
+PS211530	Brown-Vialetto-Van Laere syndrome	basal cell	-0.063896390323035	1	0
+PS211530	Brown-Vialetto-Van Laere syndrome	capillary endothelial cell	1.5629570581808099	1	0
+PS211530	Brown-Vialetto-Van Laere syndrome	endothelial cell of artery	-0.49894671428601295	1	0
+PS211530	Brown-Vialetto-Van Laere syndrome	endothelial cell of lymphatic vessel	1.7559852895886103	1	0
+PS211530	Brown-Vialetto-Van Laere syndrome	epithelial cell	0.29242969902739696	1	0
+PS211530	Brown-Vialetto-Van Laere syndrome	fibroblast	-0.770896581890634	1	0
+PS211530	Brown-Vialetto-Van Laere syndrome	immune cell	0.7170827348005159	1	0
+PS211530	Brown-Vialetto-Van Laere syndrome	keratinocyte	0.105173273755922	1	0
+PS211530	Brown-Vialetto-Van Laere syndrome	pericyte cell	-0.168823993754913	1	0
+PS211530	Brown-Vialetto-Van Laere syndrome	schwann cell	-1.6466992889727101	1	0
+PS211530	Brown-Vialetto-Van Laere syndrome	tongue muscle cell	-1.11687595113412	1	0
+PS211530	Brown-Vialetto-Van Laere syndrome	vein endothelial cell	-0.167489134991829	1	0
+PS212066	Congenital disorders of glycosylation, type II	basal cell	-0.44453071125953003	2	0
+PS212066	Congenital disorders of glycosylation, type II	capillary endothelial cell	0.432762681284775	2	0
+PS212066	Congenital disorders of glycosylation, type II	endothelial cell of artery	1.0109215904046405	2	0
+PS212066	Congenital disorders of glycosylation, type II	endothelial cell of lymphatic vessel	1.96846678303727	2	0
+PS212066	Congenital disorders of glycosylation, type II	epithelial cell	-0.744825175346892	2	0
+PS212066	Congenital disorders of glycosylation, type II	fibroblast	-0.09720207059208805	2	0
+PS212066	Congenital disorders of glycosylation, type II	immune cell	0.20813145624770052	2	0
+PS212066	Congenital disorders of glycosylation, type II	keratinocyte	-0.8471163987670356	2	0
+PS212066	Congenital disorders of glycosylation, type II	pericyte cell	-0.696758123895945	2	0
+PS212066	Congenital disorders of glycosylation, type II	schwann cell	-0.33682042262674244	2	0
+PS212066	Congenital disorders of glycosylation, type II	tongue muscle cell	-0.7374929165696329	2	0
+PS212066	Congenital disorders of glycosylation, type II	vein endothelial cell	0.28446330808347997	2	0
+PS214100	Peroxisome biogenesis disorder	basal cell	-0.14949216326313103	2	0
+PS214100	Peroxisome biogenesis disorder	capillary endothelial cell	0.27455903693106803	2	0
+PS214100	Peroxisome biogenesis disorder	endothelial cell of artery	0.7638625488249106	2	0
+PS214100	Peroxisome biogenesis disorder	endothelial cell of lymphatic vessel	0.5400563098782549	2	0
+PS214100	Peroxisome biogenesis disorder	epithelial cell	-0.47433110569747655	2	0
+PS214100	Peroxisome biogenesis disorder	fibroblast	0.8905088426548405	2	0
+PS214100	Peroxisome biogenesis disorder	immune cell	0.19722665845912601	2	0
+PS214100	Peroxisome biogenesis disorder	keratinocyte	-0.638824658312903	2	0
+PS214100	Peroxisome biogenesis disorder	pericyte cell	-0.5180082834423875	2	0
+PS214100	Peroxisome biogenesis disorder	schwann cell	-0.7805347900738264	2	0
+PS214100	Peroxisome biogenesis disorder	tongue muscle cell	-0.06428577985544992	2	0
+PS214100	Peroxisome biogenesis disorder	vein endothelial cell	-0.040736616103026424	2	0
+218040	Costello Syndrome	basal cell	1.05587369520075	1	0
+218040	Costello Syndrome	capillary endothelial cell	0.283083492837782	1	0
+218040	Costello Syndrome	endothelial cell of artery	0.171024892382337	1	0
+218040	Costello Syndrome	endothelial cell of lymphatic vessel	-0.37524476336896395	1	0
+218040	Costello Syndrome	epithelial cell	1.6915650847038501	1	0
+218040	Costello Syndrome	fibroblast	-0.9945107109410078	1	0
+218040	Costello Syndrome	immune cell	-0.776359407533772	1	0
+218040	Costello Syndrome	keratinocyte	1.72949484895491	1	0
+218040	Costello Syndrome	pericyte cell	-0.6064040893017429	1	0
+218040	Costello Syndrome	schwann cell	-0.326116341402327	1	0
+218040	Costello Syndrome	tongue muscle cell	-0.9059191718218159	1	0
+218040	Costello Syndrome	vein endothelial cell	-0.9464875297099979	1	0
+PS275200	Hypothyroidism, congenital, nongoitrous	basal cell	-0.9379968911581992	1	0
+PS275200	Hypothyroidism, congenital, nongoitrous	capillary endothelial cell	1.09013859167527	1	0
+PS275200	Hypothyroidism, congenital, nongoitrous	endothelial cell of artery	0.247961965294738	1	0
+PS275200	Hypothyroidism, congenital, nongoitrous	endothelial cell of lymphatic vessel	-0.711265239871327	1	0
+PS275200	Hypothyroidism, congenital, nongoitrous	epithelial cell	-1.0383284368171801	1	0
+PS275200	Hypothyroidism, congenital, nongoitrous	fibroblast	0.475444207679075	1	0
+PS275200	Hypothyroidism, congenital, nongoitrous	immune cell	-0.957063780939115	1	0
+PS275200	Hypothyroidism, congenital, nongoitrous	keratinocyte	-1.22350223283344	1	0
+PS275200	Hypothyroidism, congenital, nongoitrous	pericyte cell	1.8696758702847702	1	0
+PS275200	Hypothyroidism, congenital, nongoitrous	schwann cell	0.8295501830723541	1	0
+PS275200	Hypothyroidism, congenital, nongoitrous	tongue muscle cell	0.6250649232514289	1	0
+PS275200	Hypothyroidism, congenital, nongoitrous	vein endothelial cell	-0.26967915963838	1	0
+PS219000	Fraser syndrome	basal cell	2.87770695344207	1	1
+PS219000	Fraser syndrome	capillary endothelial cell	-0.5999119187619499	1	0
+PS219000	Fraser syndrome	endothelial cell of artery	0.26718751566495	1	0
+PS219000	Fraser syndrome	endothelial cell of lymphatic vessel	-0.539871812958626	1	0
+PS219000	Fraser syndrome	epithelial cell	0.4199510193067	1	0
+PS219000	Fraser syndrome	fibroblast	0.36571290135198603	1	0
+PS219000	Fraser syndrome	immune cell	-0.420749937735849	1	0
+PS219000	Fraser syndrome	keratinocyte	-0.0378921965587969	1	0
+PS219000	Fraser syndrome	pericyte cell	-0.634018983510787	1	0
+PS219000	Fraser syndrome	schwann cell	-0.311271659366861	1	0
+PS219000	Fraser syndrome	tongue muscle cell	-0.846638440642466	1	0
+PS219000	Fraser syndrome	vein endothelial cell	-0.54020344023037	1	0
+230000	Fucosidosis	basal cell	-0.852747168284646	1	0
+230000	Fucosidosis	capillary endothelial cell	1.03494803108096	1	0
+230000	Fucosidosis	endothelial cell of artery	1.15253246307143	1	0
+230000	Fucosidosis	endothelial cell of lymphatic vessel	0.45883669931170895	1	0
+230000	Fucosidosis	epithelial cell	-0.6390282034002079	1	0
+230000	Fucosidosis	fibroblast	-0.0495083815726801	1	0
+230000	Fucosidosis	immune cell	1.8312884573921102	1	0
+230000	Fucosidosis	keratinocyte	-0.895364016047631	1	0
+230000	Fucosidosis	pericyte cell	-0.39641955584009797	1	0
+230000	Fucosidosis	schwann cell	-0.647371494421338	1	0
+230000	Fucosidosis	tongue muscle cell	-1.50439930936596	1	0
+230000	Fucosidosis	vein endothelial cell	0.5072324780763621	1	0
+232300	Glycogen Storage Disease Ii	basal cell	-0.405220463221325	1	0
+232300	Glycogen Storage Disease Ii	capillary endothelial cell	-1.2607146830256002	1	0
+232300	Glycogen Storage Disease Ii	endothelial cell of artery	-0.205610644222793	1	0
+232300	Glycogen Storage Disease Ii	endothelial cell of lymphatic vessel	0.904598697502233	1	0
+232300	Glycogen Storage Disease Ii	epithelial cell	0.341728685879047	1	0
+232300	Glycogen Storage Disease Ii	fibroblast	1.2324389299900902	1	0
+232300	Glycogen Storage Disease Ii	immune cell	0.278055211797634	1	0
+232300	Glycogen Storage Disease Ii	keratinocyte	-1.15240692059549	1	0
+232300	Glycogen Storage Disease Ii	pericyte cell	-0.716167645583564	1	0
+232300	Glycogen Storage Disease Ii	schwann cell	2.02010643038798	1	1
+232300	Glycogen Storage Disease Ii	tongue muscle cell	-0.8451824830042021	1	0
+232300	Glycogen Storage Disease Ii	vein endothelial cell	-0.191625115904016	1	0
+251900	Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy	basal cell	-0.6528574641550721	1	0
+251900	Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy	capillary endothelial cell	-0.6512902168702939	1	0
+251900	Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy	endothelial cell of artery	1.2479468833337	1	0
+251900	Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy	endothelial cell of lymphatic vessel	0.270050649589404	1	0
+251900	Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy	epithelial cell	0.33408457440864303	1	0
+251900	Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy	fibroblast	-0.0965164707031518	1	0
+251900	Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy	immune cell	-0.5966304802415631	1	0
+251900	Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy	keratinocyte	-0.649004149341962	1	0
+251900	Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy	pericyte cell	-0.9238986180341929	1	0
+251900	Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy	schwann cell	2.5324591474371	1	1
+251900	Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy	tongue muscle cell	-0.300679644250699	1	0
+251900	Mitochondrial Myopathy, Episodic, With Optic Atrophy And Reversible Leukoencephalopathy	vein endothelial cell	-0.5136642111719121	1	0
+252500	Mucolipidosis Ii Alpha/beta	basal cell	-0.42065651954945	1	0
+252500	Mucolipidosis Ii Alpha/beta	capillary endothelial cell	0.460633496579387	1	0
+252500	Mucolipidosis Ii Alpha/beta	endothelial cell of artery	0.18865811561000698	1	0
+252500	Mucolipidosis Ii Alpha/beta	endothelial cell of lymphatic vessel	-0.47645504053674	1	0
+252500	Mucolipidosis Ii Alpha/beta	epithelial cell	-0.984600804406951	1	0
+252500	Mucolipidosis Ii Alpha/beta	fibroblast	-0.0686182503440702	1	0
+252500	Mucolipidosis Ii Alpha/beta	immune cell	1.06912240811637	1	0
+252500	Mucolipidosis Ii Alpha/beta	keratinocyte	-0.639102949309275	1	0
+252500	Mucolipidosis Ii Alpha/beta	pericyte cell	-1.01651565154143	1	0
+252500	Mucolipidosis Ii Alpha/beta	schwann cell	2.46241984168764	1	1
+252500	Mucolipidosis Ii Alpha/beta	tongue muscle cell	-0.816866230638597	1	0
+252500	Mucolipidosis Ii Alpha/beta	vein endothelial cell	0.24198158433310799	1	0
+PS607014	Mucopolysaccharidoses	basal cell	-0.685361943936862	2	0
+PS607014	Mucopolysaccharidoses	capillary endothelial cell	0.07646405888554159	2	0
+PS607014	Mucopolysaccharidoses	endothelial cell of artery	0.3735302493065007	2	0
+PS607014	Mucopolysaccharidoses	endothelial cell of lymphatic vessel	0.8965037644447441	2	0
+PS607014	Mucopolysaccharidoses	epithelial cell	-0.680003618452449	2	0
+PS607014	Mucopolysaccharidoses	fibroblast	-0.12115503882001699	2	0
+PS607014	Mucopolysaccharidoses	immune cell	1.7997368763351487	2	0
+PS607014	Mucopolysaccharidoses	keratinocyte	-0.765287218406953	2	0
+PS607014	Mucopolysaccharidoses	pericyte cell	0.0049268372416619854	2	0
+PS607014	Mucopolysaccharidoses	schwann cell	-0.05472721301780248	2	0
+PS607014	Mucopolysaccharidoses	tongue muscle cell	-0.5651907781219545	2	0
+PS607014	Mucopolysaccharidoses	vein endothelial cell	-0.2794359754575624	2	0
+253250	Mulibrey Nanism	basal cell	-0.361009930038958	1	0
+253250	Mulibrey Nanism	capillary endothelial cell	0.30373958640296	1	0
+253250	Mulibrey Nanism	endothelial cell of artery	0.9532720112545531	1	0
+253250	Mulibrey Nanism	endothelial cell of lymphatic vessel	1.94220337050592	1	0
+253250	Mulibrey Nanism	epithelial cell	-1.2060831672862802	1	0
+253250	Mulibrey Nanism	fibroblast	0.0233315432879421	1	0
+253250	Mulibrey Nanism	immune cell	0.132369413622245	1	0
+253250	Mulibrey Nanism	keratinocyte	-0.9461960671707259	1	0
+253250	Mulibrey Nanism	pericyte cell	1.2444558503272	1	0
+253250	Mulibrey Nanism	schwann cell	-0.6871909506755389	1	0
+253250	Mulibrey Nanism	tongue muscle cell	-1.30326380892537	1	0
+253250	Mulibrey Nanism	vein endothelial cell	-0.0956278513039436	1	0
+PS256040	Proteosome-associated autoinflammatory syndrome	basal cell	-0.562451368402427	1	0
+PS256040	Proteosome-associated autoinflammatory syndrome	capillary endothelial cell	1.97955735256749	1	0
+PS256040	Proteosome-associated autoinflammatory syndrome	endothelial cell of artery	1.10924336991704	1	0
+PS256040	Proteosome-associated autoinflammatory syndrome	endothelial cell of lymphatic vessel	0.240682706742125	1	0
+PS256040	Proteosome-associated autoinflammatory syndrome	epithelial cell	0.0620587925503205	1	0
+PS256040	Proteosome-associated autoinflammatory syndrome	fibroblast	-0.642784583286913	1	0
+PS256040	Proteosome-associated autoinflammatory syndrome	immune cell	0.5174828834009529	1	0
+PS256040	Proteosome-associated autoinflammatory syndrome	keratinocyte	-1.00319915750046	1	0
+PS256040	Proteosome-associated autoinflammatory syndrome	pericyte cell	-0.534988196952857	1	0
+PS256040	Proteosome-associated autoinflammatory syndrome	schwann cell	-1.07012273990948	1	0
+PS256040	Proteosome-associated autoinflammatory syndrome	tongue muscle cell	-1.13159804289982	1	0
+PS256040	Proteosome-associated autoinflammatory syndrome	vein endothelial cell	1.0361189837740301	1	0
+259775	Raine Syndrome	basal cell	0.0136404915588696	1	0
+259775	Raine Syndrome	capillary endothelial cell	-0.755072454325046	1	0
+259775	Raine Syndrome	endothelial cell of artery	-0.6531627493433521	1	0
+259775	Raine Syndrome	endothelial cell of lymphatic vessel	-0.0290109503876698	1	0
+259775	Raine Syndrome	epithelial cell	-0.309663178424735	1	0
+259775	Raine Syndrome	fibroblast	2.61899358400641	1	1
+259775	Raine Syndrome	immune cell	-0.539255496849591	1	0
+259775	Raine Syndrome	keratinocyte	-0.3682005650453711	1	0
+259775	Raine Syndrome	pericyte cell	1.34380063825292	1	0
+259775	Raine Syndrome	schwann cell	-0.0474335601066167	1	0
+259775	Raine Syndrome	tongue muscle cell	-0.622634015492986	1	0
+259775	Raine Syndrome	vein endothelial cell	-0.6520017438428299	1	0
+260660	Pelviscapular Dysplasia	basal cell	-0.46719414561060296	1	0
+260660	Pelviscapular Dysplasia	capillary endothelial cell	-0.468571679309524	1	0
+260660	Pelviscapular Dysplasia	endothelial cell of artery	-0.468571679309524	1	0
+260660	Pelviscapular Dysplasia	endothelial cell of lymphatic vessel	-0.468571679309524	1	0
+260660	Pelviscapular Dysplasia	epithelial cell	-0.441248814695915	1	0
+260660	Pelviscapular Dysplasia	fibroblast	-0.0648459287663783	1	0
+260660	Pelviscapular Dysplasia	immune cell	-0.468571679309524	1	0
+260660	Pelviscapular Dysplasia	keratinocyte	-0.467438958567405	1	0
+260660	Pelviscapular Dysplasia	pericyte cell	2.0688735236954	1	1
+260660	Pelviscapular Dysplasia	schwann cell	-0.468571679309524	1	0
+260660	Pelviscapular Dysplasia	tongue muscle cell	2.1832843998020404	1	1
+260660	Pelviscapular Dysplasia	vein endothelial cell	-0.468571679309524	1	0
+261740	Glycogen Storage Disease Of Heart, Lethal Congenital	basal cell	-0.8433197860287379	1	0
+261740	Glycogen Storage Disease Of Heart, Lethal Congenital	capillary endothelial cell	-0.745060023391875	1	0
+261740	Glycogen Storage Disease Of Heart, Lethal Congenital	endothelial cell of artery	-0.5835811817575589	1	0
+261740	Glycogen Storage Disease Of Heart, Lethal Congenital	endothelial cell of lymphatic vessel	1.3078329634271397	1	0
+261740	Glycogen Storage Disease Of Heart, Lethal Congenital	epithelial cell	-1.04598574511477	1	0
+261740	Glycogen Storage Disease Of Heart, Lethal Congenital	fibroblast	1.73445770985573	1	0
+261740	Glycogen Storage Disease Of Heart, Lethal Congenital	immune cell	0.6679038590002521	1	0
+261740	Glycogen Storage Disease Of Heart, Lethal Congenital	keratinocyte	-1.1862817565873998	1	0
+261740	Glycogen Storage Disease Of Heart, Lethal Congenital	pericyte cell	0.320461622558682	1	0
+261740	Glycogen Storage Disease Of Heart, Lethal Congenital	schwann cell	-0.739953287654658	1	0
+261740	Glycogen Storage Disease Of Heart, Lethal Congenital	tongue muscle cell	0.0788939145150596	1	0
+261740	Glycogen Storage Disease Of Heart, Lethal Congenital	vein endothelial cell	1.03463171117813	1	0
+PS208500	Short-rib thoracic dysplasia	basal cell	-0.3232781251183815	4	0
+PS208500	Short-rib thoracic dysplasia	capillary endothelial cell	-0.2818583509556602	4	0
+PS208500	Short-rib thoracic dysplasia	endothelial cell of artery	0.19929869831880181	4	0
+PS208500	Short-rib thoracic dysplasia	endothelial cell of lymphatic vessel	0.22431782333352088	4	0
+PS208500	Short-rib thoracic dysplasia	epithelial cell	-1.03791698515995	4	0
+PS208500	Short-rib thoracic dysplasia	fibroblast	0.45585506243306206	4	0
+PS208500	Short-rib thoracic dysplasia	immune cell	-0.583620530569902	4	0
+PS208500	Short-rib thoracic dysplasia	keratinocyte	-0.9900369644228211	4	0
+PS208500	Short-rib thoracic dysplasia	pericyte cell	0.26732644304114284	4	0
+PS208500	Short-rib thoracic dysplasia	schwann cell	0.4874618663524114	4	0
+PS208500	Short-rib thoracic dysplasia	tongue muscle cell	-0.0486613954120235	4	0
+PS208500	Short-rib thoracic dysplasia	vein endothelial cell	0.32662789995257546	4	0
+268800	Sandhoff Disease	basal cell	-1.17092155117628	1	0
+268800	Sandhoff Disease	capillary endothelial cell	0.0479966704966769	1	0
+268800	Sandhoff Disease	endothelial cell of artery	0.273105804812323	1	0
+268800	Sandhoff Disease	endothelial cell of lymphatic vessel	1.21829032855068	1	0
+268800	Sandhoff Disease	epithelial cell	-0.890539641217489	1	0
+268800	Sandhoff Disease	fibroblast	1.08722452608801	1	0
+268800	Sandhoff Disease	immune cell	-0.0394897568363725	1	0
+268800	Sandhoff Disease	keratinocyte	-1.3412716849486899	1	0
+268800	Sandhoff Disease	pericyte cell	-0.586419749965037	1	0
+268800	Sandhoff Disease	schwann cell	1.8055803727948099	1	0
+268800	Sandhoff Disease	tongue muscle cell	-0.7525483400490941	1	0
+268800	Sandhoff Disease	vein endothelial cell	0.34899302145046396	1	0
+269150	Schinzel-giedion Midface-retraction Syndrome	basal cell	-0.49533126386398607	1	0
+269150	Schinzel-giedion Midface-retraction Syndrome	capillary endothelial cell	-0.567653607043456	1	0
+269150	Schinzel-giedion Midface-retraction Syndrome	endothelial cell of artery	0.7252528910357121	1	0
+269150	Schinzel-giedion Midface-retraction Syndrome	endothelial cell of lymphatic vessel	0.00253745231553249	1	0
+269150	Schinzel-giedion Midface-retraction Syndrome	epithelial cell	-0.684180359285897	1	0
+269150	Schinzel-giedion Midface-retraction Syndrome	fibroblast	1.42203789464533	1	0
+269150	Schinzel-giedion Midface-retraction Syndrome	immune cell	-0.640803386139247	1	0
+269150	Schinzel-giedion Midface-retraction Syndrome	keratinocyte	-0.5184059337629671	1	0
+269150	Schinzel-giedion Midface-retraction Syndrome	pericyte cell	2.3988265809107996	1	1
+269150	Schinzel-giedion Midface-retraction Syndrome	schwann cell	-0.7446594587793041	1	0
+269150	Schinzel-giedion Midface-retraction Syndrome	tongue muscle cell	-0.560617522423986	1	0
+269150	Schinzel-giedion Midface-retraction Syndrome	vein endothelial cell	-0.33700328760853104	1	0
+270400	Smith-lemli-opitz Syndrome	basal cell	0.44157686470619	1	0
+270400	Smith-lemli-opitz Syndrome	capillary endothelial cell	-0.36201910858730396	1	0
+270400	Smith-lemli-opitz Syndrome	endothelial cell of artery	-1.2002835953018403	1	0
+270400	Smith-lemli-opitz Syndrome	endothelial cell of lymphatic vessel	-0.0718359683644991	1	0
+270400	Smith-lemli-opitz Syndrome	epithelial cell	0.4954043382220639	1	0
+270400	Smith-lemli-opitz Syndrome	fibroblast	-0.767297806727629	1	0
+270400	Smith-lemli-opitz Syndrome	immune cell	-0.152598464559473	1	0
+270400	Smith-lemli-opitz Syndrome	keratinocyte	2.41643116402134	1	1
+270400	Smith-lemli-opitz Syndrome	pericyte cell	-0.919194398282682	1	0
+270400	Smith-lemli-opitz Syndrome	schwann cell	1.09387472007604	1	0
+270400	Smith-lemli-opitz Syndrome	tongue muscle cell	-0.5754573384498299	1	0
+270400	Smith-lemli-opitz Syndrome	vein endothelial cell	-0.39860040675238	1	0
+277380	Methylmalonic Aciduria And Homocystinuria, Cblf Type	basal cell	-1.05381105193821	1	0
+277380	Methylmalonic Aciduria And Homocystinuria, Cblf Type	capillary endothelial cell	-0.30238948690095696	1	0
+277380	Methylmalonic Aciduria And Homocystinuria, Cblf Type	endothelial cell of artery	1.7161874410882199	1	0
+277380	Methylmalonic Aciduria And Homocystinuria, Cblf Type	endothelial cell of lymphatic vessel	0.00330882620376913	1	0
+277380	Methylmalonic Aciduria And Homocystinuria, Cblf Type	epithelial cell	-1.22571874908008	1	0
+277380	Methylmalonic Aciduria And Homocystinuria, Cblf Type	fibroblast	0.9604090440891909	1	0
+277380	Methylmalonic Aciduria And Homocystinuria, Cblf Type	immune cell	0.24620252714870103	1	0
+277380	Methylmalonic Aciduria And Homocystinuria, Cblf Type	keratinocyte	-1.4063059697342102	1	0
+277380	Methylmalonic Aciduria And Homocystinuria, Cblf Type	pericyte cell	-0.0050187157673231295	1	0
+277380	Methylmalonic Aciduria And Homocystinuria, Cblf Type	schwann cell	1.48388310191925	1	0
+277380	Methylmalonic Aciduria And Homocystinuria, Cblf Type	tongue muscle cell	-0.43295661969376104	1	0
+277380	Methylmalonic Aciduria And Homocystinuria, Cblf Type	vein endothelial cell	0.0162096526654033	1	0
+PS309510	Mental retardation, X-linked syndromic	basal cell	0.11412439764737109	2	0
+PS309510	Mental retardation, X-linked syndromic	capillary endothelial cell	-0.12241732158228896	2	0
+PS309510	Mental retardation, X-linked syndromic	endothelial cell of artery	1.4936730326559915	2	0
+PS309510	Mental retardation, X-linked syndromic	endothelial cell of lymphatic vessel	1.1012166667619125	2	0
+PS309510	Mental retardation, X-linked syndromic	epithelial cell	-0.518042057405699	2	0
+PS309510	Mental retardation, X-linked syndromic	fibroblast	-0.49035895948056757	2	0
+PS309510	Mental retardation, X-linked syndromic	immune cell	0.28742811906476307	2	0
+PS309510	Mental retardation, X-linked syndromic	keratinocyte	-0.6807026921920125	2	0
+PS309510	Mental retardation, X-linked syndromic	pericyte cell	-0.18694318604234358	2	0
+PS309510	Mental retardation, X-linked syndromic	schwann cell	0.21339910782332494	2	0
+PS309510	Mental retardation, X-linked syndromic	tongue muscle cell	-1.192458371292425	2	0
+PS309510	Mental retardation, X-linked syndromic	vein endothelial cell	-0.018918735958025998	2	0
+PS220210	Ritscher-Schinzel syndrome	basal cell	-0.678518260315917	1	0
+PS220210	Ritscher-Schinzel syndrome	capillary endothelial cell	-0.770386720288928	1	0
+PS220210	Ritscher-Schinzel syndrome	endothelial cell of artery	1.27970912232948	1	0
+PS220210	Ritscher-Schinzel syndrome	endothelial cell of lymphatic vessel	0.415941201226107	1	0
+PS220210	Ritscher-Schinzel syndrome	epithelial cell	-0.281229643272096	1	0
+PS220210	Ritscher-Schinzel syndrome	fibroblast	-0.6869638069999321	1	0
+PS220210	Ritscher-Schinzel syndrome	immune cell	-0.051041005977635	1	0
+PS220210	Ritscher-Schinzel syndrome	keratinocyte	-0.129702924496832	1	0
+PS220210	Ritscher-Schinzel syndrome	pericyte cell	-1.0078282019083	1	0
+PS220210	Ritscher-Schinzel syndrome	schwann cell	0.9286660123977271	1	0
+PS220210	Ritscher-Schinzel syndrome	tongue muscle cell	2.10395809147479	1	1
+PS220210	Ritscher-Schinzel syndrome	vein endothelial cell	-1.12260386416845	1	0
+301040	Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked	basal cell	-0.5109083663382321	1	0
+301040	Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked	capillary endothelial cell	1.2698031138694	1	0
+301040	Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked	endothelial cell of artery	1.5669995675194401	1	0
+301040	Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked	endothelial cell of lymphatic vessel	-0.15869787788411902	1	0
+301040	Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked	epithelial cell	-1.65842154821379	1	0
+301040	Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked	fibroblast	-0.0263388217529298	1	0
+301040	Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked	immune cell	0.52791055044503	1	0
+301040	Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked	keratinocyte	-1.37446810989665	1	0
+301040	Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked	pericyte cell	0.44720707728179904	1	0
+301040	Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked	schwann cell	-0.3424186707346711	1	0
+301040	Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked	tongue muscle cell	-0.699827457110195	1	0
+301040	Alpha-thalassemia/mental Retardation Syndrome, Nondeletion Type, X-linked	vein endothelial cell	0.9591605428149208	1	0
+301830	Spinal Muscular Atrophy, X-linked 2	basal cell	0.168814916194983	1	0
+301830	Spinal Muscular Atrophy, X-linked 2	capillary endothelial cell	-0.5018660602034161	1	0
+301830	Spinal Muscular Atrophy, X-linked 2	endothelial cell of artery	-0.792753828769003	1	0
+301830	Spinal Muscular Atrophy, X-linked 2	endothelial cell of lymphatic vessel	-0.00964104271450126	1	0
+301830	Spinal Muscular Atrophy, X-linked 2	epithelial cell	0.10296418501347801	1	0
+301830	Spinal Muscular Atrophy, X-linked 2	fibroblast	-0.28536616318034197	1	0
+301830	Spinal Muscular Atrophy, X-linked 2	immune cell	-0.407863823761289	1	0
+301830	Spinal Muscular Atrophy, X-linked 2	keratinocyte	0.204003449404756	1	0
+301830	Spinal Muscular Atrophy, X-linked 2	pericyte cell	-0.191542318268835	1	0
+301830	Spinal Muscular Atrophy, X-linked 2	schwann cell	2.95802238031514	1	1
+301830	Spinal Muscular Atrophy, X-linked 2	tongue muscle cell	-0.961326457671721	1	0
+301830	Spinal Muscular Atrophy, X-linked 2	vein endothelial cell	-0.28344523635925	1	0
+309580	Mental Retardation-hypotonic Facies Syndrome, X-linked, 1	basal cell	-0.5109083663382321	1	0
+309580	Mental Retardation-hypotonic Facies Syndrome, X-linked, 1	capillary endothelial cell	1.2698031138694	1	0
+309580	Mental Retardation-hypotonic Facies Syndrome, X-linked, 1	endothelial cell of artery	1.5669995675194401	1	0
+309580	Mental Retardation-hypotonic Facies Syndrome, X-linked, 1	endothelial cell of lymphatic vessel	-0.15869787788411902	1	0
+309580	Mental Retardation-hypotonic Facies Syndrome, X-linked, 1	epithelial cell	-1.65842154821379	1	0
+309580	Mental Retardation-hypotonic Facies Syndrome, X-linked, 1	fibroblast	-0.0263388217529298	1	0
+309580	Mental Retardation-hypotonic Facies Syndrome, X-linked, 1	immune cell	0.52791055044503	1	0
+309580	Mental Retardation-hypotonic Facies Syndrome, X-linked, 1	keratinocyte	-1.37446810989665	1	0
+309580	Mental Retardation-hypotonic Facies Syndrome, X-linked, 1	pericyte cell	0.44720707728179904	1	0
+309580	Mental Retardation-hypotonic Facies Syndrome, X-linked, 1	schwann cell	-0.3424186707346711	1	0
+309580	Mental Retardation-hypotonic Facies Syndrome, X-linked, 1	tongue muscle cell	-0.699827457110195	1	0
+309580	Mental Retardation-hypotonic Facies Syndrome, X-linked, 1	vein endothelial cell	0.9591605428149208	1	0
+311900	Tarp Syndrome	basal cell	0.549917765175116	1	0
+311900	Tarp Syndrome	capillary endothelial cell	0.14429422950429	1	0
+311900	Tarp Syndrome	endothelial cell of artery	-1.48255194136973	1	0
+311900	Tarp Syndrome	endothelial cell of lymphatic vessel	0.0785739833758958	1	0
+311900	Tarp Syndrome	epithelial cell	-0.594127080791921	1	0
+311900	Tarp Syndrome	fibroblast	0.374776182334999	1	0
+311900	Tarp Syndrome	immune cell	-0.19219832840297305	1	0
+311900	Tarp Syndrome	keratinocyte	-0.11640611796445	1	0
+311900	Tarp Syndrome	pericyte cell	-0.0532933095741442	1	0
+311900	Tarp Syndrome	schwann cell	-1.36075575219553	1	0
+311900	Tarp Syndrome	tongue muscle cell	0.19489860256328698	1	0
+311900	Tarp Syndrome	vein endothelial cell	2.4568717673451697	1	1
+312870	Simpson-golabi-behmel Syndrome, Type 1	basal cell	-0.360733456912432	1	0
+312870	Simpson-golabi-behmel Syndrome, Type 1	capillary endothelial cell	-0.3736661341797	1	0
+312870	Simpson-golabi-behmel Syndrome, Type 1	endothelial cell of artery	-0.38685926436732204	1	0
+312870	Simpson-golabi-behmel Syndrome, Type 1	endothelial cell of lymphatic vessel	-0.38685926436732204	1	0
+312870	Simpson-golabi-behmel Syndrome, Type 1	epithelial cell	-0.31095548793712896	1	0
+312870	Simpson-golabi-behmel Syndrome, Type 1	fibroblast	3.09502936181323	1	1
+312870	Simpson-golabi-behmel Syndrome, Type 1	immune cell	-0.38357702716373804	1	0
+312870	Simpson-golabi-behmel Syndrome, Type 1	keratinocyte	-0.38280019584129205	1	0
+312870	Simpson-golabi-behmel Syndrome, Type 1	pericyte cell	0.38421308388405395	1	0
+312870	Simpson-golabi-behmel Syndrome, Type 1	schwann cell	-0.120073086193702	1	0
+312870	Simpson-golabi-behmel Syndrome, Type 1	tongue muscle cell	-0.38685926436732204	1	0
+312870	Simpson-golabi-behmel Syndrome, Type 1	vein endothelial cell	-0.38685926436732204	1	0
+601559	Stuve-wiedemann Syndrome	basal cell	-0.60389094015258	1	0
+601559	Stuve-wiedemann Syndrome	capillary endothelial cell	1.18630225997725	1	0
+601559	Stuve-wiedemann Syndrome	endothelial cell of artery	0.895714817947704	1	0
+601559	Stuve-wiedemann Syndrome	endothelial cell of lymphatic vessel	-0.30716550683098603	1	0
+601559	Stuve-wiedemann Syndrome	epithelial cell	-0.553825487816308	1	0
+601559	Stuve-wiedemann Syndrome	fibroblast	-0.5311988487831789	1	0
+601559	Stuve-wiedemann Syndrome	immune cell	-0.606393793083773	1	0
+601559	Stuve-wiedemann Syndrome	keratinocyte	-0.614556877904629	1	0
+601559	Stuve-wiedemann Syndrome	pericyte cell	-0.44336061253252	1	0
+601559	Stuve-wiedemann Syndrome	schwann cell	-0.493925392902618	1	0
+601559	Stuve-wiedemann Syndrome	tongue muscle cell	-0.44865840892007397	1	0
+601559	Stuve-wiedemann Syndrome	vein endothelial cell	2.52095879100171	1	1
+602361	Gracile Bone Dysplasia	basal cell	-0.52090194403007	1	0
+602361	Gracile Bone Dysplasia	capillary endothelial cell	0.41663079922090596	1	0
+602361	Gracile Bone Dysplasia	endothelial cell of artery	1.2288581108738001	1	0
+602361	Gracile Bone Dysplasia	endothelial cell of lymphatic vessel	-0.21897428058925403	1	0
+602361	Gracile Bone Dysplasia	epithelial cell	-1.02371541177536	1	0
+602361	Gracile Bone Dysplasia	fibroblast	-0.483140850627871	1	0
+602361	Gracile Bone Dysplasia	immune cell	0.611018365541157	1	0
+602361	Gracile Bone Dysplasia	keratinocyte	-1.09241289455033	1	0
+602361	Gracile Bone Dysplasia	pericyte cell	-0.359868075517485	1	0
+602361	Gracile Bone Dysplasia	schwann cell	1.9764200205958997	1	0
+602361	Gracile Bone Dysplasia	tongue muscle cell	-1.2595890581708502	1	0
+602361	Gracile Bone Dysplasia	vein endothelial cell	0.7256752190294521	1	0
+PS602483	Auriculocondylar syndrome	basal cell	-0.452871900717367	3	0
+PS602483	Auriculocondylar syndrome	capillary endothelial cell	0.5410823494938249	3	0
+PS602483	Auriculocondylar syndrome	endothelial cell of artery	1.9327807312208	3	0
+PS602483	Auriculocondylar syndrome	endothelial cell of lymphatic vessel	0.401732872643317	3	0
+PS602483	Auriculocondylar syndrome	epithelial cell	-0.610471936886543	3	0
+PS602483	Auriculocondylar syndrome	fibroblast	-0.5193307585940939	3	0
+PS602483	Auriculocondylar syndrome	immune cell	-0.7108850636232551	3	0
+PS602483	Auriculocondylar syndrome	keratinocyte	-0.568834260479617	3	0
+PS602483	Auriculocondylar syndrome	pericyte cell	-0.31064144559085904	3	0
+PS602483	Auriculocondylar syndrome	schwann cell	-0.7424000497953291	3	0
+PS602483	Auriculocondylar syndrome	tongue muscle cell	-0.8071368582635049	3	0
+PS602483	Auriculocondylar syndrome	vein endothelial cell	0.881995395349001	3	0
+602535	Marshall-smith Syndrome	basal cell	0.0162346060071081	1	0
+602535	Marshall-smith Syndrome	capillary endothelial cell	-0.868553075077915	1	0
+602535	Marshall-smith Syndrome	endothelial cell of artery	-0.25462715344573	1	0
+602535	Marshall-smith Syndrome	endothelial cell of lymphatic vessel	0.46923120303821103	1	0
+602535	Marshall-smith Syndrome	epithelial cell	-0.6177603871891459	1	0
+602535	Marshall-smith Syndrome	fibroblast	2.1661017507447298	1	1
+602535	Marshall-smith Syndrome	immune cell	-1.2185964589057299	1	0
+602535	Marshall-smith Syndrome	keratinocyte	-0.49869734522885906	1	0
+602535	Marshall-smith Syndrome	pericyte cell	0.264875267282977	1	0
+602535	Marshall-smith Syndrome	schwann cell	0.399473122267116	1	0
+602535	Marshall-smith Syndrome	tongue muscle cell	1.27805050327505	1	0
+602535	Marshall-smith Syndrome	vein endothelial cell	-1.13573203276781	1	0
+606353	Primary Lateral Sclerosis, Juvenile	basal cell	-0.502895092793349	1	0
+606353	Primary Lateral Sclerosis, Juvenile	capillary endothelial cell	2.61862889578423	1	1
+606353	Primary Lateral Sclerosis, Juvenile	endothelial cell of artery	0.5830499517302551	1	0
+606353	Primary Lateral Sclerosis, Juvenile	endothelial cell of lymphatic vessel	-0.735755474532567	1	0
+606353	Primary Lateral Sclerosis, Juvenile	epithelial cell	-0.7285669826173771	1	0
+606353	Primary Lateral Sclerosis, Juvenile	fibroblast	-0.17398300360069902	1	0
+606353	Primary Lateral Sclerosis, Juvenile	immune cell	-0.493570828866096	1	0
+606353	Primary Lateral Sclerosis, Juvenile	keratinocyte	-0.8254910863192131	1	0
+606353	Primary Lateral Sclerosis, Juvenile	pericyte cell	-0.49630856198388	1	0
+606353	Primary Lateral Sclerosis, Juvenile	schwann cell	0.9063812704246341	1	0
+606353	Primary Lateral Sclerosis, Juvenile	tongue muscle cell	-0.546459196581968	1	0
+606353	Primary Lateral Sclerosis, Juvenile	vein endothelial cell	0.394970109356035	1	0
+PS613155	Muscular dystrophy-dystroglycanopathy, type B	basal cell	-0.629518276018157	1	0
+PS613155	Muscular dystrophy-dystroglycanopathy, type B	capillary endothelial cell	0.5506954126033771	1	0
+PS613155	Muscular dystrophy-dystroglycanopathy, type B	endothelial cell of artery	-0.671824542567895	1	0
+PS613155	Muscular dystrophy-dystroglycanopathy, type B	endothelial cell of lymphatic vessel	1.36922753837302	1	0
+PS613155	Muscular dystrophy-dystroglycanopathy, type B	epithelial cell	-0.9510077013216729	1	0
+PS613155	Muscular dystrophy-dystroglycanopathy, type B	fibroblast	-0.257618880058208	1	0
+PS613155	Muscular dystrophy-dystroglycanopathy, type B	immune cell	-0.877960753722004	1	0
+PS613155	Muscular dystrophy-dystroglycanopathy, type B	keratinocyte	-1.06326625003489	1	0
+PS613155	Muscular dystrophy-dystroglycanopathy, type B	pericyte cell	1.4779000942126101	1	0
+PS613155	Muscular dystrophy-dystroglycanopathy, type B	schwann cell	1.6534648089063	1	0
+PS613155	Muscular dystrophy-dystroglycanopathy, type B	tongue muscle cell	-0.34469020309738	1	0
+PS613155	Muscular dystrophy-dystroglycanopathy, type B	vein endothelial cell	-0.25540124727509805	1	0
+PS210600	Seckel syndrome	basal cell	1.8125376302230098	1	0
+PS210600	Seckel syndrome	capillary endothelial cell	-0.47712845191635794	1	0
+PS210600	Seckel syndrome	endothelial cell of artery	1.74999757883158	1	0
+PS210600	Seckel syndrome	endothelial cell of lymphatic vessel	-0.788223954733535	1	0
+PS210600	Seckel syndrome	epithelial cell	-0.582624935129532	1	0
+PS210600	Seckel syndrome	fibroblast	-0.128928579192239	1	0
+PS210600	Seckel syndrome	immune cell	0.345806050914814	1	0
+PS210600	Seckel syndrome	keratinocyte	-0.504475441612227	1	0
+PS210600	Seckel syndrome	pericyte cell	-0.1362394905428	1	0
+PS210600	Seckel syndrome	schwann cell	-0.8039258988753291	1	0
+PS210600	Seckel syndrome	tongue muscle cell	-1.31339096071739	1	0
+PS210600	Seckel syndrome	vein endothelial cell	0.826596452750007	1	0
+PS253600	Muscular dystrophy, limb-girdle, autosomal recessive	basal cell	-0.63840701785221	1	0
+PS253600	Muscular dystrophy, limb-girdle, autosomal recessive	capillary endothelial cell	1.46173554429574	1	0
+PS253600	Muscular dystrophy, limb-girdle, autosomal recessive	endothelial cell of artery	1.9338869715496698	1	0
+PS253600	Muscular dystrophy, limb-girdle, autosomal recessive	endothelial cell of lymphatic vessel	-0.44791481581587395	1	0
+PS253600	Muscular dystrophy, limb-girdle, autosomal recessive	epithelial cell	-0.5896651300885121	1	0
+PS253600	Muscular dystrophy, limb-girdle, autosomal recessive	fibroblast	-0.604155021301997	1	0
+PS253600	Muscular dystrophy, limb-girdle, autosomal recessive	immune cell	-0.6055312801955821	1	0
+PS253600	Muscular dystrophy, limb-girdle, autosomal recessive	keratinocyte	-0.6428466171901059	1	0
+PS253600	Muscular dystrophy, limb-girdle, autosomal recessive	pericyte cell	-0.0515442995763224	1	0
+PS253600	Muscular dystrophy, limb-girdle, autosomal recessive	schwann cell	-0.646638387808626	1	0
+PS253600	Muscular dystrophy, limb-girdle, autosomal recessive	tongue muscle cell	-0.646638387808626	1	0
+PS253600	Muscular dystrophy, limb-girdle, autosomal recessive	vein endothelial cell	1.47771844179245	1	0
+PS309800	Microphthalmia, syndromic	basal cell	-0.378669751045216	1	0
+PS309800	Microphthalmia, syndromic	capillary endothelial cell	0.338678691241239	1	0
+PS309800	Microphthalmia, syndromic	endothelial cell of artery	0.158787650535285	1	0
+PS309800	Microphthalmia, syndromic	endothelial cell of lymphatic vessel	-0.481609665802024	1	0
+PS309800	Microphthalmia, syndromic	epithelial cell	-0.73597730592048	1	0
+PS309800	Microphthalmia, syndromic	fibroblast	1.74896642103823	1	0
+PS309800	Microphthalmia, syndromic	immune cell	-0.8506030019729051	1	0
+PS309800	Microphthalmia, syndromic	keratinocyte	-0.8376371237203158	1	0
+PS309800	Microphthalmia, syndromic	pericyte cell	-0.479154165565052	1	0
+PS309800	Microphthalmia, syndromic	schwann cell	-0.8979163233911899	1	0
+PS309800	Microphthalmia, syndromic	tongue muscle cell	0.33959347550552005	1	0
+PS309800	Microphthalmia, syndromic	vein endothelial cell	2.07554109909691	1	1
+608800	Sudden Infant Death With Dysgenesis Of The Testes Syndrome	basal cell	-0.327231387687192	1	0
+608800	Sudden Infant Death With Dysgenesis Of The Testes Syndrome	capillary endothelial cell	-1.0758737662788	1	0
+608800	Sudden Infant Death With Dysgenesis Of The Testes Syndrome	endothelial cell of artery	-1.40941356436834	1	0
+608800	Sudden Infant Death With Dysgenesis Of The Testes Syndrome	endothelial cell of lymphatic vessel	0.279534406306781	1	0
+608800	Sudden Infant Death With Dysgenesis Of The Testes Syndrome	epithelial cell	-0.399484010340159	1	0
+608800	Sudden Infant Death With Dysgenesis Of The Testes Syndrome	fibroblast	-0.38459411024896795	1	0
+608800	Sudden Infant Death With Dysgenesis Of The Testes Syndrome	immune cell	1.29582367637655	1	0
+608800	Sudden Infant Death With Dysgenesis Of The Testes Syndrome	keratinocyte	-0.709385462084652	1	0
+608800	Sudden Infant Death With Dysgenesis Of The Testes Syndrome	pericyte cell	1.29988415735999	1	0
+608800	Sudden Infant Death With Dysgenesis Of The Testes Syndrome	schwann cell	1.7855172723828	1	0
+608800	Sudden Infant Death With Dysgenesis Of The Testes Syndrome	tongue muscle cell	0.169193385006263	1	0
+608800	Sudden Infant Death With Dysgenesis Of The Testes Syndrome	vein endothelial cell	-0.523970596424275	1	0
+PS156200	Mental retardation, autosomal dominant	basal cell	0.42146433055372	4	0
+PS156200	Mental retardation, autosomal dominant	capillary endothelial cell	-0.048037525544756515	4	0
+PS156200	Mental retardation, autosomal dominant	endothelial cell of artery	0.5369113542257701	4	0
+PS156200	Mental retardation, autosomal dominant	endothelial cell of lymphatic vessel	-0.41148102738478	4	0
+PS156200	Mental retardation, autosomal dominant	epithelial cell	-1.149024889358695	4	0
+PS156200	Mental retardation, autosomal dominant	fibroblast	-0.659381293024554	4	0
+PS156200	Mental retardation, autosomal dominant	immune cell	0.0946734726218755	4	0
+PS156200	Mental retardation, autosomal dominant	keratinocyte	-0.6323245898960269	4	0
+PS156200	Mental retardation, autosomal dominant	pericyte cell	0.871791630193287	4	0
+PS156200	Mental retardation, autosomal dominant	schwann cell	0.5243718104492965	4	0
+PS156200	Mental retardation, autosomal dominant	tongue muscle cell	-1.4047588041554553	4	0
+PS156200	Mental retardation, autosomal dominant	vein endothelial cell	0.0831626857861069	4	0
+PS610253	Kleefstra syndrome	basal cell	0.533684272353811	1	0
+PS610253	Kleefstra syndrome	capillary endothelial cell	1.33410400406379	1	0
+PS610253	Kleefstra syndrome	endothelial cell of artery	0.183353135806298	1	0
+PS610253	Kleefstra syndrome	endothelial cell of lymphatic vessel	-0.49374257733898796	1	0
+PS610253	Kleefstra syndrome	epithelial cell	-1.27322076188133	1	0
+PS610253	Kleefstra syndrome	fibroblast	0.015804877606873997	1	0
+PS610253	Kleefstra syndrome	immune cell	0.356688096882668	1	0
+PS610253	Kleefstra syndrome	keratinocyte	-0.8071100776855649	1	0
+PS610253	Kleefstra syndrome	pericyte cell	0.8218053382835769	1	0
+PS610253	Kleefstra syndrome	schwann cell	-0.131469135385507	1	0
+PS610253	Kleefstra syndrome	tongue muscle cell	-1.9160896638362102	1	0
+PS610253	Kleefstra syndrome	vein endothelial cell	1.37619249113059	1	0
+612289	Fontaine Progeroid Syndrome	basal cell	-1.124146891609	1	0
+612289	Fontaine Progeroid Syndrome	capillary endothelial cell	0.9241180105457909	1	0
+612289	Fontaine Progeroid Syndrome	endothelial cell of artery	0.0342583546470309	1	0
+612289	Fontaine Progeroid Syndrome	endothelial cell of lymphatic vessel	0.469943203316591	1	0
+612289	Fontaine Progeroid Syndrome	epithelial cell	-1.28009487405841	1	0
+612289	Fontaine Progeroid Syndrome	fibroblast	0.0172472867122228	1	0
+612289	Fontaine Progeroid Syndrome	immune cell	0.120435929751742	1	0
+612289	Fontaine Progeroid Syndrome	keratinocyte	-1.9836090296542999	1	0
+612289	Fontaine Progeroid Syndrome	pericyte cell	-0.0870651307611523	1	0
+612289	Fontaine Progeroid Syndrome	schwann cell	0.602689756690691	1	0
+612289	Fontaine Progeroid Syndrome	tongue muscle cell	1.0082306392056	1	0
+612289	Fontaine Progeroid Syndrome	vein endothelial cell	1.2979927452131899	1	0
+612938	Growth Retardation, Developmental Delay, Coarse Facies, And Early	basal cell	-0.8300182433083871	1	0
+612938	Growth Retardation, Developmental Delay, Coarse Facies, And Early	capillary endothelial cell	-0.546790139128506	1	0
+612938	Growth Retardation, Developmental Delay, Coarse Facies, And Early	endothelial cell of artery	1.8654069734201597	1	0
+612938	Growth Retardation, Developmental Delay, Coarse Facies, And Early	endothelial cell of lymphatic vessel	-0.544952037996154	1	0
+612938	Growth Retardation, Developmental Delay, Coarse Facies, And Early	epithelial cell	-1.0995115805243	1	0
+612938	Growth Retardation, Developmental Delay, Coarse Facies, And Early	fibroblast	0.77322659653766	1	0
+612938	Growth Retardation, Developmental Delay, Coarse Facies, And Early	immune cell	-0.511791859785553	1	0
+612938	Growth Retardation, Developmental Delay, Coarse Facies, And Early	keratinocyte	-1.09720462186579	1	0
+612938	Growth Retardation, Developmental Delay, Coarse Facies, And Early	pericyte cell	-0.384517949803338	1	0
+612938	Growth Retardation, Developmental Delay, Coarse Facies, And Early	schwann cell	1.5498872929075	1	0
+612938	Growth Retardation, Developmental Delay, Coarse Facies, And Early	tongue muscle cell	0.602101451347223	1	0
+612938	Growth Retardation, Developmental Delay, Coarse Facies, And Early	vein endothelial cell	0.22416411819948498	1	0
+PS164400	Spinocerebellar ataxia	basal cell	0.8117225136726421	1	0
+PS164400	Spinocerebellar ataxia	capillary endothelial cell	-0.6583719373975621	1	0
+PS164400	Spinocerebellar ataxia	endothelial cell of artery	-0.15752209252124402	1	0
+PS164400	Spinocerebellar ataxia	endothelial cell of lymphatic vessel	-1.07671955440354	1	0
+PS164400	Spinocerebellar ataxia	epithelial cell	-1.00107877606909	1	0
+PS164400	Spinocerebellar ataxia	fibroblast	-0.17510060873149202	1	0
+PS164400	Spinocerebellar ataxia	immune cell	0.32258039728218796	1	0
+PS164400	Spinocerebellar ataxia	keratinocyte	-1.35366873920098	1	0
+PS164400	Spinocerebellar ataxia	pericyte cell	-0.5205508124672171	1	0
+PS164400	Spinocerebellar ataxia	schwann cell	1.3561703206142801	1	0
+PS164400	Spinocerebellar ataxia	tongue muscle cell	1.79043853228479	1	0
+PS164400	Spinocerebellar ataxia	vein endothelial cell	0.662100756937235	1	0
+614325	Pitt-hopkins-like Syndrome 2	basal cell	-0.28705551072061897	1	0
+614325	Pitt-hopkins-like Syndrome 2	capillary endothelial cell	-0.289932218706551	1	0
+614325	Pitt-hopkins-like Syndrome 2	endothelial cell of artery	-0.289932218706551	1	0
+614325	Pitt-hopkins-like Syndrome 2	endothelial cell of lymphatic vessel	-0.289932218706551	1	0
+614325	Pitt-hopkins-like Syndrome 2	epithelial cell	-0.28953377709210304	1	0
+614325	Pitt-hopkins-like Syndrome 2	fibroblast	-0.281734769779867	1	0
+614325	Pitt-hopkins-like Syndrome 2	immune cell	-0.289424897277372	1	0
+614325	Pitt-hopkins-like Syndrome 2	keratinocyte	-0.288075274213882	1	0
+614325	Pitt-hopkins-like Syndrome 2	pericyte cell	-0.289932218706551	1	0
+614325	Pitt-hopkins-like Syndrome 2	schwann cell	3.17541754132315	1	1
+614325	Pitt-hopkins-like Syndrome 2	tongue muscle cell	-0.289932218706551	1	0
+614325	Pitt-hopkins-like Syndrome 2	vein endothelial cell	-0.289932218706551	1	0
+614501	Psychomotor Retardation, Epilepsy, And Craniofacial Dysmorphism	basal cell	0.227013181873126	1	0
+614501	Psychomotor Retardation, Epilepsy, And Craniofacial Dysmorphism	capillary endothelial cell	0.9388389763774609	1	0
+614501	Psychomotor Retardation, Epilepsy, And Craniofacial Dysmorphism	endothelial cell of artery	0.541822208388687	1	0
+614501	Psychomotor Retardation, Epilepsy, And Craniofacial Dysmorphism	endothelial cell of lymphatic vessel	0.255978730202386	1	0
+614501	Psychomotor Retardation, Epilepsy, And Craniofacial Dysmorphism	epithelial cell	-1.03340801861074	1	0
+614501	Psychomotor Retardation, Epilepsy, And Craniofacial Dysmorphism	fibroblast	0.938488196768162	1	0
+614501	Psychomotor Retardation, Epilepsy, And Craniofacial Dysmorphism	immune cell	1.05501628307584	1	0
+614501	Psychomotor Retardation, Epilepsy, And Craniofacial Dysmorphism	keratinocyte	-0.7918985073576609	1	0
+614501	Psychomotor Retardation, Epilepsy, And Craniofacial Dysmorphism	pericyte cell	0.346335973909332	1	0
+614501	Psychomotor Retardation, Epilepsy, And Craniofacial Dysmorphism	schwann cell	-1.6969113329910002	1	0
+614501	Psychomotor Retardation, Epilepsy, And Craniofacial Dysmorphism	tongue muscle cell	-1.55563626039423	1	0
+614501	Psychomotor Retardation, Epilepsy, And Craniofacial Dysmorphism	vein endothelial cell	0.7743605687586321	1	0
+PS135900	Coffin-Siris syndrome	basal cell	0.309244388753629	3	0
+PS135900	Coffin-Siris syndrome	capillary endothelial cell	-0.4687908637647101	3	0
+PS135900	Coffin-Siris syndrome	endothelial cell of artery	0.8904695726452421	3	0
+PS135900	Coffin-Siris syndrome	endothelial cell of lymphatic vessel	-0.329219477430572	3	0
+PS135900	Coffin-Siris syndrome	epithelial cell	-1.02482901683606	3	0
+PS135900	Coffin-Siris syndrome	fibroblast	-0.726100281518733	3	0
+PS135900	Coffin-Siris syndrome	immune cell	-0.167341151638917	3	0
+PS135900	Coffin-Siris syndrome	keratinocyte	-0.457539102106489	3	0
+PS135900	Coffin-Siris syndrome	pericyte cell	0.921777922102997	3	0
+PS135900	Coffin-Siris syndrome	schwann cell	1.1802127562841	3	0
+PS135900	Coffin-Siris syndrome	tongue muscle cell	-1.35271285130404	3	0
+PS135900	Coffin-Siris syndrome	vein endothelial cell	0.074560078775971	3	0
+PS607596	Pontocerebellar hypoplasia	basal cell	-0.07550607549224449	2	0
+PS607596	Pontocerebellar hypoplasia	capillary endothelial cell	-0.7034383981741575	2	0
+PS607596	Pontocerebellar hypoplasia	endothelial cell of artery	-0.36818667138458505	2	0
+PS607596	Pontocerebellar hypoplasia	endothelial cell of lymphatic vessel	-0.8692577398639675	2	0
+PS607596	Pontocerebellar hypoplasia	epithelial cell	0.2554912040189774	2	0
+PS607596	Pontocerebellar hypoplasia	fibroblast	0.09860883151821354	2	0
+PS607596	Pontocerebellar hypoplasia	immune cell	0.7996670944524148	2	0
+PS607596	Pontocerebellar hypoplasia	keratinocyte	-0.23176082526000907	2	0
+PS607596	Pontocerebellar hypoplasia	pericyte cell	0.7515606389360846	2	0
+PS607596	Pontocerebellar hypoplasia	schwann cell	1.5455143548276	2	0
+PS607596	Pontocerebellar hypoplasia	tongue muscle cell	-0.8696240593030584	2	0
+PS607596	Pontocerebellar hypoplasia	vein endothelial cell	-0.33306835427527204	2	0
+PS609060	Combined oxidative phosphorylation deficiency	basal cell	-0.147116846286234	1	0
+PS609060	Combined oxidative phosphorylation deficiency	capillary endothelial cell	1.94076605255371	1	0
+PS609060	Combined oxidative phosphorylation deficiency	endothelial cell of artery	-0.8785177955366351	1	0
+PS609060	Combined oxidative phosphorylation deficiency	endothelial cell of lymphatic vessel	-1.2397140699687	1	0
+PS609060	Combined oxidative phosphorylation deficiency	epithelial cell	-0.21408175239100002	1	0
+PS609060	Combined oxidative phosphorylation deficiency	fibroblast	0.94637514177909	1	0
+PS609060	Combined oxidative phosphorylation deficiency	immune cell	-0.329434782512144	1	0
+PS609060	Combined oxidative phosphorylation deficiency	keratinocyte	-0.9902117348222009	1	0
+PS609060	Combined oxidative phosphorylation deficiency	pericyte cell	1.5003505031365503	1	0
+PS609060	Combined oxidative phosphorylation deficiency	schwann cell	0.374850437211444	1	0
+PS609060	Combined oxidative phosphorylation deficiency	tongue muscle cell	-0.574075664097296	1	0
+PS609060	Combined oxidative phosphorylation deficiency	vein endothelial cell	-0.38918948906657597	1	0
+PS114580	Familial candidiasis	basal cell	0.842800105224806	1	0
+PS114580	Familial candidiasis	capillary endothelial cell	1.20070278751424	1	0
+PS114580	Familial candidiasis	endothelial cell of artery	-0.303266862187348	1	0
+PS114580	Familial candidiasis	endothelial cell of lymphatic vessel	-0.278886070183657	1	0
+PS114580	Familial candidiasis	epithelial cell	0.0397610765766894	1	0
+PS114580	Familial candidiasis	fibroblast	0.49801193441976704	1	0
+PS114580	Familial candidiasis	immune cell	-0.64537317559885	1	0
+PS114580	Familial candidiasis	keratinocyte	0.23143534456674103	1	0
+PS114580	Familial candidiasis	pericyte cell	-1.34685287476588	1	0
+PS114580	Familial candidiasis	schwann cell	-2.00627624046077	1	0
+PS114580	Familial candidiasis	tongue muscle cell	1.41152147130047	1	0
+PS114580	Familial candidiasis	vein endothelial cell	0.356422503593799	1	0
+PS167200	Pachyonychia congenita	basal cell	1.7216493761918301	1	0
+PS167200	Pachyonychia congenita	capillary endothelial cell	-0.55968111046915	1	0
+PS167200	Pachyonychia congenita	endothelial cell of artery	-0.611052149128575	1	0
+PS167200	Pachyonychia congenita	endothelial cell of lymphatic vessel	-0.47559937587436496	1	0
+PS167200	Pachyonychia congenita	epithelial cell	1.4650754644455002	1	0
+PS167200	Pachyonychia congenita	fibroblast	-0.5369349292837601	1	0
+PS167200	Pachyonychia congenita	immune cell	-0.321480738504246	1	0
+PS167200	Pachyonychia congenita	keratinocyte	1.75339749512696	1	0
+PS167200	Pachyonychia congenita	pericyte cell	-0.477335014907531	1	0
+PS167200	Pachyonychia congenita	schwann cell	-0.6931698489964481	1	0
+PS167200	Pachyonychia congenita	tongue muscle cell	-0.6665149741998261	1	0
+PS167200	Pachyonychia congenita	vein endothelial cell	-0.5983541944003921	1	0
+PS239300	Hyperphosphatasia with mental retardation syndrome	basal cell	0.0159202717999839	1	0
+PS239300	Hyperphosphatasia with mental retardation syndrome	capillary endothelial cell	3.05686622900245	1	1
+PS239300	Hyperphosphatasia with mental retardation syndrome	endothelial cell of artery	-0.18865644226630301	1	0
+PS239300	Hyperphosphatasia with mental retardation syndrome	endothelial cell of lymphatic vessel	-0.0434700469113867	1	0
+PS239300	Hyperphosphatasia with mental retardation syndrome	epithelial cell	-0.0653819173724329	1	0
+PS239300	Hyperphosphatasia with mental retardation syndrome	fibroblast	-0.326017580858326	1	0
+PS239300	Hyperphosphatasia with mental retardation syndrome	immune cell	-0.43121964868492796	1	0
+PS239300	Hyperphosphatasia with mental retardation syndrome	keratinocyte	-0.514908668113683	1	0
+PS239300	Hyperphosphatasia with mental retardation syndrome	pericyte cell	-0.9657499272736371	1	0
+PS239300	Hyperphosphatasia with mental retardation syndrome	schwann cell	-0.163230484634923	1	0
+PS239300	Hyperphosphatasia with mental retardation syndrome	tongue muscle cell	-0.303004820030057	1	0
+PS239300	Hyperphosphatasia with mental retardation syndrome	vein endothelial cell	-0.0711469646567609	1	0
+616260	Tenorio Syndrome	basal cell	-0.6175440750807629	1	0
+616260	Tenorio Syndrome	capillary endothelial cell	2.19367776563434	1	1
+616260	Tenorio Syndrome	endothelial cell of artery	1.0478694156539499	1	0
+616260	Tenorio Syndrome	endothelial cell of lymphatic vessel	-0.43180456026696207	1	0
+616260	Tenorio Syndrome	epithelial cell	-0.6080948506017321	1	0
+616260	Tenorio Syndrome	fibroblast	-0.651068944287844	1	0
+616260	Tenorio Syndrome	immune cell	0.7790832361708349	1	0
+616260	Tenorio Syndrome	keratinocyte	-0.693341925351849	1	0
+616260	Tenorio Syndrome	pericyte cell	-0.685936070143227	1	0
+616260	Tenorio Syndrome	schwann cell	-0.707203330463588	1	0
+616260	Tenorio Syndrome	tongue muscle cell	-0.707203330463588	1	0
+616260	Tenorio Syndrome	vein endothelial cell	1.08156666920043	1	0
+PS213200	Spinocerebellar ataxia, autosomal recessive	basal cell	-0.844072972742802	1	0
+PS213200	Spinocerebellar ataxia, autosomal recessive	capillary endothelial cell	0.5085766976181121	1	0
+PS213200	Spinocerebellar ataxia, autosomal recessive	endothelial cell of artery	2.3225118633094	1	1
+PS213200	Spinocerebellar ataxia, autosomal recessive	endothelial cell of lymphatic vessel	0.810080875508224	1	0
+PS213200	Spinocerebellar ataxia, autosomal recessive	epithelial cell	-1.36463819135805	1	0
+PS213200	Spinocerebellar ataxia, autosomal recessive	fibroblast	-0.30601435027792895	1	0
+PS213200	Spinocerebellar ataxia, autosomal recessive	immune cell	0.588679626355137	1	0
+PS213200	Spinocerebellar ataxia, autosomal recessive	keratinocyte	-1.0211710298635501	1	0
+PS213200	Spinocerebellar ataxia, autosomal recessive	pericyte cell	-0.0298522595829921	1	0
+PS213200	Spinocerebellar ataxia, autosomal recessive	schwann cell	-0.393706999993489	1	0
+PS213200	Spinocerebellar ataxia, autosomal recessive	tongue muscle cell	-0.604733322485555	1	0
+PS213200	Spinocerebellar ataxia, autosomal recessive	vein endothelial cell	0.334340063513495	1	0
+616367	Mandibulofacial Dysostosis With Alopecia	basal cell	-0.325757894903653	1	0
+616367	Mandibulofacial Dysostosis With Alopecia	capillary endothelial cell	-0.35673964940000197	1	0
+616367	Mandibulofacial Dysostosis With Alopecia	endothelial cell of artery	-0.4256367042270561	1	0
+616367	Mandibulofacial Dysostosis With Alopecia	endothelial cell of lymphatic vessel	-0.4256367042270561	1	0
+616367	Mandibulofacial Dysostosis With Alopecia	epithelial cell	-0.344069175606766	1	0
+616367	Mandibulofacial Dysostosis With Alopecia	fibroblast	1.08533643725885	1	0
+616367	Mandibulofacial Dysostosis With Alopecia	immune cell	-0.409802279771796	1	0
+616367	Mandibulofacial Dysostosis With Alopecia	keratinocyte	-0.395716014746014	1	0
+616367	Mandibulofacial Dysostosis With Alopecia	pericyte cell	2.87109240979275	1	1
+616367	Mandibulofacial Dysostosis With Alopecia	schwann cell	-0.4256367042270561	1	0
+616367	Mandibulofacial Dysostosis With Alopecia	tongue muscle cell	-0.4256367042270561	1	0
+616367	Mandibulofacial Dysostosis With Alopecia	vein endothelial cell	-0.421797015715144	1	0
+PS135500	Zimmermann-Laband syndrome	basal cell	-0.03670949499415	1	0
+PS135500	Zimmermann-Laband syndrome	capillary endothelial cell	-0.7840649729271999	1	0
+PS135500	Zimmermann-Laband syndrome	endothelial cell of artery	-1.09297570877172	1	0
+PS135500	Zimmermann-Laband syndrome	endothelial cell of lymphatic vessel	0.0365008579501003	1	0
+PS135500	Zimmermann-Laband syndrome	epithelial cell	-0.10549321278067199	1	0
+PS135500	Zimmermann-Laband syndrome	fibroblast	2.05731017447445	1	1
+PS135500	Zimmermann-Laband syndrome	immune cell	1.85258485360321	1	0
+PS135500	Zimmermann-Laband syndrome	keratinocyte	-0.400281852926474	1	0
+PS135500	Zimmermann-Laband syndrome	pericyte cell	0.24759726089956302	1	0
+PS135500	Zimmermann-Laband syndrome	schwann cell	-0.342160409286154	1	0
+PS135500	Zimmermann-Laband syndrome	tongue muscle cell	-0.444229479358984	1	0
+PS135500	Zimmermann-Laband syndrome	vein endothelial cell	-0.988078015881971	1	0
+PS254800	Epilepsy, progressive myoclonic	basal cell	0.14076844183379902	1	0
+PS254800	Epilepsy, progressive myoclonic	capillary endothelial cell	1.3948668495373797	1	0
+PS254800	Epilepsy, progressive myoclonic	endothelial cell of artery	0.11711119974357001	1	0
+PS254800	Epilepsy, progressive myoclonic	endothelial cell of lymphatic vessel	-1.07779249677659	1	0
+PS254800	Epilepsy, progressive myoclonic	epithelial cell	-0.132531959584447	1	0
+PS254800	Epilepsy, progressive myoclonic	fibroblast	-0.5805334527333629	1	0
+PS254800	Epilepsy, progressive myoclonic	immune cell	-0.364134718425965	1	0
+PS254800	Epilepsy, progressive myoclonic	keratinocyte	-0.46385720272516295	1	0
+PS254800	Epilepsy, progressive myoclonic	pericyte cell	-0.41711577560349894	1	0
+PS254800	Epilepsy, progressive myoclonic	schwann cell	2.46960068263109	1	1
+PS254800	Epilepsy, progressive myoclonic	tongue muscle cell	-0.926474003939085	1	0
+PS254800	Epilepsy, progressive myoclonic	vein endothelial cell	-0.159907563957728	1	0
+616789	Mental Retardation And Distinctive Facial Features With Or Without Cardiac Defects	basal cell	-0.112932690953121	1	0
+616789	Mental Retardation And Distinctive Facial Features With Or Without Cardiac Defects	capillary endothelial cell	0.8720442298250329	1	0
+616789	Mental Retardation And Distinctive Facial Features With Or Without Cardiac Defects	endothelial cell of artery	0.0458806440556403	1	0
+616789	Mental Retardation And Distinctive Facial Features With Or Without Cardiac Defects	endothelial cell of lymphatic vessel	0.7567055513907329	1	0
+616789	Mental Retardation And Distinctive Facial Features With Or Without Cardiac Defects	epithelial cell	-1.6360333198399901	1	0
+616789	Mental Retardation And Distinctive Facial Features With Or Without Cardiac Defects	fibroblast	-0.0431808134997098	1	0
+616789	Mental Retardation And Distinctive Facial Features With Or Without Cardiac Defects	immune cell	-0.553661526532161	1	0
+616789	Mental Retardation And Distinctive Facial Features With Or Without Cardiac Defects	keratinocyte	-1.5541311299562601	1	0
+616789	Mental Retardation And Distinctive Facial Features With Or Without Cardiac Defects	pericyte cell	1.08543658390342	1	0
+616789	Mental Retardation And Distinctive Facial Features With Or Without Cardiac Defects	schwann cell	-0.00548660972815917	1	0
+616789	Mental Retardation And Distinctive Facial Features With Or Without Cardiac Defects	tongue muscle cell	-0.526778527891073	1	0
+616789	Mental Retardation And Distinctive Facial Features With Or Without Cardiac Defects	vein endothelial cell	1.67213760922566	1	0
+PS615419	Hypotonia, infantile, with psychomotor retardation and characteristic facies	basal cell	-0.30148721253993604	1	0
+PS615419	Hypotonia, infantile, with psychomotor retardation and characteristic facies	capillary endothelial cell	-0.0878642990202579	1	0
+PS615419	Hypotonia, infantile, with psychomotor retardation and characteristic facies	endothelial cell of artery	0.8128495540569242	1	0
+PS615419	Hypotonia, infantile, with psychomotor retardation and characteristic facies	endothelial cell of lymphatic vessel	-0.849850972819148	1	0
+PS615419	Hypotonia, infantile, with psychomotor retardation and characteristic facies	epithelial cell	-1.01915155622816	1	0
+PS615419	Hypotonia, infantile, with psychomotor retardation and characteristic facies	fibroblast	1.4208315877573099	1	0
+PS615419	Hypotonia, infantile, with psychomotor retardation and characteristic facies	immune cell	-0.5262345756287511	1	0
+PS615419	Hypotonia, infantile, with psychomotor retardation and characteristic facies	keratinocyte	-0.8552885876928259	1	0
+PS615419	Hypotonia, infantile, with psychomotor retardation and characteristic facies	pericyte cell	1.91295384645579	1	0
+PS615419	Hypotonia, infantile, with psychomotor retardation and characteristic facies	schwann cell	0.44819614532954405	1	0
+PS615419	Hypotonia, infantile, with psychomotor retardation and characteristic facies	tongue muscle cell	-1.2312341713313202	1	0
+PS615419	Hypotonia, infantile, with psychomotor retardation and characteristic facies	vein endothelial cell	0.27628024166083	1	0
+616975	Neurodevelopmental Disorder With Or Without Anomalies Of The Brain, Eye, Or Heart	basal cell	-0.5559837766778349	1	0
+616975	Neurodevelopmental Disorder With Or Without Anomalies Of The Brain, Eye, Or Heart	capillary endothelial cell	1.03764478304878	1	0
+616975	Neurodevelopmental Disorder With Or Without Anomalies Of The Brain, Eye, Or Heart	endothelial cell of artery	-0.0115921889178932	1	0
+616975	Neurodevelopmental Disorder With Or Without Anomalies Of The Brain, Eye, Or Heart	endothelial cell of lymphatic vessel	1.89442781205816	1	0
+616975	Neurodevelopmental Disorder With Or Without Anomalies Of The Brain, Eye, Or Heart	epithelial cell	-1.31684983852051	1	0
+616975	Neurodevelopmental Disorder With Or Without Anomalies Of The Brain, Eye, Or Heart	fibroblast	-0.23776818026865698	1	0
+616975	Neurodevelopmental Disorder With Or Without Anomalies Of The Brain, Eye, Or Heart	immune cell	-0.641621930645952	1	0
+616975	Neurodevelopmental Disorder With Or Without Anomalies Of The Brain, Eye, Or Heart	keratinocyte	-1.30575205654885	1	0
+616975	Neurodevelopmental Disorder With Or Without Anomalies Of The Brain, Eye, Or Heart	pericyte cell	-0.0666638151128096	1	0
+616975	Neurodevelopmental Disorder With Or Without Anomalies Of The Brain, Eye, Or Heart	schwann cell	0.39517213026549297	1	0
+616975	Neurodevelopmental Disorder With Or Without Anomalies Of The Brain, Eye, Or Heart	tongue muscle cell	-0.498295143680911	1	0
+616975	Neurodevelopmental Disorder With Or Without Anomalies Of The Brain, Eye, Or Heart	vein endothelial cell	1.30728220500099	1	0
+617107	Thauvin-robinet-faivre Syndrome	basal cell	-0.0282350082461776	1	0
+617107	Thauvin-robinet-faivre Syndrome	capillary endothelial cell	0.801451715901641	1	0
+617107	Thauvin-robinet-faivre Syndrome	endothelial cell of artery	0.49903558576863705	1	0
+617107	Thauvin-robinet-faivre Syndrome	endothelial cell of lymphatic vessel	1.15903607229107	1	0
+617107	Thauvin-robinet-faivre Syndrome	epithelial cell	0.843715842847251	1	0
+617107	Thauvin-robinet-faivre Syndrome	fibroblast	0.31723168407656704	1	0
+617107	Thauvin-robinet-faivre Syndrome	immune cell	0.0242996817146029	1	0
+617107	Thauvin-robinet-faivre Syndrome	keratinocyte	0.40142377990888106	1	0
+617107	Thauvin-robinet-faivre Syndrome	pericyte cell	-0.39316996277132704	1	0
+617107	Thauvin-robinet-faivre Syndrome	schwann cell	-2.66957245067888	1	0
+617107	Thauvin-robinet-faivre Syndrome	tongue muscle cell	-0.640140801242821	1	0
+617107	Thauvin-robinet-faivre Syndrome	vein endothelial cell	-0.315076139569446	1	0
+617193	Encephalopathy, Progressive, Early-onset, With Brain Atrophy And Thin Corpus Callosum	basal cell	-0.0455221260767151	1	0
+617193	Encephalopathy, Progressive, Early-onset, With Brain Atrophy And Thin Corpus Callosum	capillary endothelial cell	2.51387389289541	1	1
+617193	Encephalopathy, Progressive, Early-onset, With Brain Atrophy And Thin Corpus Callosum	endothelial cell of artery	-0.30102327795606604	1	0
+617193	Encephalopathy, Progressive, Early-onset, With Brain Atrophy And Thin Corpus Callosum	endothelial cell of lymphatic vessel	-0.7896323707209691	1	0
+617193	Encephalopathy, Progressive, Early-onset, With Brain Atrophy And Thin Corpus Callosum	epithelial cell	-0.40259717739010903	1	0
+617193	Encephalopathy, Progressive, Early-onset, With Brain Atrophy And Thin Corpus Callosum	fibroblast	-0.621481120199124	1	0
+617193	Encephalopathy, Progressive, Early-onset, With Brain Atrophy And Thin Corpus Callosum	immune cell	0.7622673628907819	1	0
+617193	Encephalopathy, Progressive, Early-onset, With Brain Atrophy And Thin Corpus Callosum	keratinocyte	-0.5773852854496949	1	0
+617193	Encephalopathy, Progressive, Early-onset, With Brain Atrophy And Thin Corpus Callosum	pericyte cell	-0.20415649926555	1	0
+617193	Encephalopathy, Progressive, Early-onset, With Brain Atrophy And Thin Corpus Callosum	schwann cell	-1.07537995717892	1	0
+617193	Encephalopathy, Progressive, Early-onset, With Brain Atrophy And Thin Corpus Callosum	tongue muscle cell	-0.34669626417517796	1	0
+617193	Encephalopathy, Progressive, Early-onset, With Brain Atrophy And Thin Corpus Callosum	vein endothelial cell	1.08773282262613	1	0
+617303	Mucopolysaccharidosis-plus Syndrome	basal cell	-0.7637286181457441	1	0
+617303	Mucopolysaccharidosis-plus Syndrome	capillary endothelial cell	0.0216528236651029	1	0
+617303	Mucopolysaccharidosis-plus Syndrome	endothelial cell of artery	-0.0209159739625411	1	0
+617303	Mucopolysaccharidosis-plus Syndrome	endothelial cell of lymphatic vessel	1.0181409760731601	1	0
+617303	Mucopolysaccharidosis-plus Syndrome	epithelial cell	-0.425256165446716	1	0
+617303	Mucopolysaccharidosis-plus Syndrome	fibroblast	-0.645135947704798	1	0
+617303	Mucopolysaccharidosis-plus Syndrome	immune cell	0.775317834241391	1	0
+617303	Mucopolysaccharidosis-plus Syndrome	keratinocyte	-0.85177663554504	1	0
+617303	Mucopolysaccharidosis-plus Syndrome	pericyte cell	1.76790871621918	1	0
+617303	Mucopolysaccharidosis-plus Syndrome	schwann cell	-1.92406521580771	1	0
+617303	Mucopolysaccharidosis-plus Syndrome	tongue muscle cell	0.7226566249076691	1	0
+617303	Mucopolysaccharidosis-plus Syndrome	vein endothelial cell	0.325201581506053	1	0
+PS607095	Anauxetic dysplasia	basal cell	0.0457213709380039	1	0
+PS607095	Anauxetic dysplasia	capillary endothelial cell	-0.19320199010562503	1	0
+PS607095	Anauxetic dysplasia	endothelial cell of artery	-0.30398902557275104	1	0
+PS607095	Anauxetic dysplasia	endothelial cell of lymphatic vessel	-0.266960844912618	1	0
+PS607095	Anauxetic dysplasia	epithelial cell	-0.43735865568282395	1	0
+PS607095	Anauxetic dysplasia	fibroblast	-0.332192505621568	1	0
+PS607095	Anauxetic dysplasia	immune cell	-0.24550727033604303	1	0
+PS607095	Anauxetic dysplasia	keratinocyte	-0.322626557723472	1	0
+PS607095	Anauxetic dysplasia	pericyte cell	-0.46343733798401093	1	0
+PS607095	Anauxetic dysplasia	schwann cell	3.13810246114242	1	1
+PS607095	Anauxetic dysplasia	tongue muscle cell	-0.5056748002350421	1	0
+PS607095	Anauxetic dysplasia	vein endothelial cell	-0.11287484390646901	1	0
+618143	Glycosylphosphatidylinositol Biosynthesis Defect 18	basal cell	-0.11079385078729101	1	0
+618143	Glycosylphosphatidylinositol Biosynthesis Defect 18	capillary endothelial cell	-1.2737716289860201	1	0
+618143	Glycosylphosphatidylinositol Biosynthesis Defect 18	endothelial cell of artery	2.8222064629992203	1	1
+618143	Glycosylphosphatidylinositol Biosynthesis Defect 18	endothelial cell of lymphatic vessel	0.48892819061147297	1	0
+618143	Glycosylphosphatidylinositol Biosynthesis Defect 18	epithelial cell	-0.47343545856904795	1	0
+618143	Glycosylphosphatidylinositol Biosynthesis Defect 18	fibroblast	-0.30849906693106605	1	0
+618143	Glycosylphosphatidylinositol Biosynthesis Defect 18	immune cell	-0.20931423269013	1	0
+618143	Glycosylphosphatidylinositol Biosynthesis Defect 18	keratinocyte	-0.385631522290313	1	0
+618143	Glycosylphosphatidylinositol Biosynthesis Defect 18	pericyte cell	-0.00405531231707085	1	0
+618143	Glycosylphosphatidylinositol Biosynthesis Defect 18	schwann cell	-0.7681682869927441	1	0
+618143	Glycosylphosphatidylinositol Biosynthesis Defect 18	tongue muscle cell	-0.0203262018700075	1	0
+618143	Glycosylphosphatidylinositol Biosynthesis Defect 18	vein endothelial cell	0.24286090782299202	1	0
+618268	Trichohepatoneurodevelopmental Syndrome	basal cell	-0.128303620952089	1	0
+618268	Trichohepatoneurodevelopmental Syndrome	capillary endothelial cell	-0.7896292408216541	1	0
+618268	Trichohepatoneurodevelopmental Syndrome	endothelial cell of artery	0.65460808543128	1	0
+618268	Trichohepatoneurodevelopmental Syndrome	endothelial cell of lymphatic vessel	2.19054641081192	1	1
+618268	Trichohepatoneurodevelopmental Syndrome	epithelial cell	-1.23446541766348	1	0
+618268	Trichohepatoneurodevelopmental Syndrome	fibroblast	-0.38790070420253603	1	0
+618268	Trichohepatoneurodevelopmental Syndrome	immune cell	-0.7676131882268129	1	0
+618268	Trichohepatoneurodevelopmental Syndrome	keratinocyte	-0.6389109147669461	1	0
+618268	Trichohepatoneurodevelopmental Syndrome	pericyte cell	-0.829773069690201	1	0
+618268	Trichohepatoneurodevelopmental Syndrome	schwann cell	1.1944642094653999	1	0
+618268	Trichohepatoneurodevelopmental Syndrome	tongue muscle cell	0.17564998990080402	1	0
+618268	Trichohepatoneurodevelopmental Syndrome	vein endothelial cell	0.5613274607143139	1	0
+618276	Neurodegeneration, Childhood-onset, With Cerebellar Atrophy	basal cell	-0.539682566359385	1	0
+618276	Neurodegeneration, Childhood-onset, With Cerebellar Atrophy	capillary endothelial cell	1.05415226264679	1	0
+618276	Neurodegeneration, Childhood-onset, With Cerebellar Atrophy	endothelial cell of artery	0.681884486550197	1	0
+618276	Neurodegeneration, Childhood-onset, With Cerebellar Atrophy	endothelial cell of lymphatic vessel	-0.40963091199626095	1	0
+618276	Neurodegeneration, Childhood-onset, With Cerebellar Atrophy	epithelial cell	-0.659258992154847	1	0
+618276	Neurodegeneration, Childhood-onset, With Cerebellar Atrophy	fibroblast	-0.5974678293617199	1	0
+618276	Neurodegeneration, Childhood-onset, With Cerebellar Atrophy	immune cell	0.0847531842576029	1	0
+618276	Neurodegeneration, Childhood-onset, With Cerebellar Atrophy	keratinocyte	-0.7427154353623241	1	0
+618276	Neurodegeneration, Childhood-onset, With Cerebellar Atrophy	pericyte cell	-0.791874898620737	1	0
+618276	Neurodegeneration, Childhood-onset, With Cerebellar Atrophy	schwann cell	2.58770382640946	1	1
+618276	Neurodegeneration, Childhood-onset, With Cerebellar Atrophy	tongue muscle cell	-0.518383082131131	1	0
+618276	Neurodegeneration, Childhood-onset, With Cerebellar Atrophy	vein endothelial cell	-0.14948004387765	1	0
+618356	Neurodevelopmental Disorder With Central And Peripheral Motor Dysfunction	basal cell	-0.219126603015315	1	0
+618356	Neurodevelopmental Disorder With Central And Peripheral Motor Dysfunction	capillary endothelial cell	-0.0994301017120997	1	0
+618356	Neurodevelopmental Disorder With Central And Peripheral Motor Dysfunction	endothelial cell of artery	-0.6505370004522659	1	0
+618356	Neurodevelopmental Disorder With Central And Peripheral Motor Dysfunction	endothelial cell of lymphatic vessel	-0.178760193202404	1	0
+618356	Neurodevelopmental Disorder With Central And Peripheral Motor Dysfunction	epithelial cell	-0.421380786293911	1	0
+618356	Neurodevelopmental Disorder With Central And Peripheral Motor Dysfunction	fibroblast	-0.518890608275719	1	0
+618356	Neurodevelopmental Disorder With Central And Peripheral Motor Dysfunction	immune cell	-0.590045709622602	1	0
+618356	Neurodevelopmental Disorder With Central And Peripheral Motor Dysfunction	keratinocyte	-0.19340732959533602	1	0
+618356	Neurodevelopmental Disorder With Central And Peripheral Motor Dysfunction	pericyte cell	2.90420440381144	1	1
+618356	Neurodevelopmental Disorder With Central And Peripheral Motor Dysfunction	schwann cell	0.8594395513899309	1	0
+618356	Neurodevelopmental Disorder With Central And Peripheral Motor Dysfunction	tongue muscle cell	-0.6505370004522659	1	0
+618356	Neurodevelopmental Disorder With Central And Peripheral Motor Dysfunction	vein endothelial cell	-0.241528622579451	1	0
+618440	Oculoskeletodental Syndrome	basal cell	-0.6044297328055079	1	0
+618440	Oculoskeletodental Syndrome	capillary endothelial cell	1.49438964049254	1	0
+618440	Oculoskeletodental Syndrome	endothelial cell of artery	0.9704205664051841	1	0
+618440	Oculoskeletodental Syndrome	endothelial cell of lymphatic vessel	-0.0727164653508324	1	0
+618440	Oculoskeletodental Syndrome	epithelial cell	-0.744480952250371	1	0
+618440	Oculoskeletodental Syndrome	fibroblast	-0.574497813609757	1	0
+618440	Oculoskeletodental Syndrome	immune cell	-0.522544930757736	1	0
+618440	Oculoskeletodental Syndrome	keratinocyte	-0.75073380777651	1	0
+618440	Oculoskeletodental Syndrome	pericyte cell	-0.495591716882701	1	0
+618440	Oculoskeletodental Syndrome	schwann cell	-0.336463700585482	1	0
+618440	Oculoskeletodental Syndrome	tongue muscle cell	-0.6021292835316301	1	0
+618440	Oculoskeletodental Syndrome	vein endothelial cell	2.23877819665281	1	1
+PS147060	Hyper-IgE recurrent infection syndrome	basal cell	-0.794680481467787	1	0
+PS147060	Hyper-IgE recurrent infection syndrome	capillary endothelial cell	0.249569137964426	1	0
+PS147060	Hyper-IgE recurrent infection syndrome	endothelial cell of artery	0.0280962541893056	1	0
+PS147060	Hyper-IgE recurrent infection syndrome	endothelial cell of lymphatic vessel	1.4654592165653997	1	0
+PS147060	Hyper-IgE recurrent infection syndrome	epithelial cell	-0.8123684500650541	1	0
+PS147060	Hyper-IgE recurrent infection syndrome	fibroblast	-0.10039226043032701	1	0
+PS147060	Hyper-IgE recurrent infection syndrome	immune cell	-0.478572904259911	1	0
+PS147060	Hyper-IgE recurrent infection syndrome	keratinocyte	-0.9044903197702641	1	0
+PS147060	Hyper-IgE recurrent infection syndrome	pericyte cell	-0.425220707883333	1	0
+PS147060	Hyper-IgE recurrent infection syndrome	schwann cell	-0.37221106959181505	1	0
+PS147060	Hyper-IgE recurrent infection syndrome	tongue muscle cell	-0.309842393949246	1	0
+PS147060	Hyper-IgE recurrent infection syndrome	vein endothelial cell	2.4546539786986097	1	1
+618729	Liang-wang Syndrome	basal cell	1.5438412438751	1	0
+618729	Liang-wang Syndrome	capillary endothelial cell	-0.935226636927791	1	0
+618729	Liang-wang Syndrome	endothelial cell of artery	-1.06545515428268	1	0
+618729	Liang-wang Syndrome	endothelial cell of lymphatic vessel	-1.46625655767786	1	0
+618729	Liang-wang Syndrome	epithelial cell	0.636877204177661	1	0
+618729	Liang-wang Syndrome	fibroblast	-0.25284171841663	1	0
+618729	Liang-wang Syndrome	immune cell	-0.09261183512978301	1	0
+618729	Liang-wang Syndrome	keratinocyte	1.2205586104288202	1	0
+618729	Liang-wang Syndrome	pericyte cell	1.0143265663349499	1	0
+618729	Liang-wang Syndrome	schwann cell	-0.37218890690803996	1	0
+618729	Liang-wang Syndrome	tongue muscle cell	0.689116411526795	1	0
+618729	Liang-wang Syndrome	vein endothelial cell	-0.9201392270005501	1	0
+618732	Poirier-bienvenu Neurodevelopmental Syndrome	basal cell	-0.813669788886284	1	0
+618732	Poirier-bienvenu Neurodevelopmental Syndrome	capillary endothelial cell	-0.370537909156495	1	0
+618732	Poirier-bienvenu Neurodevelopmental Syndrome	endothelial cell of artery	-0.827238739528891	1	0
+618732	Poirier-bienvenu Neurodevelopmental Syndrome	endothelial cell of lymphatic vessel	1.111078000247	1	0
+618732	Poirier-bienvenu Neurodevelopmental Syndrome	epithelial cell	1.65084245987271	1	0
+618732	Poirier-bienvenu Neurodevelopmental Syndrome	fibroblast	0.356112108825542	1	0
+618732	Poirier-bienvenu Neurodevelopmental Syndrome	immune cell	-0.147802058553791	1	0
+618732	Poirier-bienvenu Neurodevelopmental Syndrome	keratinocyte	0.0771501227244214	1	0
+618732	Poirier-bienvenu Neurodevelopmental Syndrome	pericyte cell	-0.958287087853716	1	0
+618732	Poirier-bienvenu Neurodevelopmental Syndrome	schwann cell	-1.51275194184702	1	0
+618732	Poirier-bienvenu Neurodevelopmental Syndrome	tongue muscle cell	1.4809118028143502	1	0
+618732	Poirier-bienvenu Neurodevelopmental Syndrome	vein endothelial cell	-0.0458069686578324	1	0
+618797	Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation	basal cell	1.31834733899782	1	0
+618797	Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation	capillary endothelial cell	0.6905155522570581	1	0
+618797	Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation	endothelial cell of artery	1.13159457579286	1	0
+618797	Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation	endothelial cell of lymphatic vessel	-0.135428423417406	1	0
+618797	Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation	epithelial cell	-1.46182795456799	1	0
+618797	Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation	fibroblast	0.0818366912031174	1	0
+618797	Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation	immune cell	1.26136650630322	1	0
+618797	Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation	keratinocyte	-0.9515884705263691	1	0
+618797	Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation	pericyte cell	0.44333624878630495	1	0
+618797	Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation	schwann cell	-1.4475220730656102	1	0
+618797	Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation	tongue muscle cell	-0.7114794312545251	1	0
+618797	Neurodevelopmental Disorder With Hypotonia, Neonatal Respiratory Insufficiency, And Thermodysregulation	vein endothelial cell	-0.21915056050849102	1	0
+618822	Myopathy, Congenital, With Respiratory Insufficiency And Bone Fractures	basal cell	-0.7697296384578399	1	0
+618822	Myopathy, Congenital, With Respiratory Insufficiency And Bone Fractures	capillary endothelial cell	0.27163323767250697	1	0
+618822	Myopathy, Congenital, With Respiratory Insufficiency And Bone Fractures	endothelial cell of artery	1.22700338690275	1	0
+618822	Myopathy, Congenital, With Respiratory Insufficiency And Bone Fractures	endothelial cell of lymphatic vessel	0.42470640957885103	1	0
+618822	Myopathy, Congenital, With Respiratory Insufficiency And Bone Fractures	epithelial cell	-1.21394728763442	1	0
+618822	Myopathy, Congenital, With Respiratory Insufficiency And Bone Fractures	fibroblast	-0.43079746322871404	1	0
+618822	Myopathy, Congenital, With Respiratory Insufficiency And Bone Fractures	immune cell	0.00489024263301674	1	0
+618822	Myopathy, Congenital, With Respiratory Insufficiency And Bone Fractures	keratinocyte	-1.4283264961689197	1	0
+618822	Myopathy, Congenital, With Respiratory Insufficiency And Bone Fractures	pericyte cell	-0.8466898347064191	1	0
+618822	Myopathy, Congenital, With Respiratory Insufficiency And Bone Fractures	schwann cell	1.94307487745727	1	0
+618822	Myopathy, Congenital, With Respiratory Insufficiency And Bone Fractures	tongue muscle cell	0.655352166225708	1	0
+618822	Myopathy, Congenital, With Respiratory Insufficiency And Bone Fractures	vein endothelial cell	0.162830399726208	1	0
+618823	Myopathy, Congenital Proximal, With Minicore Lesions	basal cell	-0.7697296384578399	1	0
+618823	Myopathy, Congenital Proximal, With Minicore Lesions	capillary endothelial cell	0.27163323767250697	1	0
+618823	Myopathy, Congenital Proximal, With Minicore Lesions	endothelial cell of artery	1.22700338690275	1	0
+618823	Myopathy, Congenital Proximal, With Minicore Lesions	endothelial cell of lymphatic vessel	0.42470640957885103	1	0
+618823	Myopathy, Congenital Proximal, With Minicore Lesions	epithelial cell	-1.21394728763442	1	0
+618823	Myopathy, Congenital Proximal, With Minicore Lesions	fibroblast	-0.43079746322871404	1	0
+618823	Myopathy, Congenital Proximal, With Minicore Lesions	immune cell	0.00489024263301674	1	0
+618823	Myopathy, Congenital Proximal, With Minicore Lesions	keratinocyte	-1.4283264961689197	1	0
+618823	Myopathy, Congenital Proximal, With Minicore Lesions	pericyte cell	-0.8466898347064191	1	0
+618823	Myopathy, Congenital Proximal, With Minicore Lesions	schwann cell	1.94307487745727	1	0
+618823	Myopathy, Congenital Proximal, With Minicore Lesions	tongue muscle cell	0.655352166225708	1	0
+618823	Myopathy, Congenital Proximal, With Minicore Lesions	vein endothelial cell	0.162830399726208	1	0
+PS614675	Bone marrow failure syndrome	basal cell	-0.28209828825898403	1	0
+PS614675	Bone marrow failure syndrome	capillary endothelial cell	1.08424771270868	1	0
+PS614675	Bone marrow failure syndrome	endothelial cell of artery	1.1352821021266999	1	0
+PS614675	Bone marrow failure syndrome	endothelial cell of lymphatic vessel	-0.0900975803121582	1	0
+PS614675	Bone marrow failure syndrome	epithelial cell	-1.7658660621131497	1	0
+PS614675	Bone marrow failure syndrome	fibroblast	-0.451304891924615	1	0
+PS614675	Bone marrow failure syndrome	immune cell	0.7746543084141609	1	0
+PS614675	Bone marrow failure syndrome	keratinocyte	-1.7583309272407202	1	0
+PS614675	Bone marrow failure syndrome	pericyte cell	0.325547101740075	1	0
+PS614675	Bone marrow failure syndrome	schwann cell	-0.31464994064908697	1	0
+PS614675	Bone marrow failure syndrome	tongue muscle cell	0.266478985727963	1	0
+PS614675	Bone marrow failure syndrome	vein endothelial cell	1.07613747978113	1	0

@@ -1,0 +1,201 @@
+		cd1c-positive myeloid dendritic cell	cd4-positive alpha-beta memory t cell	cd8-positive alpha-beta memory t cell	cd8-positive alpha-beta t cell	cd141-positive myeloid dendritic cell	classical monocyte	endothelial cell	erythrocyte	hematopoietic stem cell	innate lymphoid cell	intermediate monocyte	macrophage	mature nk t cell	memory b cell	naive b cell	naive thymus-derived cd4-positive alpha-beta t cell	naive thymus-derived cd8-positive alpha-beta t cell	neutrophil	nk cell	plasma cell	plasmacytoid dendritic cell	platelet	regulatory t cell	type i nk t cell
+612840	Leukocyte Adhesion Deficiency, Type Iii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PS268000	Retinitis pigmentosa	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+222800	Diphosphoglycerate Mutase Deficiency Of Erythrocyte	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+249100	Familial Mediterranean Fever, Ar	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+618999	Autoinflammation, Immune Dysregulation, And Eosinophilia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS276700	Tyrosinemia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+102700	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-negative,b Cell-negative, Nk Cell-negative, Due To Adenosine Deaminase Deficiency	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+609628	Majeed Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+240300	Autoimmune Polyendocrinopathy Syndrome , Type I, With Or Without Reversible Metaphyseal Dysplasia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+269921	Sialuria	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+608013	Gaucher Disease, Perinatal Lethal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS615438	Infantile liver failure syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+133540	Cockayne Syndrome, Type B	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+207750	Apolipoprotein C-ii Deficiency	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+613470	Hemolytic Anemia, Nonspherocytic, Due To Glucose Phosphate Isomerase	0	0	0	0	0	0	0	5	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+616651	Roifman Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+230600	Gm1-gangliosidosis, Type Ii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PS213200	Spinocerebellar ataxia, autosomal recessive	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+272200	Multiple Sulfatase Deficiency	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+253260	Biotinidase Deficiencymultiple Carboxylase Deficiency, Late-onset	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS173900	Polycystic kidney disease	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+607115	Cinca Syndrome	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0
+617746	Sweeney-cox Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+133180	Erythroleukemia, Familial, Susceptibility To	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+153670	Bernard-soulier Syndrome, Benign Autosomal Dominant	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+612387	Sarcoidosis, Susceptibility To, 2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+274000	Thrombocytopenia-absent Radius Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+PS100300	Adams-Oliver syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS309800	Microphthalmia, syndromic	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+615947	Hyperlipoproteinemia, Type Id	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+614592	Bent Bone Dysplasia Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+215140	Hydrops-ectopic Calcification-moth-eaten Skeletal Dysplasia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+202400	Afibrinogenemia, Congenitalhypofibrinogenemia, Congenital, Included	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS225750	Aicardi-Goutieres syndrome	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0
+PS308230	Immunodeficiency with hyper-IgM	0	0	0	0	0	1	0	0	1	2	0	0	0	18	10	0	0	0	0	3	0	0	0	1
+PS115150	Cardiofaciocutaneous syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+208530	Asplenia With Cardiovascular Anomalies	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0
+PS120100	Familial cold autoinflammatory syndrome	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0
+PS145000	Hyperparathyroidism	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PS300345	Microphthalmia, isolated, with coloboma	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+263700	Porphyria, Congenital Erythropoietic	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+616050	Autoinflammation With Infantile Enterocolitis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS211600	Cholestasis, progressive familial intrahepatic	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS608594	Lipodystrophy, congenital generalized	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+615688	Vasculitis, Autoinflammation, Immunodeficiency, And Hematologic Defects Syndrome	0	0	0	0	0	1	0	0	0	0	1	0	0	4	0	0	0	0	0	0	0	0	0	0
+230500	Gm1-gangliosidosis, Type I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+248500	Mannosidosis, Alpha B, Lysosomal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS267700	Hemophagocytic lymphohistiocytosis, familial	0	0	0	2	0	3	0	0	1	2	1	1	3	6	4	0	0	0	40	4	3	2	4	55
+269150	Schinzel-giedion Midface-retraction Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS214100	Peroxisome biogenesis disorder	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS251290	Pseudo-TORCH syndrome	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	1	0	0	0
+610377	Mevalonic Aciduria	0	0	0	0	0	1	0	0	0	1	6	0	0	0	0	0	0	0	0	0	0	0	1	0
+PS256040	Proteosome-associated autoinflammatory syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+616649	Spherocytosis, Type 2	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+612690	Spherocytosis, Type 5	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+300842	Mcleod Syndrome	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+610539	Gaucher Disease, Atypical	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS133100	Erythrocytosis, familial	0	0	0	0	0	1	0	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS218330	Cranioectodermal dysplasia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+615559	Autoimmune Lymphoproliferative Syndrome, Type Iii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS230400	Galactosemia	0	0	0	0	0	1	1	5	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0
+PS607014	Mucopolysaccharidoses	0	0	0	0	0	0	0	0	8	1	1	1	1	0	0	0	0	0	0	4	0	0	0	2
+PS227650	Fanconi anemia	0	0	0	0	0	2	1	1	47	0	1	0	0	1	1	0	0	1	2	1	0	0	0	1
+611881	Glycogen Storage Disease Xii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+612653	Spherocytosis, Type 4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+150550	Periodic Fever, Immunodeficiency, And Thrombocytopenia Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+612714	Exocrine Pancreatic Insufficiency, Dyserythropoietic Anemia, And Calvarial	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+607625	Niemann-pick Disease, Type C2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+613978	Hemoglobin H Disease	0	0	0	0	0	1	0	12	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+252940	Mucopolysaccharidosis Type Iiid	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+611721	Combined Saposin Deficiency	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+603903	Sickle Cell Anemia	0	0	0	0	0	3	2	24	8	1	1	0	0	1	0	0	0	3	1	2	0	3	0	0
+300853	Immunodeficiency, X-linked, With Magnesium Defect, Epstein-barr Virus Infection And Neoplasia	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+616100	Autoimmune Lymphoproliferative Syndrome, Type V	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS135500	Zimmermann-Laband syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS607594	Immunodeficiency, common variable	0	0	0	4	0	2	1	0	3	16	1	0	3	233	104	0	0	0	4	29	10	0	22	2
+256540	Neuraminidase Deficiency With Beta-galactosidase Deficiency	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS206100	Anemia, hypochromic microcytic, with iron overload	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS615952	Autoimmune disease, multisystem, infantile-onset	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+602079	Trimethylaminuria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS224120	Anemia, congenital dyserythropoietic	0	0	0	0	0	0	0	10	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+269920	Infantile Sialic Acid Storage Disorder	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+617303	Mucopolysaccharidosis-plus Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS236680	Hydrolethalus syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS236100	Holoprosencephaly	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+252500	Mucolipidosis Ii Alpha/beta	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+PS244400	Primary ciliary dyskinesia	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	5	0	0	0	0	0	0
+615512	Triosephosphate Isomerase Deficiency	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+613179	Immunodeficiency Due To Purine Nucleoside Phosphorylase Deficiency	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+607616	Niemann-pick Disease, Type B	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS203300	Hermansky-Pudlak syndrome	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	1	0	1	12	0	3
+608971	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-negative,b Cell-positive, Nk Cell-positive	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+PS202700	Neutropenia, severe congenital	0	0	0	0	0	2	0	0	4	1	1	0	0	3	0	0	0	15	1	0	0	0	1	0
+232300	Glycogen Storage Disease Ii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	4	0	0	0	1
+PS607765	Bile acid synthesis defect, congenital	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+231000	Gaucher Disease, Type Iii	0	0	0	0	0	6	1	0	3	1	3	7	0	1	1	0	0	2	0	6	5	0	0	5
+602557	Spondyloepimetaphyseal Dysplasia, Shohat Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+121300	Coproporphyria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+610199	Diabetes Mellitus, Neonatal, With Congenital Hypothyroidism	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+268800	Sandhoff Disease	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	2
+612852	Interleukin 1 Receptor Antagonist Deficiency	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+181000	Sarcoidosis, Susceptibility To, 1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	0
+PS187950	Thrombocythemia	0	0	0	0	0	1	1	0	14	0	2	1	0	0	0	0	0	6	1	8	2	95	0	1
+616084	Sideroblastic Anemia With B-cell Immunodeficiency, Periodic Fevers, And Developmental Delay	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+617388	Autoinflammation With Arthritis And Dyskeratosis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS153100	Lymphatic malformation	0	0	0	3	0	0	11	0	1	1	0	1	2	8	4	0	0	0	1	7	1	1	2	0
+604416	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+607330	Lathosterolosis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS214450	Griscelli syndrome	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	3	1	0	0	0	5
+201100	Acrodermatitis Enteropathica, Zinc-deficiency Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+601859	Autoimmune Lymphoproliferative Syndrome	0	1	1	3	0	0	0	0	1	0	0	0	0	9	7	0	0	1	0	4	2	0	7	0
+300908	Anemia, Nonspherocytic Hemolytic, Due To G6pd Deficiency	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+235700	Hexokinase Deficiency Hemolytic Anemia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+618541	Hypopigmentation, Organomegaly, And Delayed Myelination And Development	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+214500	Chediak-higashi Syndrome	0	0	0	0	0	0	0	1	1	6	1	0	1	0	0	0	0	19	8	3	0	11	0	4
+618440	Oculoskeletodental Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS306955	Heterotaxy, visceral	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	1	0	0	0	0	0	0
+PS300751	Anemia, Sideroblastic	0	0	0	0	0	0	0	7	2	0	1	1	0	0	0	0	0	1	0	2	0	3	0	0
+273395	Tetra-amelia, Autosomal Recessive	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+216360	Coach Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+608885	Stomatin-deficient Cryohydrocytosis With Neurologic Defects	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS235200	Hemochromatosis	0	0	0	1	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0
+243605	Stromme Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+185000	Overhydrated Hereditary Stomatocytosis	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS259700	Osteopetrosis, autosomal recessive	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+618852	Autoinflammation With Episodic Fever And Lymphadenopathy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+257220	Niemann-pick Disease, Type C1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+182900	Spherocytosis, Hereditary	0	0	0	0	0	0	0	79	1	0	0	0	0	1	0	0	0	2	1	0	0	0	1	0
+PS220110	Mitochondrial complex IV deficiency, nuclear-type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+194380	Dehydrated Hereditary Stomatocytosis With Or Without Pseudohyperkalemiaand/or Perinatal Edema	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS208540	Renal-hepatic-pancreatic dysplasia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+219800	Cystinosis, Nephropathic	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+312870	Simpson-golabi-behmel Syndrome, Type 1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+607271	Autoimmune Lymphoproliferative Syndrome, Type Iib	0	1	1	3	0	0	0	0	1	0	0	0	0	9	7	0	0	1	0	4	2	0	7	0
+614470	Ras-associated Autoimmune Lymphoproliferative Syndrome Type Iv, Somatic	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS184255	Spondylometaphyseal dysplasia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+613471	Reynolds Syndrome	0	0	0	0	0	0	1	0	0	0	1	0	0	2	3	0	0	0	1	0	0	0	0	1
+271400	Asplenia, Isolated Congenital	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS208500	Short-rib thoracic dysplasia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+105200	Amyloidosis, Familial Visceral	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+613027	Glycogen Storage Disease Ixc	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+222700	Lysinuric Protein Intolerance	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+605309	Macrocephaly/autism Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+257200	Niemann-pick Disease, Type A	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+617441	Thrombocytopenia, Anemia, And Myelofibrosis	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+185020	Cryohydrocytosis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+231005	Gaucher Disease, Type Iiic	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS231200	Bleeding disorder, platelet-type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+278000	Lysosomal Acid Lipase Deficiency	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+618268	Trichohepatoneurodevelopmental Syndrome	0	0	0	0	0	0	1	3	0	0	0	0	0	0	0	0	0	6	0	0	1	2	1	0
+PS249000	Meckel syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS201000	Carpenter syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+230900	Gaucher Disease, Type Ii	0	0	0	0	0	6	1	0	3	1	3	7	0	1	1	0	0	2	0	6	5	0	0	5
+PS306400	Granulomatous disease, chronic	0	0	0	2	0	18	0	0	8	9	29	13	0	17	7	0	0	112	5	9	6	0	3	3
+205400	Tangier Disease	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+232500	Glycogen Storage Disease Iv	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+314050	Thrombocytopenia With Beta-thalassemia, X-linked	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+610293	Glycosylphosphatidylinositol Deficiency	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+613385	Autoimmune Disease, Multisystem, With Facial Dysmorphism	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+185070	Stormorken Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+602361	Gracile Bone Dysplasia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+617053	Mirage Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+170100	Prolidase Deficiency	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PS212066	Congenital disorders of glycosylation, type II	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+230800	Gaucher Disease, Type I	0	0	0	0	0	6	1	0	3	1	3	7	0	1	1	0	0	2	0	6	5	0	0	5
+228000	Farber Lipogranulomatosis	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+614979	Splenomegaly, Cytopenia, And Vision Loss	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+617068	Portal Hypertension, Noncirrhotic	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+268300	Roberts Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS300755	Immunodeficiency (Select Examples)	0	0	0	1	0	0	0	0	1	2	0	0	0	1	1	0	0	0	0	0	0	0	0	1
+PS607634	Osteopetrosis, autosomal dominant	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS308240	Lymphoproliferative syndrome	0	2	2	6	0	1	0	0	1	8	0	0	8	19	18	0	0	1	19	15	2	1	12	24
+PS256100	Nephronophthisis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+616689	Dehydrated Hereditary Stomatocytosis 2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+603554	Omenn Syndrome	0	1	0	15	0	5	9	1	103	24	5	3	31	43	69	0	0	2	44	17	9	0	15	40
+238600	Hyperlipoproteinemia, Type I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+611804	Elliptocytosis 1	0	0	0	0	0	0	0	17	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+260920	Hyper-igd Syndrome	0	0	0	0	0	1	0	0	0	1	6	0	0	4	2	0	0	0	0	0	0	0	1	0
+606003	Transaldolase Deficiency	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS212065	Congenital disorders of glycosylation, type I	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	0
+230000	Fucosidosis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+604173	Poikiloderma With Neutropenia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+602782	Histiocytosis-lymphadenopathy Plus Syndrome	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+618398	T-cell Lymphoma, Subcutaneous Panniculitis-like	0	0	0	1	0	0	0	0	0	1	0	0	8	1	0	0	0	0	4	0	1	0	0	46
+269600	Sea-blue Histiocyte Disease	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS603041	Mitochondrial DNA depletion syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+256550	Neuraminidase Deficiency	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	2	0	2	0	0
+617394	Sclerosing Cholangitis, Neonatal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+266200	Pyruvate Kinase Deficiency Of Red Cells	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+616452	B-cell Expansion With Nfkb And T-cell Anergy	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+614480	Hypertriglyceridemia, Transient Infantile	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS210250	Sitosterolemia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+618280	Cardiac-urogenital Syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+603909	Autoimmune Lymphoproliferative Syndrome, Type Iia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS613658	Rajab interstitial lung disease with brain calcifications	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+265380	Alveolar Capillary Dysplasia With Misalignment Of Pulmonary Veins	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PS179800	Distal renal tubular acidosis	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PS164280	Feingold syndrome	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+216400	Cockayne Syndrome, Type A	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+618892	Harderoporphyria	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
