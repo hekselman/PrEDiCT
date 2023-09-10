@@ -3,10 +3,10 @@ This GitHub repository includes codes to redo analyses applied in https://www.bi
 
  File name | Language | Methods title 
  ------------- |-------------| -----
- Cell type similarities | R | Determining similar cell types between tissues
- HM_dictionary | Python | Determining similar cell types between tissues
+ Cell type similarities | R | Determining matching cell types between tissues
+ HM_dictionary | Python | Determining matching cell types between mouse and human
  Human expression analysis | R | Human single-cell transcriptomics analysis
- Literature text-mining | Python | Text-mining of PubMed records
+ Literature text-mining | Python | Literature text-mining of PubMed records
  Mouse clustering | R | Annotations of mouse cell clusters
  Mouse expression analysis | R | Mouse single-cell transcriptomics analysis
  Permutation tests | R | Permutation tests for similarity between affected cell types
