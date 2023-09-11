@@ -45,7 +45,7 @@ def predict_scores(tissue):
     normalized, pct, zscores = expression_tables(tissue)
     exp_genes = expressed_genes(tissue)
     wrtr = open("Output\\PrEDiCT score\\" + tissue + ".tsv", "w")
-    wrtr.write("Disease\Phenotypic series accession (OMIM)\tDisease\Phenotypic series name (OMIM)\tCell type\tPrEDiCT score\tNumber of causal genes\tAffected cell type (1=Yes, 0=No)\n")
+    wrtr.write("Disease\Phenotypic series accession (OMIM)\tDisease\Phenotypic series name (OMIM)\tCell type\tPrEDiCT score\tNumber of causal genes\n")
     for dis in diseases:
         intersect_genes = list(set(diseases[dis]) & set(exp_genes))
         if len(intersect_genes) > 0:
@@ -55,11 +55,7 @@ def predict_scores(tissue):
                            dis[1] + "\t" +
                            i[0] + "\t" +
                            str(i[1]) + "\t" +
-                           str(len(intersect_genes)) + "\t")
-                if i[1] >= 2:
-                    wrtr.write("1\n")
-                else:
-                    wrtr.write("0\n")
+                           str(len(intersect_genes)) + "\n")
 
 def all_genes_ct_table():
     '''Write a table with all cell types (columns) and genes (rows). Genes not present in a cell type are counted as 0.'''
@@ -72,6 +68,33 @@ def all_genes_ct_table():
         full_table = pds.concat([full_table, zscores.loc[expressed]], axis=1)
     full_table.fillna(0.0, inplace=True)
     full_table.to_csv("Output\\all_genes_expression.tsv", sep="\t")
+
+def random_PrEDiCT_allT_total(iterations):
+    '''Writes a file the same as PrEDiCT scores with X columns (=iterations) of randomly
+    calculated scores with the number of genes equal to the number of causal genes of the disease.'''
+    tissues = ["Skeletal muscle", "Bone marrow", "Spleen", "Lung", "Trachea", "Tongue"]
+    full_exp = pds.read_csv("Output\\all_genes_expression.tsv", sep="\t")
+    for tissue in tissues:
+        print(tissue)
+        print(datetime.now())
+        exp_genes = expressed_genes(tissue)
+        dis_gene_dics = diseases_dic(tissue)
+        rdr = csv.reader(open("Output\\PrEDiCT score\\" + tissue + ".tsv", "r"), delimiter="\t")
+        wrtr = open("Output\\PrEDiCT_Literature_Random_allT_total\\" + tissue + ".tsv", "w")
+        count = 0
+        for row in rdr:
+            for box in row:
+                wrtr.write(box + "\t")
+            for i in range(0, iterations):
+                if count == 0:
+                    wrtr.write("Random PrEDiCT " + str(i + 1) + "\t")
+                else:
+                    intersect_genes = list(set(dis_gene_dics[(row[0], row[1])]) & set(exp_genes))
+                    rand_z = random.sample(list(full_exp[row[2] + "_" + tissue]), k=len(intersect_genes))
+                    score = float(np.median(rand_z))
+                    wrtr.write(str(score) + "\t")
+            wrtr.write("\n")
+            count += 1
 
 def predict_permutation_allT_total():
     '''Per disease, counts the number of random predict scores that >= true predict scores (divided by n of
