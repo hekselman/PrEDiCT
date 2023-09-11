@@ -61,6 +61,77 @@ def predict_scores(tissue):
                 else:
                     wrtr.write("0\n")
 
+def all_genes_ct_table():
+    '''Write a table with all cell types (columns) and genes (rows). Genes not present in a cell type are counted as 0.'''
+    tissues = ["Skeletal muscle", "Bone marrow", "Spleen", "Lung", "Trachea", "Tongue"]
+    full_table = pds.DataFrame()
+    for tis in tissues:
+        normalized, pct, zscores = expression_tables(tis)
+        expressed = expressed_genes(tis)
+        zscores = zscores.add_suffix("_" + tis)
+        full_table = pds.concat([full_table, zscores.loc[expressed]], axis=1)
+    full_table.fillna(0.0, inplace=True)
+    full_table.to_csv("Output\\all_genes_expression.tsv", sep="\t")
+
+def predict_permutation_allT_total():
+    '''Per disease, counts the number of random predict scores that >= true predict scores (divided by n of
+    randomizations).'''
+    tissues = ["Skeletal muscle", "Bone marrow", "Spleen", "Lung", "Trachea", "Tongue"]
+    for tissue in tissues:
+        print(tissue)
+        rdr = csv.reader(open("Output\\PrEDiCT_Literature_Random_allT_total\\" + tissue + ".tsv", "r"), delimiter="\t")
+        first_row = True
+        p_values = []
+        file = []
+        wrtr = open("Output\\PrEDiCT_Literature_Permutation_allT_total\\" + tissue + ".tsv", "w")
+        for row in rdr:
+            if first_row:
+                first_row = False
+                for box in row[:-1]:
+                    wrtr.write(box + "\t")
+                wrtr.write("P value\n")
+            else:
+                randoms = row[7:-1]
+                randoms = [float(i) for i in randoms]
+                randoms = sum(map(lambda x: x >= float(row[3]), randoms))
+                p = randoms / 1000.0
+                p_values.append(p)
+                file.append(row[:-1] + [str(p)])
+        for n in range(len(file)):
+            for box in file[n][:-1]:
+                wrtr.write(box + "\t")
+            wrtr.write(file[n][-1] + "\n")
+
+def predict_permutation_dis_allT_total():
+    '''Per disease, counts the number of random predict scores that >= true predict scores (divided by n of
+    randomizations). FDR corrected among cell types of each disease'''
+    tissues = ["Skeletal muscle", "Bone marrow", "Spleen", "Lung", "Trachea", "Tongue"]
+    for tissue in tissues:
+        print(tissue)
+        first_row = True
+        rows_dic = {}
+        rdr = csv.reader(open("Output\\PrEDiCT_Literature_Permutation_allT_total\\" + tissue + ".tsv", "r"), delimiter="\t")
+        wrtr = open("Output\\PrEDiCT_Literature_Permutation_allT_total_perDisease\\" + tissue + ".tsv", "w")
+        for row in rdr:
+            if first_row:
+                first_row = False
+                for box in row:
+                    wrtr.write(box + "\t")
+                wrtr.write("FDR_Disease\n")
+            else:
+                if row[0] not in rows_dic:
+                    rows_dic[row[0]] = [row]
+                else:
+                    rows_dic[row[0]] += [row]
+        for dis in rows_dic:
+            p_values = []
+            for row in rows_dic[dis]:
+                p_values.append(float(row[-1]))
+            fdrs = fdr.fdrcorrection(p_values)[1]
+            for n in range(0,len(rows_dic[dis])):
+                for box in rows_dic[dis][n]:
+                    wrtr.write(box + "\t")
+                wrtr.write(str(fdrs[n]) + "\n")
 
 ###Mouse PrEDiCT scores
 def m_diseases_dic(tissue):
