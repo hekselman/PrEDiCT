@@ -9,7 +9,7 @@ This GitHub repository includes codes to redo analyses applied in https://www.bi
  Mouse clustering | R | Annotations of mouse cell clusters
  Mouse expression analysis | R | Mouse single-cell transcriptomics analysis
  Permutation tests | R | Permutation tests for similarity between affected cell types
- PrEDiCT score calculation.py | Python | PrEDiCT score calculation
+ PrEDiCT score calculation.py | Python | PrEDiCT score calculation and significance assessment
 
 Data needed for analyses are available in Data folder. Additionally, Seurat objects for the six human and mouse tissues are available in:
 https://datadryad.org/stash/share/5j6T7Duzcbyx3jNVL_irARhUphpUeW0vuYGTQHofozM .
